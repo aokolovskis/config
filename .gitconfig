@@ -1,0 +1,9 @@
+[user]
+	name = andy matthews
+	email = andy@commadelimited.com
+[core]
+	excludesfile = /users/andymatthews/github/.gitignore_global
+[color]
+	status = auto
+	branch = auto
+

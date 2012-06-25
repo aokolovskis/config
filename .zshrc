@@ -10,6 +10,9 @@ ZSH_THEME="sunshine"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias web3='ssh andy@web3.goba.mobi'
+alias redis='redis-server /usr/local/etc/redis.conf'
+alias useredis='redis-cli'
 
 # Uncomment following line if you want red dots to be displayed while waiting for completion
 COMPLETION_WAITING_DOTS="true"

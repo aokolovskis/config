@@ -14,7 +14,6 @@ alias web3='ssh andy@web3.goba.mobi'
 alias redis='redis-server /usr/local/etc/redis.conf'
 alias useredis='redis-cli'
 alias tree='nocorrect tree'
-alias log='git log --oneline --graph --decorate --color=always'
 alias pwdcp='pwd | tr -d "\n" | pbcopy'
 
 # Uncomment following line if you want red dots to be displayed while waiting for completion

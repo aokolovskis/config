@@ -13,6 +13,9 @@ ZSH_THEME="sunshine"
 alias web3='ssh andy@web3.goba.mobi'
 alias redis='redis-server /usr/local/etc/redis.conf'
 alias useredis='redis-cli'
+alias tree='nocorrect tree'
+alias log='git log --oneline --graph --decorate --color=always'
+alias pwdcp='pwd | tr -d "\n" | pbcopy'
 
 # Uncomment following line if you want red dots to be displayed while waiting for completion
 COMPLETION_WAITING_DOTS="true"
@@ -20,7 +23,7 @@ COMPLETION_WAITING_DOTS="true"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git)
+plugins=(git svn)
 
 source $ZSH/oh-my-zsh.sh
 

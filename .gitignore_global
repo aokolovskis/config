@@ -1,0 +1,6 @@
+# excluding Mac system files
+.DS_store
+# webstorm folders
+.idea
+# node packages
+node_modules

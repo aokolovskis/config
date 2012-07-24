@@ -15,6 +15,7 @@ alias redis='redis-server /usr/local/etc/redis.conf'
 alias useredis='redis-cli'
 alias tree='nocorrect tree'
 alias pwdcp='pwd | tr -d "\n" | pbcopy'
+alias grep='ack'
 
 # Uncomment following line if you want red dots to be displayed while waiting for completion
 COMPLETION_WAITING_DOTS="true"

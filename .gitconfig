@@ -2,7 +2,7 @@
 	name = andy matthews
 	email = andy@commadelimited.com
 [core]
-	excludesfile = /Users/andymatthews/.gitignore_global
+	excludesfile = ~/.gitignore_global
 [color]
 	status = auto
 	branch = auto

@@ -14,3 +14,4 @@ Thumbs.db
 .eclipse
 .idea
 node_modules
+.editorconfig

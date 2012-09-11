@@ -11,7 +11,7 @@ alias useredis='redis-cli'
 alias tree='nocorrect tree'
 alias pwdcp='pwd | tr -d "\n" | pbcopy'
 alias grep='ack'
-alias st='nocorrect subl'
+alias st='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
 alias c='clear'
 
 # Uncomment following line if you want red dots to be displayed while waiting for completion

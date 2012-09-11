@@ -1,0 +1,20 @@
+{
+  "cmd": ["${packages}/JSHint/node_modules/jshint/bin/hint", "$file", "--reporter", "${packages}/JSHint/reporter.js"],
+
+  "file_regex": "file:\\s(.+)\\]",
+  "line_regex": "(\\d+),(\\d+)",
+
+  "selector": "source.js",
+
+  "osx": {
+    "path": "/usr/local/bin"
+  },
+
+  "linux": {
+    "path": "/usr/local/bin"
+  },
+
+  "windows": {
+    "cmd": ["jshint.cmd", "$file"]
+  }
+}

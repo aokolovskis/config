@@ -1,5 +1,4 @@
-# dotfiles
-
-The following files are the dotfiles which comprise my Mac's development environment. It's sparse now but I'll add more files as I feel the need.
+# configurations
+The following is a smattering of the config files that litter my Mac. Help yourself to any of them. Share the love.
 
 Feel free to copy/clone this repository.

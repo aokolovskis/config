@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": 1347395260,
+	"installed_packages":
+	[
+		"ColdFusion",
+		"CSSLint",
+		"Git",
+		"JSHint",
+		"Package Control",
+		"RubyTest",
+		"SCSS",
+		"SideBarEnhancements",
+		"Sublime-JSHint",
+		"SublimeLinter",
+		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://github.com/revolunet/sublimetext-markdown-preview"
+	],
+	"repository_channels":
+	[
+		"https://sublime.wbond.net/repositories.json"
+	]
+}

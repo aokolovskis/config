@@ -1,0 +1,4 @@
+{
+	"last_test_file": "static_pages_spec.rb",
+	"last_test_run": "cd /Users/andymatthews/Sites/code/RailsProjects/sample_app/ && rspec spec/requests/static_pages_spec.rb"
+}

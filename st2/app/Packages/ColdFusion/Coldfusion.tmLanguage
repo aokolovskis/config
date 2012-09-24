@@ -45,8 +45,6 @@
 			</dict>
 			<key>end</key>
 			<string>(&lt;/)((?i:cfscript))(&gt;)(?:\s*\n)?</string>
-			<key>contentName</key>
-			<string>source.cfscript.embedded.cfml</string>
 			<key>name</key>
 			<string>meta.tag.block.cf.script.cfml</string>
 			<key>patterns</key>
@@ -62,6 +60,8 @@
 							<string>punctuation.definition.tag.cf.end.cfml</string>
 						</dict>
 					</dict>
+					<key>contentName</key>
+					<string>source.cfscript.embedded.cfml</string>
 					<key>end</key>
 					<string>(?=&lt;/(?i:cfscript))</string>
 					<key>patterns</key>
@@ -119,107 +119,6 @@
 			</array>
 		</dict>
 
-		<!-- ****** SCRIPT TAG COPIED FROM HTML.tmLanguage FILE **********
-		duplicated here to highlight CF markup inside script elements -->
-		<dict>
-			<key>begin</key>
-			<string>(?:^\s+)?(&lt;)((?i:script))\b(?![^&gt;]*/&gt;)</string>
-			<key>beginCaptures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>name</key>
-					<string>punctuation.definition.tag.html</string>
-				</dict>
-				<key>2</key>
-				<dict>
-					<key>name</key>
-					<string>entity.name.tag.script.html</string>
-				</dict>
-			</dict>
-			<key>end</key>
-			<string>(?&lt;=&lt;/(script|SCRIPT))(&gt;)(?:\s*\n)?</string>
-			<key>endCaptures</key>
-			<dict>
-				<key>2</key>
-				<dict>
-					<key>name</key>
-					<string>punctuation.definition.tag.html</string>
-				</dict>
-			</dict>
-			<key>name</key>
-			<string>meta.tag.block.cf.script.html</string>
-			<key>contentName</key>
-			<string>source.js.embedded.html</string>
-			<key>patterns</key>
-			<array>
-				<dict>
-					<key>include</key>
-					<string>#tag-stuff</string>
-				</dict>
-				<dict>
-					<key>begin</key>
-					<string>(?&lt;!&lt;/(?:script|SCRIPT))(&gt;)</string>
-					<key>captures</key>
-					<dict>
-						<key>1</key>
-						<dict>
-							<key>name</key>
-							<string>punctuation.definition.tag.html</string>
-						</dict>
-						<key>2</key>
-						<dict>
-							<key>name</key>
-							<string>entity.name.tag.script.html</string>
-						</dict>
-					</dict>
-					<key>end</key>
-					<string>(&lt;/)((?i:script))</string>
-					<key>patterns</key>
-					<array>
-						<dict>
-							<key>include</key>
-							<string>#embedded-tags</string>
-						</dict>
-						<dict>
-							<key>captures</key>
-							<dict>
-								<key>1</key>
-								<dict>
-									<key>name</key>
-									<string>punctuation.definition.comment.js</string>
-								</dict>
-							</dict>
-							<key>match</key>
-							<string>(//).*?((?=&lt;/script)|$\n?)</string>
-							<key>name</key>
-							<string>comment.line.double-slash.js</string>
-						</dict>
-						<dict>
-							<key>begin</key>
-							<string>/\*</string>
-							<key>captures</key>
-							<dict>
-								<key>0</key>
-								<dict>
-									<key>name</key>
-									<string>punctuation.definition.comment.js</string>
-								</dict>
-							</dict>
-							<key>end</key>
-							<string>\*/|(?=&lt;/script)</string>
-							<key>name</key>
-							<string>comment.block.js</string>
-						</dict>
-						<dict>
-							<key>include</key>
-							<string>source.js</string>
-						</dict>
-					</array>
-				</dict>
-			</array>
-		</dict>
-
 
 		<!-- CFSET|CFRETURN -->
 		<dict>
@@ -270,7 +169,7 @@
 						(cf(queryparam|location|forward|import|param|break|abort|flush
 							|setting|test|dump|content|include|catch|continue
 							|file|log|object|invoke|throw|property|htmlhead
-							|header|argument|exit)
+							|header|argument|exit|trace)
 						)
 						\b
 					)
@@ -384,6 +283,14 @@
 					<array>
 						<dict>
 							<key>include</key>
+							<string>#string-double-quoted</string>
+						</dict>
+						<dict>
+							<key>include</key>
+							<string>#string-single-quoted</string>
+						</dict>
+						<dict>
+							<key>include</key>
 							<string>#embedded-tags</string>
 						</dict>
 						<dict>
@@ -487,7 +394,7 @@
 
 		<dict>
 			<key>include</key>
-			<string>text.html.basic</string>
+			<string>text.html.coldfusion</string>
 		</dict>
 	</array>
 
@@ -517,6 +424,10 @@
 				<dict>
 					<key>include</key>
 					<string>#cfoutput</string>
+				</dict>
+				<dict>
+					<key>include</key>
+					<string>#cfmail</string>
 				</dict>
 			</array>
 		</dict>
@@ -796,6 +707,9 @@
 					</dict>
 					<key>end</key>
 					<string>(?=&lt;/(?i:cfoutput))</string>
+					<!-- Scope allows highlighting illegal unescaped hashes and fine-grained highlighting of embedded hashes, variables and functions -->
+					<key>contentName</key>
+					<string>meta.scope.between-output-tags.cfml</string>
 					<key>patterns</key>
 					<array>
 						<dict>
@@ -811,6 +725,90 @@
 			</array>
 		</dict>
 		<!-- /cfoutput -->
+
+		<!-- cfmail -->
+		<key>cfmail</key>
+		<dict>
+			<key>begin</key>
+			<string>(?:^\s+)?(&lt;)((?i:cfmail))\b(?![^&gt;]*/&gt;)</string>
+			<key>captures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>meta.tag.block.cf.mail.cfml</string>
+				</dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.tag.cf.begin.cfml</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>entity.name.tag.cf.mail.cfml</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.tag.cf.end.cfml</string>
+				</dict>
+			</dict>
+			<key>end</key>
+			<string>(&lt;/)((?i:cfmail))(&gt;)(?:\s*\n)?</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>begin</key>
+					<string>(?&lt;=cfmail)\s</string>
+					<key>end</key>
+					<string>(?=&gt;)</string>
+					<key>name</key>
+					<string>meta.tag.block.cf.mail.cfml</string>
+					<key>patterns</key>
+					<array>
+						<dict>
+							<key>include</key>
+							<string>#tag-stuff</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>begin</key>
+					<string>(&gt;)</string>
+					<key>beginCaptures</key>
+					<dict>
+						<key>0</key>
+						<dict>
+							<key>name</key>
+							<string>meta.tag.block.cf.mail.cfml</string>
+						</dict>
+						<key>1</key>
+						<dict>
+							<key>name</key>
+							<string>punctuation.definition.tag.cf.end.cfml</string>
+						</dict>
+					</dict>
+					<key>end</key>
+					<string>(?=&lt;/(?i:cfmail))</string>
+					<!-- Added scope to allow highlighting illegal unescaped hashes -->
+					<key>contentName</key>
+					<string>meta.scope.between-mail-tags.cfml</string>
+					<key>patterns</key>
+					<array>
+						<dict>
+							<key>include</key>
+							<string>#nest-hash</string>
+						</dict>
+						<dict>
+							<key>include</key>
+							<string>text.html.cfm</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<!-- /cfmail -->
 
 <!-- /ends embedded tags -->
 <!-- ************************************************************************** -->
@@ -1187,9 +1185,57 @@
 					<key>name</key>
 					<string>string.escaped.hash.cfml</string>
 				</dict>
+				<!-- Match single illegal unescaped hash -->
+				<dict>
+					<key>match</key>
+					<string>(?x)
+							(\#)
+							(?!		# zero width negative lookahead assertion
+								(
+									([\w$]+	# assertion for plain variables or function names including currency symbol "$"
+										(
+											(\[.*\])				# asserts a match for anything in square brackets
+											|
+											(\(.*\))				# or anything in parens
+											|
+											(\.[\w$]+)*				# or zero or more "dot" notated variables
+											|
+											(\s*[\+\-\*\/&amp;]\s*[\w$]+)	# or simple arithmentic operators + concatenation
+											|
+											(\s*&amp;\s*["|'].+["|']) 	# or concatenation with a quoted string
+										)*		# asserts preceeding square brackets, parens, dot notated vars or arithmetic zero or more times
+									)
+									|
+									(\(.*\))	 # asserts a match for anything in parens
+								)\#		# asserts closing hash
+							)</string>
+					<key>name</key>
+					<string>invalid.illegal.unescaped.hash.cfml</string>
+				</dict>
+				<!-- Match the start of interpolated hashes but ignore single hashes that are unmatched -->
 				<dict>
 					<key>begin</key>
-					<string>(#)</string>
+					<string>(?x)
+							(\#)
+							(?=		# zero width negative lookahead assertion
+								(
+									([\w$]+	# assertion for plain variables or function names including currency symbol "$"
+										(
+											(\[.*\])				# asserts a match for anything in square brackets
+											|
+											(\(.*\))				# or anything in parens
+											|
+											(\.[\w$]+)*				# or zero or more "dot" notated variables
+											|
+											(\s*[\+\-\*\/&amp;]\s*[\w$]+)	# or simple arithmentic operators + concatenation
+											|
+											(\s*&amp;\s*["|'].+["|']) 	# or concatenation with a quoted string
+										)*		# asserts preceeding square brackets, parens, dot notated vars or arithmetic zero or more times
+									)
+									|
+									(\(.*\))	 # asserts a match for anything in parens
+								)\#		# asserts closing hash
+							)</string>
 					<key>beginCaptures</key>
 					<dict>
 						<key>1</key>
@@ -1209,6 +1255,8 @@
 						</dict>
 					</dict>
 					<key>contentName</key>
+					<string>source.cfscript.embedded.cfml</string>
+-					<key>name</key>
 					<string>meta.name.interpolated.hash.cfml</string>
 					<key>patterns</key>
 					<array>

@@ -5,9 +5,8 @@ ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="sunshine"
 
 # Example aliases
-alias web3='ssh andy@web3.goba.mobi'
+#alias web3='ssh andy@web3.goba.mobi'
 alias redis='redis-server /usr/local/etc/redis.conf'
-alias useredis='redis-cli'
 alias tree='nocorrect tree'
 alias pwdcp='pwd | tr -d "\n" | pbcopy'
 alias grep='ack'
@@ -37,15 +36,12 @@ function server(){
 	open "http://localhost:${port}/"
 	python -m SimpleHTTPServer "$port"
 }
-function jqmbp(){
-	git clone https://github.com/commadelimited/jQuery-Mobile-Boilerplate.git .
-	server
-}
 function md(){
 	mkdir $1 && cd $1
 }
-function to(){
-	touch $1 && st $1
+function startEmma(){
+	cd ~/VirtualMachines/Emma.vagrant
+	vagrant up
 }
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting

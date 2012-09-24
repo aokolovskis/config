@@ -1,0 +1,2961 @@
+{
+	"folder_history":
+	[
+		"/Users/andymatthews/Dropbox/Development/code/Ember/gallery",
+		"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2",
+		"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book",
+		"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery",
+		"/Users/andymatthews/Dropbox/Development/code/xkcd-1110",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book",
+		"/Users/andymatthews/Desktop/regatta",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/libs",
+		"/Users/andymatthews/Desktop/temp",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha1",
+		"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC",
+		"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net",
+		"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/InfoWeNeed",
+		"/Users/andymatthews/Dropbox/github/CFDirectoryLister",
+		"/Users/andymatthews/Dropbox/github",
+		"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app",
+		"/Users/andymatthews/Desktop/bridgeclub/dist",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website",
+		"/Users/andymatthews/Dropbox/Development/_oldsites/tinaadamsconsulting",
+		"/Users/andymatthews/Dropbox/github/yeoman",
+		"/Users/andymatthews/Desktop/coderfaire",
+		"/Users/andymatthews/Dropbox/Writing/Presentations/Going Deeper with jQuery Mobile - Nashville",
+		"/Users/andymatthews/Desktop/bridgeclub",
+		"/Users/andymatthews/Dropbox/Writing/Articles/Yeoman At Your Service: Tooling and Frameworks for Beautiful Web Applications",
+		"/Users/andymatthews/Desktop/bridgeclub/app",
+		"/Users/andymatthews/Dropbox/Development/code/steveharvey",
+		"/Users/andymatthews/Dropbox/github/autoComplete.js",
+		"/Users/andymatthews/Dropbox/Development/code/goba",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code",
+		"/Users/andymatthews/Desktop/radio",
+		"/Users/andymatthews/Dropbox/Writing/Blog Posts/ember-router-example-part-02",
+		"/Users/andymatthews/Dropbox/Development/clients",
+		"/Users/andymatthews/Dropbox/Writing/Blog Posts/ember-router-example-part-01",
+		"/Users/andymatthews/Dropbox/Development/code/Ember/Router",
+		"/Users/andymatthews/Dropbox/github/fastbook.mobi",
+		"/Users/andymatthews/Dropbox/Development/code/bookmark-bubble",
+		"/Users/andymatthews/Dropbox/Development/code/wikipedia",
+		"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Boilerplate",
+		"/Users/andymatthews/Dropbox/github/fastbook.mobi/includes",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/admin",
+		"/Users/andymatthews/Dropbox/Development/clients/rmh/recyclen",
+		"/Users/andymatthews/Dropbox/Development/code/goba/images",
+		"/Users/andymatthews/Dropbox/Writing/Blog Posts/2012-08-08-ember-router-example",
+		"/Users/andymatthews/Desktop/compress-images.workflow",
+		"//",
+		"/Users/andymatthews/Dropbox/Development/www/js/vendor",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/prince/global/style",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/book",
+		"/Users/andymatthews/Dropbox/github/goba-core/templates/goba/message/email",
+		"/Users/andymatthews/Dropbox/github/jquery.jqmts.js",
+		"/Users/andymatthews/Dropbox/github/jquery.swipeButton.js",
+		"/Users/andymatthews/Dropbox/github/textCounter.js",
+		"/Users/andymatthews/github/jquery.jqmts.js/src"
+	],
+	"last_window_id": 1240,
+	"settings":
+	{
+		"new_window_height": 758.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"step",
+						"step	@step"
+					],
+					[
+						"fil",
+						"fil	Filename"
+					],
+					[
+						"galler",
+						"galleryArray"
+					],
+					[
+						"application",
+						"ApplicationController"
+					],
+					[
+						"poi",
+						"pointer"
+					],
+					[
+						"se",
+						"separate"
+					],
+					[
+						"padd",
+						"padding	zen:css_properties"
+					],
+					[
+						"bor",
+						"border-box"
+					],
+					[
+						"widt",
+						"width	zen:css_properties"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"line-he",
+						"line-height	zen:css_properties"
+					],
+					[
+						"max",
+						"max-width	zen:css_properties"
+					],
+					[
+						"conn",
+						"connectOutlet"
+					],
+					[
+						"connect",
+						"connectOutlets"
+					],
+					[
+						"connec",
+						"connectOutlet"
+					],
+					[
+						"about",
+						"aboutController"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"applica",
+						"ApplicationController"
+					],
+					[
+						"Nav",
+						"NavbarView"
+					],
+					[
+						"Application",
+						"ApplicationController"
+					],
+					[
+						"books",
+						"booksController"
+					],
+					[
+						"rela",
+						"relative"
+					],
+					[
+						"Rou",
+						"Route"
+					],
+					[
+						"tem",
+						"templateName"
+					],
+					[
+						"remember",
+						"remember_token"
+					],
+					[
+						"out",
+						"outputClass"
+					],
+					[
+						"test",
+						"testing"
+					],
+					[
+						"pull",
+						"pullQuote"
+					],
+					[
+						"al",
+						"alert-error"
+					],
+					[
+						"sig",
+						"signin_path"
+					],
+					[
+						"su",
+						"submit"
+					],
+					[
+						"sign",
+						"signup_path"
+					],
+					[
+						"grava",
+						"gravatar_url"
+					],
+					[
+						"gr",
+						"gravatar_for"
+					],
+					[
+						"user",
+						"user_for_invalid_password"
+					],
+					[
+						"pas",
+						"password"
+					],
+					[
+						"pass",
+						"password_confirmation"
+					],
+					[
+						"be",
+						"be_valid"
+					],
+					[
+						"us",
+						"user"
+					],
+					[
+						"should",
+						"should_not"
+					],
+					[
+						"radios",
+						"radios2"
+					],
+					[
+						"have",
+						"have_selector"
+					],
+					[
+						"use",
+						"useNativeMenu"
+					],
+					[
+						"sort",
+						"sortKeys"
+					],
+					[
+						"attri",
+						"attributes"
+					],
+					[
+						"pos",
+						"post"
+					],
+					[
+						"post",
+						"post_path"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"style",
+						"style"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"cfpara",
+						"CFPARAM"
+					],
+					[
+						"bol",
+						"border-left"
+					],
+					[
+						"font-we",
+						"font-weight"
+					],
+					[
+						"e",
+						"extend"
+					],
+					[
+						"content",
+						"contentBinding"
+					],
+					[
+						"list",
+						"list	list-style: type position image"
+					],
+					[
+						"crea",
+						"createTodo"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"SearchReul",
+						"searchResult"
+					],
+					[
+						"Search",
+						"searchResults"
+					],
+					[
+						"Backbo",
+						"Backbone"
+					],
+					[
+						"fo",
+						"for"
+					],
+					[
+						"backgr",
+						"background	background-color: hex"
+					],
+					[
+						"Fav",
+						"FavoritesView"
+					],
+					[
+						"ren",
+						"renderItem"
+					],
+					[
+						"b",
+						"bind"
+					],
+					[
+						"favo",
+						"favorites"
+					],
+					[
+						"Vi",
+						"View"
+					],
+					[
+						"Mode",
+						"Model"
+					],
+					[
+						"SearchResultV",
+						"SearchResultView"
+					],
+					[
+						"SearchRes",
+						"SearchResultsView"
+					],
+					[
+						"SearchRe",
+						"SearchResultsView"
+					],
+					[
+						"search",
+						"searchResults"
+					],
+					[
+						"Sear",
+						"SearchView"
+					],
+					[
+						"return",
+						"returnStruct"
+					],
+					[
+						"abo",
+						"abort: abort"
+					],
+					[
+						"ra",
+						"rates"
+					],
+					[
+						"his",
+						"historical"
+					],
+					[
+						"returnD",
+						"returnData"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"paddin",
+						"padding: padding: T R B L"
+					],
+					[
+						"no",
+						"notesObj"
+					],
+					[
+						"notes",
+						"notesObj"
+					],
+					[
+						"h4",
+						"h4"
+					],
+					[
+						"h",
+						"html: html"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"sc",
+						"script"
+					],
+					[
+						"displ",
+						"display: display: inline"
+					],
+					[
+						"rest",
+						"restfulApp"
+					],
+					[
+						"pageU",
+						"pageUrl"
+					],
+					[
+						"restfulP",
+						"restfulPageUrl"
+					],
+					[
+						"restful",
+						"restfulUrl"
+					],
+					[
+						"ani",
+						"animal"
+					],
+					[
+						"restfulU",
+						"restfulUrl"
+					],
+					[
+						"restfu",
+						"restfulPageUrl"
+					],
+					[
+						"resul",
+						"restfulUrl"
+					],
+					[
+						"lef",
+						"left"
+					],
+					[
+						"ali",
+						"align"
+					],
+					[
+						"send",
+						"sendResponse"
+					],
+					[
+						"backgroun",
+						"background: background-attachment: scroll/fixed"
+					],
+					[
+						"sr",
+						"src"
+					],
+					[
+						"l",
+						"log"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"sock",
+						"socket"
+					],
+					[
+						"file_s",
+						"file_size"
+					],
+					[
+						"file_",
+						"file_path"
+					],
+					[
+						"re",
+						"response"
+					],
+					[
+						"file",
+						"file_path"
+					],
+					[
+						"ht",
+						"html: html"
+					],
+					[
+						"we",
+						"websocket"
+					],
+					[
+						"d",
+						"dd"
+					],
+					[
+						"text",
+						"text: text-align: left/center/right"
+					]
+				]
+			},
+			"build_system": "Packages/JSHint/JSHint.sublime-build",
+			"command_palette":
+			{
+				"height": 248.0,
+				"selected_items":
+				[
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"coldfus",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"li",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"javascrip",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"zen",
+						"Set Syntax: ZenCoding"
+					],
+					[
+						"hmlt",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"JS L",
+						"JSHint: Linter"
+					],
+					[
+						"JS H",
+						"JSHint"
+					],
+					[
+						"JS ",
+						"JSHint: Linter"
+					],
+					[
+						"JSH",
+						"JSHint"
+					],
+					[
+						"Js",
+						"JSHint"
+					],
+					[
+						"jslin",
+						"JSHint: Linter"
+					],
+					[
+						"hmtl",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"lint",
+						"CSSLint: Run CSSLint"
+					],
+					[
+						"cssli",
+						"CSSLint: Run CSSLint"
+					],
+					[
+						"zen ",
+						"Zen Coding: Zen as you type"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"coldfu",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pm",
+						"Set Syntax: PML"
+					],
+					[
+						"snippet",
+						"Snippet: html"
+					],
+					[
+						"tweet",
+						"Tweet"
+					],
+					[
+						"twitt",
+						"Twitter timeline"
+					],
+					[
+						"twi",
+						"Twitter timeline"
+					],
+					[
+						"twitter",
+						"Twitter timeline"
+					],
+					[
+						"time",
+						"Twitter timeline"
+					],
+					[
+						"Install page",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Discover Packages"
+					],
+					[
+						"p",
+						"Preferences: Browse Packages"
+					],
+					[
+						"snippet	",
+						"Snippet: &ldots;"
+					],
+					[
+						"snippet edi",
+						"Snippet: Editor"
+					],
+					[
+						"snippet do",
+						"Snippet: Description List"
+					],
+					[
+						"sni",
+						"Snippet: Filename"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"Snippet: lo",
+						"Snippet: for (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"dust",
+						"Set Syntax: Dust.js Template"
+					],
+					[
+						"blame",
+						"Set Syntax: Git Blame"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pack",
+						"Package Control: Add Channel"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 340.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-03.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-01.js",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-final.js",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-01.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-02.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-final.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/WORKING.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/WORKING.js",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/metamorph-example.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/BuildingTheHomePage.pml",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/book.xml",
+				"/Users/andymatthews/Dropbox/Development/code/xkcd-1110/index.html",
+				"/Users/andymatthews/Dropbox/Development/code/xkcd-1110/index.cfm",
+				"/Users/andymatthews/Desktop/index.html",
+				"/Users/andymatthews/Dropbox/Development/xkcd-1110.cfm",
+				"/Users/andymatthews/Desktop/xkcd-1108.html",
+				"/Users/andymatthews/Dropbox/Development/xkcd-1110.html",
+				"/Users/andymatthews/Dropbox/Development/test.cfm",
+				"/Users/andymatthews/Desktop/regatta/index.html",
+				"/Users/andymatthews/Desktop/regatta/w.css",
+				"/Users/andymatthews/Desktop/regatta/results.json",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/BuildingTheHomePage.pml",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/GettingStartedWithEmberJs.pml",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/TableOfContents.txt",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/book.pml",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/openExchangeRateCFC.cfc",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/index.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/Application.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/test.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/,",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/cha2-app.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/cha2-app.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/cha2-app-final.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/cha2-app-final.html",
+				"/Users/andymatthews/Downloads/jrnl.sql",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/com/jrnl/stats.cfc",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/Application.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/.htaccess",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/index.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/displayPosts.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/sitemap.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/OnRequestEnd.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/_http.ini",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/index.html",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/js/application.js",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/.sass-cache/100b527c542b6ad76c032f7dc32d1f5e9c74941b/_inline-block.scssc",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/application.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/index.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/main.css",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha1/cha1-app.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/bootstrap.min.css",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/GettingStartedWithEmberJs.pml",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha1/cha1-app.js",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha1/cha1-boilerplate.html",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/css/main.css",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/css/main.scss",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/data/galleries.json",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/working/index.html",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/working/js/application.js",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/working/js/application-min.js",
+				"/Users/andymatthews/.vimrc",
+				"/Users/andymatthews/Dropbox/github/config/zsh/.zshrc",
+				"/Users/andymatthews/Desktop/untitled.css",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/andymatthews/Dropbox/github/ember.js/component.json",
+				"/Users/andymatthews/Dropbox/Writing/Blog Posts/2012-09-10-yeoman.html",
+				"/Users/andymatthews/Dropbox/Writing/Blog Posts/yeoman.html",
+				"/Users/andymatthews/Dropbox/Writing/Blog Posts/2012-09-10-divvy.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/book-screen.fo",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/snippets.txt",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/andymatthews/Documents/workspace/code/templates/goba/assets/css/theme.css",
+				"/Users/andymatthews/Documents/workspace/code/templates/goba/assets/css/structure.css",
+				"/Users/andymatthews/Documents/workspace/code/templates/goba/web/privacy.html",
+				"/Users/andymatthews/Documents/workspace/code/templates/goba/assets/css/homepage.css",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/fizzbuzz.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/index.cfm",
+				"/Users/andymatthews/Dropbox/github/CFDirectoryLister/README.md",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/server.cfm",
+				"/Users/andymatthews/Dropbox/github/CFDirectoryLister/index.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/index.php",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/_index.cfm",
+				"/Users/andymatthews/Dropbox/github/CFDirectoryList/README.md",
+				"/Users/andymatthews/Dropbox/github/CFDirectoryList/LICENSE-GPL",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/js/Application.js",
+				"/Users/andymatthews/Downloads/Koloria-Icon-Set/Error.png",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/Herd-Killing-The-Future-Sound-of-London.mp3",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/photos.html",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/.editorconfig",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/.gitattributes",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/.gitignore",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/config.rb",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/css/main.scss",
+				"/Users/andymatthews/Dropbox/Development/code/goba/css/theme.scss",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/index.cfm",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/js/application.js",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/js/vendor/supersized.3.2.7.js",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/data/data.cfm",
+				"/Users/andymatthews/Dropbox/github/yeoman/readme.md",
+				"/Users/andymatthews/Dropbox/github/yeoman.io/index.html",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/.htaccess",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/views/contact.cfm",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/views/about.cfm",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/data/photos.json",
+				"/Users/andymatthews/Desktop/bridgeclub/dist/scripts/840e89f0.amd-app.js",
+				"/Users/andymatthews/Desktop/bridgeclub/dist/scripts/c045fe6e.plugins.js",
+				"/Users/andymatthews/Desktop/bridgeclub/dist/scripts/650f0fa1.main.js",
+				"/Users/andymatthews/Desktop/bridgeclub/dist/scripts/0786eab6.app.js",
+				"/Users/andymatthews/Desktop/reminder.html",
+				"/Users/andymatthews/Desktop/welcome.html",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/index.html",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/test.cfm",
+				"/Users/andymatthews/Dropbox/Development/frameworks/assorted/supersized.3.2.7.js",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/js/application-min.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/CreatingApplicationStructure.pml",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha1-app.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha1-app.js",
+				"/Users/andymatthews/Desktop/faq/index.html",
+				"/Users/andymatthews/Desktop/faq.html",
+				"/Users/andymatthews/Dropbox/Development/_oldsites/tinaadamsconsulting/payment.php",
+				"/Users/andymatthews/Dropbox/Development/_oldsites/tinaadamsconsulting/assets/Application.js",
+				"/Users/andymatthews/Dropbox/Development/_oldsites/tinaadamsconsulting/assets/Application-min.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/InfoWeNeed/BookInfo.txt",
+				"/Users/andymatthews/Dropbox/Writing/Articles/Yeoman At Your Service: Tooling and Frameworks for Beautiful Web Applications/article.txt",
+				"/Users/andymatthews/Dropbox/github/yeoman/docs/cli/commands/init.md"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"<open files>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\\t",
+					"galleryControllerCreate",
+					"All",
+					"}),",
+					"App.Gallery.create(",
+					".png\"></td>",
+					"<td><img src=\"fixed.gif\" class=\"npc\" title=\"click to enlarge\"></td>",
+					" class=\"npc\"",
+					"<td><img src=\"fixed.gif\"></td>",
+					"<tr class=\".+\">",
+					"<tr ",
+					"black",
+					"row\\dn",
+					"		\n",
+					"broken",
+					"19n",
+					"18n",
+					"17n",
+					"16n",
+					"15n",
+					"14n",
+					"13n",
+					"12n",
+					"11n",
+					"10n",
+					"9n",
+					"1n",
+					"</tr><tr",
+					"</td><td>",
+					"\\t",
+					"\\n",
+					"broken",
+					"<td><img src=\"(.+)\" /></td>",
+					"asd",
+					"<td><img src=\"(.+)\" /></td>",
+					"asd",
+					"<td><img src=\"broken.gif\" /></td>",
+					"<td><img src=\"(.+)\" /></td>",
+					"asd",
+					"<td><img src=\"(.+)\" /></td>",
+					"Failed to load resource: the server responded with a status of 404 (Not Found) ",
+					"<td>(.+)</td>",
+					"<td>{.+)</td>",
+					"7s",
+					"6s",
+					"5s",
+					"4s",
+					"3s",
+					"2s",
+					"1s",
+					"8n",
+					"7n",
+					"6n",
+					"5n",
+					"4n",
+					"3n",
+					"2n",
+					"1n",
+					"\" /></td>",
+					"<img src=\"http://imgs.xkcd.com/clickdrag/",
+					" width=\"256\" height=\"256\"",
+					"   Sending        /Users/andymatthews/Documents/workspace/code",
+					"   Adding         /Users/andymatthews/Documents/workspace/code",
+					"cha2-app.js",
+					"If you recall",
+					"the a",
+					"client_id",
+					"App([\\. ])?",
+					"\\t",
+					"Sending        /Users/andymatthews/Documents/workspace/code",
+					"site",
+					"dsn",
+					"code/cha1",
+					"include",
+					"Contributor",
+					"contributors",
+					"Contributors",
+					"  ",
+					"showContributor",
+					"  ",
+					"[ \\t]+$",
+					"  ",
+					"	    ",
+					" ",
+					"\\n",
+					"&",
+					"h1",
+					"h\\d>",
+					"h2",
+					"<a name.*",
+					"list-style",
+					"h3",
+					":",
+					"CFDirectoryList",
+					"^",
+					"\\.png",
+					"File_",
+					" +",
+					"VARIABLES.",
+					"myDirectory",
+					"render",
+					"listDirectory",
+					"local.",
+					"};\n",
+					"type",
+					"case",
+					"right",
+					"##",
+					"='",
+					"'>",
+					"myDirectory",
+					"\\\\n\"",
+					"\\n\"",
+					"    ",
+					"\\);",
+					"echo\\(\"",
+					"echo(\"",
+					"icon_file",
+					"icon_folder",
+					"$icon_folder",
+					"class=\"photo\"",
+					"This is the title",
+					"<div class=\"photo\"></div>",
+					"=\"\">",
+					"  ",
+					"    ",
+					"api",
+					"[ \\t]+$"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"  ",
+					"",
+					"}",
+					"",
+					".png\" title=\"click to enlarge\"></td>",
+					"<td><img src=\"fixed.gif\" class=\"npc\"></td>",
+					" class=\"npc\" title=\"click to enlarge\"",
+					"<td><img src=\"fixed.gif\" class=\"npc\"></td>",
+					"<tr class=\"black\">",
+					"white",
+					"black",
+					"white",
+					"black",
+					"white",
+					"fixed",
+					"20n",
+					"19n",
+					"18n",
+					"17n",
+					"16n",
+					"15n",
+					"14n",
+					"13n",
+					"12n",
+					"11n",
+					"10n",
+					"9n",
+					"</tr>\\n<tr",
+					"</td>\\n<td>",
+					"",
+					"fixed",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"<td><img src=\"broken.gif\" /></td>",
+					"",
+					"<td><img src=\"broken.gif\" /></td>",
+					"",
+					"<td><img src=\"http://imgs.xkcd.com/clickdrag/$1\" /></td>",
+					"8s",
+					"7s",
+					"6s",
+					"5s",
+					"4s",
+					"3s",
+					"2s",
+					"1s",
+					"8n",
+					"7n",
+					"6n",
+					"5n",
+					"4n",
+					"3n",
+					"2n",
+					"</td>",
+					"",
+					"cha2-app-01.js",
+					"app_id",
+					"Gallery$1",
+					"  ",
+					"",
+					"code/cha1/cha1",
+					"Gallery",
+					"galleries",
+					"Galleries",
+					"\\t",
+					"",
+					"\\t",
+					"		",
+					"-",
+					"",
+					"&amp;",
+					"h4>",
+					"h3>",
+					"h3",
+					"",
+					"h4",
+					" = ",
+					"CFDirectoryLister",
+					"* ",
+					"",
+					"\\n",
+					"",
+					"myDirectoryListing",
+					"get",
+					"renderDirectoryList",
+					"",
+					"#",
+					"=\"",
+					"\">",
+					"",
+					"\\t",
+					"",
+					"class=\"gallery\"",
+					"Gallery One",
+					"<img src=\"http://placekitten.com/190/143\" class=\"photo\" alt=\"kitties\" />",
+					"\\t",
+					"",
+					"%20",
+					"	",
+					" ",
+					"\\t",
+					"",
+					"	",
+					"===",
+					"	",
+					"!==	",
+					"===	",
+					"	",
+					"\\t",
+					"",
+					"\\t",
+					"h3",
+					"http://yeoman.io",
+					"Loop &amp; Meet",
+					"Loop &nbsp; Meet",
+					"'",
+					"-",
+					"\"",
+					"'",
+					"<li><b>\\1</b> \\2</li>",
+					"<li>\\n\\t<h3>\\1</h3>\\n\\t<div>\\n\\t\\t<p>content</p>\\n\\t</div>\\n</li>\\n",
+					"<li>\\n\\t<h3>\\1</h3>\\n\\t<div>\\n\\t\\t<p>content</p>\\n</div>\\n</li>\\n",
+					"<li>\\n\\t<h3>\\1</h3>\\n\\t<p>content</p>\\n</li>\\n",
+					"<li>\\n\\t<h3>\\1</h3>\\n<p>content</p>\\n</li>\\n",
+					"<li><h3>\\1</h3>\\n<p>content</p></li>"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 217.0
+			},
+			"output.exec":
+			{
+				"height": 128.0
+			},
+			"output.tests":
+			{
+				"height": 122.0
+			},
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"build",
+						"BuildingTheHomePage.pml"
+					],
+					[
+						"getting",
+						"GettingStartedWithEmberJs.pml"
+					],
+					[
+						"applca",
+						"js/application.js"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"displaypo",
+						"displayPosts.cfm"
+					],
+					[
+						"index.",
+						"index.cfm"
+					],
+					[
+						"htace",
+						".htaccess"
+					],
+					[
+						"stats",
+						"com/jrnl/stats.cfc"
+					],
+					[
+						"applica",
+						"js/application.js"
+					],
+					[
+						"ins",
+						".sass-cache/100b527c542b6ad76c032f7dc32d1f5e9c74941b/_inline-block.scssc"
+					],
+					[
+						"main",
+						"css/main.scss"
+					],
+					[
+						"app",
+						"js/application.js"
+					],
+					[
+						"apl",
+						"js/application.js"
+					],
+					[
+						"index.html",
+						"/Users/andymatthews/Sites/code/notekeeper/index.html"
+					],
+					[
+						"",
+						"/Users/andymatthews/Sites/code/notekeeper/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 217.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1213.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"conn",
+						"connectOutlets"
+					],
+					[
+						"step",
+						"step	@step"
+					],
+					[
+						"fil",
+						"fil	Filename"
+					],
+					[
+						"galler",
+						"galleryArray"
+					],
+					[
+						"application",
+						"ApplicationController"
+					],
+					[
+						"poi",
+						"pointer"
+					],
+					[
+						"se",
+						"separate"
+					],
+					[
+						"padd",
+						"padding	zen:css_properties"
+					],
+					[
+						"bor",
+						"border-box"
+					],
+					[
+						"widt",
+						"width	zen:css_properties"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"line-he",
+						"line-height	zen:css_properties"
+					],
+					[
+						"max",
+						"max-width	zen:css_properties"
+					],
+					[
+						"connect",
+						"connectOutlets"
+					],
+					[
+						"connec",
+						"connectOutlet"
+					],
+					[
+						"about",
+						"aboutController"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"applica",
+						"ApplicationController"
+					],
+					[
+						"Nav",
+						"NavbarView"
+					],
+					[
+						"Application",
+						"ApplicationController"
+					],
+					[
+						"books",
+						"booksController"
+					],
+					[
+						"rela",
+						"relative"
+					],
+					[
+						"Rou",
+						"Route"
+					],
+					[
+						"tem",
+						"templateName"
+					],
+					[
+						"remember",
+						"remember_token"
+					],
+					[
+						"out",
+						"outputClass"
+					],
+					[
+						"test",
+						"testing"
+					],
+					[
+						"pull",
+						"pullQuote"
+					],
+					[
+						"al",
+						"alert-error"
+					],
+					[
+						"sig",
+						"signin_path"
+					],
+					[
+						"su",
+						"submit"
+					],
+					[
+						"sign",
+						"signup_path"
+					],
+					[
+						"grava",
+						"gravatar_url"
+					],
+					[
+						"gr",
+						"gravatar_for"
+					],
+					[
+						"user",
+						"user_for_invalid_password"
+					],
+					[
+						"pas",
+						"password"
+					],
+					[
+						"pass",
+						"password_confirmation"
+					],
+					[
+						"be",
+						"be_valid"
+					],
+					[
+						"us",
+						"user"
+					],
+					[
+						"should",
+						"should_not"
+					],
+					[
+						"radios",
+						"radios2"
+					],
+					[
+						"have",
+						"have_selector"
+					],
+					[
+						"use",
+						"useNativeMenu"
+					],
+					[
+						"sort",
+						"sortKeys"
+					],
+					[
+						"attri",
+						"attributes"
+					],
+					[
+						"pos",
+						"post"
+					],
+					[
+						"post",
+						"post_path"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"style",
+						"style"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"cfpara",
+						"CFPARAM"
+					],
+					[
+						"bol",
+						"border-left"
+					],
+					[
+						"font-we",
+						"font-weight"
+					],
+					[
+						"e",
+						"extend"
+					],
+					[
+						"content",
+						"contentBinding"
+					],
+					[
+						"list",
+						"list	list-style: type position image"
+					],
+					[
+						"crea",
+						"createTodo"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"SearchReul",
+						"searchResult"
+					],
+					[
+						"Search",
+						"searchResults"
+					],
+					[
+						"Backbo",
+						"Backbone"
+					],
+					[
+						"fo",
+						"for"
+					],
+					[
+						"backgr",
+						"background	background-color: hex"
+					],
+					[
+						"Fav",
+						"FavoritesView"
+					],
+					[
+						"ren",
+						"renderItem"
+					],
+					[
+						"b",
+						"bind"
+					],
+					[
+						"favo",
+						"favorites"
+					],
+					[
+						"Vi",
+						"View"
+					],
+					[
+						"Mode",
+						"Model"
+					],
+					[
+						"SearchResultV",
+						"SearchResultView"
+					],
+					[
+						"SearchRes",
+						"SearchResultsView"
+					],
+					[
+						"SearchRe",
+						"SearchResultsView"
+					],
+					[
+						"search",
+						"searchResults"
+					],
+					[
+						"Sear",
+						"SearchView"
+					],
+					[
+						"return",
+						"returnStruct"
+					],
+					[
+						"abo",
+						"abort: abort"
+					],
+					[
+						"ra",
+						"rates"
+					],
+					[
+						"his",
+						"historical"
+					],
+					[
+						"returnD",
+						"returnData"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"paddin",
+						"padding: padding: T R B L"
+					],
+					[
+						"no",
+						"notesObj"
+					],
+					[
+						"notes",
+						"notesObj"
+					],
+					[
+						"h4",
+						"h4"
+					],
+					[
+						"h",
+						"html: html"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"sc",
+						"script"
+					],
+					[
+						"displ",
+						"display: display: inline"
+					],
+					[
+						"rest",
+						"restfulApp"
+					],
+					[
+						"pageU",
+						"pageUrl"
+					],
+					[
+						"restfulP",
+						"restfulPageUrl"
+					],
+					[
+						"restful",
+						"restfulUrl"
+					],
+					[
+						"ani",
+						"animal"
+					],
+					[
+						"restfulU",
+						"restfulUrl"
+					],
+					[
+						"restfu",
+						"restfulPageUrl"
+					],
+					[
+						"resul",
+						"restfulUrl"
+					],
+					[
+						"lef",
+						"left"
+					],
+					[
+						"ali",
+						"align"
+					],
+					[
+						"send",
+						"sendResponse"
+					],
+					[
+						"backgroun",
+						"background: background-attachment: scroll/fixed"
+					],
+					[
+						"sr",
+						"src"
+					],
+					[
+						"l",
+						"log"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"sock",
+						"socket"
+					],
+					[
+						"file_s",
+						"file_size"
+					],
+					[
+						"file_",
+						"file_path"
+					],
+					[
+						"re",
+						"response"
+					],
+					[
+						"file",
+						"file_path"
+					],
+					[
+						"ht",
+						"html: html"
+					],
+					[
+						"we",
+						"websocket"
+					],
+					[
+						"d",
+						"dd"
+					],
+					[
+						"text",
+						"text: text-align: left/center/right"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/andymatthews/Dropbox/Development/code/Ember/gallery/index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/Users/andymatthews/Dropbox/Development/code/Ember/gallery/js/application.js",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/andymatthews/Dropbox/Development/code/Ember/gallery/css/main.scss",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/JSHint/JSHint.sublime-build",
+			"command_palette":
+			{
+				"height": 248.0,
+				"selected_items":
+				[
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"coldfus",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"li",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"javascrip",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"zen",
+						"Set Syntax: ZenCoding"
+					],
+					[
+						"hmlt",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"JS L",
+						"JSHint: Linter"
+					],
+					[
+						"JS H",
+						"JSHint"
+					],
+					[
+						"JS ",
+						"JSHint: Linter"
+					],
+					[
+						"JSH",
+						"JSHint"
+					],
+					[
+						"Js",
+						"JSHint"
+					],
+					[
+						"jslin",
+						"JSHint: Linter"
+					],
+					[
+						"hmtl",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"lint",
+						"CSSLint: Run CSSLint"
+					],
+					[
+						"cssli",
+						"CSSLint: Run CSSLint"
+					],
+					[
+						"zen ",
+						"Zen Coding: Zen as you type"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"coldfu",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pm",
+						"Set Syntax: PML"
+					],
+					[
+						"snippet",
+						"Snippet: html"
+					],
+					[
+						"tweet",
+						"Tweet"
+					],
+					[
+						"twitt",
+						"Twitter timeline"
+					],
+					[
+						"twi",
+						"Twitter timeline"
+					],
+					[
+						"twitter",
+						"Twitter timeline"
+					],
+					[
+						"time",
+						"Twitter timeline"
+					],
+					[
+						"Install page",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Discover Packages"
+					],
+					[
+						"p",
+						"Preferences: Browse Packages"
+					],
+					[
+						"snippet	",
+						"Snippet: &ldots;"
+					],
+					[
+						"snippet edi",
+						"Snippet: Editor"
+					],
+					[
+						"snippet do",
+						"Snippet: Description List"
+					],
+					[
+						"sni",
+						"Snippet: Filename"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"Snippet: lo",
+						"Snippet: for (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"dust",
+						"Set Syntax: Dust.js Template"
+					],
+					[
+						"blame",
+						"Set Syntax: Git Blame"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pack",
+						"Package Control: Add Channel"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 340.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-03.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-01.js",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-final.js",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-01.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-02.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/cha2-app-final.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/WORKING.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/WORKING.js",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2/metamorph-example.html",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/BuildingTheHomePage.pml",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/book.xml",
+				"/Users/andymatthews/Dropbox/Development/code/xkcd-1110/index.html",
+				"/Users/andymatthews/Dropbox/Development/code/xkcd-1110/index.cfm",
+				"/Users/andymatthews/Desktop/index.html",
+				"/Users/andymatthews/Dropbox/Development/xkcd-1110.cfm",
+				"/Users/andymatthews/Desktop/xkcd-1108.html",
+				"/Users/andymatthews/Dropbox/Development/xkcd-1110.html",
+				"/Users/andymatthews/Dropbox/Development/test.cfm",
+				"/Users/andymatthews/Desktop/regatta/index.html",
+				"/Users/andymatthews/Desktop/regatta/w.css",
+				"/Users/andymatthews/Desktop/regatta/results.json",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/BuildingTheHomePage.pml",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/GettingStartedWithEmberJs.pml",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/TableOfContents.txt",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/book.pml",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/openExchangeRateCFC.cfc",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/index.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/Application.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/test.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC/,",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/cha2-app.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/cha2-app.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/cha2-app-final.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/cha2-app-final.html",
+				"/Users/andymatthews/Downloads/jrnl.sql",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/com/jrnl/stats.cfc",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/Application.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/.htaccess",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/index.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/displayPosts.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/sitemap.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/OnRequestEnd.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/_http.ini",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/index.html",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/js/application.js",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/.sass-cache/100b527c542b6ad76c032f7dc32d1f5e9c74941b/_inline-block.scssc",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/application.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/index.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/main.css",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha1/cha1-app.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2/bootstrap.min.css",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/GettingStartedWithEmberJs.pml",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha1/cha1-app.js",
+				"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha1/cha1-boilerplate.html",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/css/main.css",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/css/main.scss",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/data/galleries.json",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/working/index.html",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/working/js/application.js",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/working/js/application-min.js",
+				"/Users/andymatthews/.vimrc",
+				"/Users/andymatthews/Dropbox/github/config/zsh/.zshrc",
+				"/Users/andymatthews/Desktop/untitled.css",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/andymatthews/Dropbox/github/ember.js/component.json",
+				"/Users/andymatthews/Dropbox/Writing/Blog Posts/2012-09-10-yeoman.html",
+				"/Users/andymatthews/Dropbox/Writing/Blog Posts/yeoman.html",
+				"/Users/andymatthews/Dropbox/Writing/Blog Posts/2012-09-10-divvy.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/book-screen.fo",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/snippets.txt",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+				"/Users/andymatthews/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/andymatthews/Documents/workspace/code/templates/goba/assets/css/theme.css",
+				"/Users/andymatthews/Documents/workspace/code/templates/goba/assets/css/structure.css",
+				"/Users/andymatthews/Documents/workspace/code/templates/goba/web/privacy.html",
+				"/Users/andymatthews/Documents/workspace/code/templates/goba/assets/css/homepage.css",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/fizzbuzz.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/index.cfm",
+				"/Users/andymatthews/Dropbox/github/CFDirectoryLister/README.md",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/server.cfm",
+				"/Users/andymatthews/Dropbox/github/CFDirectoryLister/index.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/index.php",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/_index.cfm",
+				"/Users/andymatthews/Dropbox/github/CFDirectoryList/README.md",
+				"/Users/andymatthews/Dropbox/github/CFDirectoryList/LICENSE-GPL",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/js/Application.js",
+				"/Users/andymatthews/Downloads/Koloria-Icon-Set/Error.png",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads/Herd-Killing-The-Future-Sound-of-London.mp3",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/photos.html",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/.editorconfig",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/.gitattributes",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/.gitignore",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery/config.rb",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/css/main.scss",
+				"/Users/andymatthews/Dropbox/Development/code/goba/css/theme.scss",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/index.cfm",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/js/application.js",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/js/vendor/supersized.3.2.7.js",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/data/data.cfm",
+				"/Users/andymatthews/Dropbox/github/yeoman/readme.md",
+				"/Users/andymatthews/Dropbox/github/yeoman.io/index.html",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/.htaccess",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/views/contact.cfm",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/views/about.cfm",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/data/photos.json",
+				"/Users/andymatthews/Desktop/bridgeclub/dist/scripts/840e89f0.amd-app.js",
+				"/Users/andymatthews/Desktop/bridgeclub/dist/scripts/c045fe6e.plugins.js",
+				"/Users/andymatthews/Desktop/bridgeclub/dist/scripts/650f0fa1.main.js",
+				"/Users/andymatthews/Desktop/bridgeclub/dist/scripts/0786eab6.app.js",
+				"/Users/andymatthews/Desktop/reminder.html",
+				"/Users/andymatthews/Desktop/welcome.html",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/index.html",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/test.cfm",
+				"/Users/andymatthews/Dropbox/Development/frameworks/assorted/supersized.3.2.7.js",
+				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/js/application-min.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/CreatingApplicationStructure.pml",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha1-app.html",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha1-app.js",
+				"/Users/andymatthews/Desktop/faq/index.html",
+				"/Users/andymatthews/Desktop/faq.html",
+				"/Users/andymatthews/Dropbox/Development/_oldsites/tinaadamsconsulting/payment.php",
+				"/Users/andymatthews/Dropbox/Development/_oldsites/tinaadamsconsulting/assets/Application.js",
+				"/Users/andymatthews/Dropbox/Development/_oldsites/tinaadamsconsulting/assets/Application-min.js",
+				"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/InfoWeNeed/BookInfo.txt",
+				"/Users/andymatthews/Dropbox/Writing/Articles/Yeoman At Your Service: Tooling and Frameworks for Beautiful Web Applications/article.txt",
+				"/Users/andymatthews/Dropbox/github/yeoman/docs/cli/commands/init.md"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"<open files>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\\t",
+					"galleryControllerCreate",
+					"All",
+					"}),",
+					"App.Gallery.create(",
+					".png\"></td>",
+					"<td><img src=\"fixed.gif\" class=\"npc\" title=\"click to enlarge\"></td>",
+					" class=\"npc\"",
+					"<td><img src=\"fixed.gif\"></td>",
+					"<tr class=\".+\">",
+					"<tr ",
+					"black",
+					"row\\dn",
+					"		\n",
+					"broken",
+					"19n",
+					"18n",
+					"17n",
+					"16n",
+					"15n",
+					"14n",
+					"13n",
+					"12n",
+					"11n",
+					"10n",
+					"9n",
+					"1n",
+					"</tr><tr",
+					"</td><td>",
+					"\\t",
+					"\\n",
+					"broken",
+					"<td><img src=\"(.+)\" /></td>",
+					"asd",
+					"<td><img src=\"(.+)\" /></td>",
+					"asd",
+					"<td><img src=\"broken.gif\" /></td>",
+					"<td><img src=\"(.+)\" /></td>",
+					"asd",
+					"<td><img src=\"(.+)\" /></td>",
+					"Failed to load resource: the server responded with a status of 404 (Not Found) ",
+					"<td>(.+)</td>",
+					"<td>{.+)</td>",
+					"7s",
+					"6s",
+					"5s",
+					"4s",
+					"3s",
+					"2s",
+					"1s",
+					"8n",
+					"7n",
+					"6n",
+					"5n",
+					"4n",
+					"3n",
+					"2n",
+					"1n",
+					"\" /></td>",
+					"<img src=\"http://imgs.xkcd.com/clickdrag/",
+					" width=\"256\" height=\"256\"",
+					"   Sending        /Users/andymatthews/Documents/workspace/code",
+					"   Adding         /Users/andymatthews/Documents/workspace/code",
+					"cha2-app.js",
+					"If you recall",
+					"the a",
+					"client_id",
+					"App([\\. ])?",
+					"\\t",
+					"Sending        /Users/andymatthews/Documents/workspace/code",
+					"site",
+					"dsn",
+					"code/cha1",
+					"include",
+					"Contributor",
+					"contributors",
+					"Contributors",
+					"  ",
+					"showContributor",
+					"  ",
+					"[ \\t]+$",
+					"  ",
+					"	    ",
+					" ",
+					"\\n",
+					"&",
+					"h1",
+					"h\\d>",
+					"h2",
+					"<a name.*",
+					"list-style",
+					"h3",
+					":",
+					"CFDirectoryList",
+					"^",
+					"\\.png",
+					"File_",
+					" +",
+					"VARIABLES.",
+					"myDirectory",
+					"render",
+					"listDirectory",
+					"local.",
+					"};\n",
+					"type",
+					"case",
+					"right",
+					"##",
+					"='",
+					"'>",
+					"myDirectory",
+					"\\\\n\"",
+					"\\n\"",
+					"    ",
+					"\\);",
+					"echo\\(\"",
+					"echo(\"",
+					"icon_file",
+					"icon_folder",
+					"$icon_folder",
+					"class=\"photo\"",
+					"This is the title",
+					"<div class=\"photo\"></div>",
+					"=\"\">",
+					"  ",
+					"    ",
+					"api",
+					"[ \\t]+$"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"  ",
+					"",
+					"}",
+					"",
+					".png\" title=\"click to enlarge\"></td>",
+					"<td><img src=\"fixed.gif\" class=\"npc\"></td>",
+					" class=\"npc\" title=\"click to enlarge\"",
+					"<td><img src=\"fixed.gif\" class=\"npc\"></td>",
+					"<tr class=\"black\">",
+					"white",
+					"black",
+					"white",
+					"black",
+					"white",
+					"fixed",
+					"20n",
+					"19n",
+					"18n",
+					"17n",
+					"16n",
+					"15n",
+					"14n",
+					"13n",
+					"12n",
+					"11n",
+					"10n",
+					"9n",
+					"</tr>\\n<tr",
+					"</td>\\n<td>",
+					"",
+					"fixed",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"<td><img src=\"broken.gif\" /></td>",
+					"",
+					"<td><img src=\"broken.gif\" /></td>",
+					"",
+					"<td><img src=\"http://imgs.xkcd.com/clickdrag/$1\" /></td>",
+					"8s",
+					"7s",
+					"6s",
+					"5s",
+					"4s",
+					"3s",
+					"2s",
+					"1s",
+					"8n",
+					"7n",
+					"6n",
+					"5n",
+					"4n",
+					"3n",
+					"2n",
+					"</td>",
+					"",
+					"cha2-app-01.js",
+					"app_id",
+					"Gallery$1",
+					"  ",
+					"",
+					"code/cha1/cha1",
+					"Gallery",
+					"galleries",
+					"Galleries",
+					"\\t",
+					"",
+					"\\t",
+					"		",
+					"-",
+					"",
+					"&amp;",
+					"h4>",
+					"h3>",
+					"h3",
+					"",
+					"h4",
+					" = ",
+					"CFDirectoryLister",
+					"* ",
+					"",
+					"\\n",
+					"",
+					"myDirectoryListing",
+					"get",
+					"renderDirectoryList",
+					"",
+					"#",
+					"=\"",
+					"\">",
+					"",
+					"\\t",
+					"",
+					"class=\"gallery\"",
+					"Gallery One",
+					"<img src=\"http://placekitten.com/190/143\" class=\"photo\" alt=\"kitties\" />",
+					"\\t",
+					"",
+					"%20",
+					"	",
+					" ",
+					"\\t",
+					"",
+					"	",
+					"===",
+					"	",
+					"!==	",
+					"===	",
+					"	",
+					"\\t",
+					"",
+					"\\t",
+					"h3",
+					"http://yeoman.io",
+					"Loop &amp; Meet",
+					"Loop &nbsp; Meet",
+					"'",
+					"-",
+					"\"",
+					"'",
+					"<li><b>\\1</b> \\2</li>",
+					"<li>\\n\\t<h3>\\1</h3>\\n\\t<div>\\n\\t\\t<p>content</p>\\n\\t</div>\\n</li>\\n",
+					"<li>\\n\\t<h3>\\1</h3>\\n\\t<div>\\n\\t\\t<p>content</p>\\n</div>\\n</li>\\n",
+					"<li>\\n\\t<h3>\\1</h3>\\n\\t<p>content</p>\\n</li>\\n",
+					"<li>\\n\\t<h3>\\1</h3>\\n<p>content</p>\\n</li>\\n",
+					"<li><h3>\\1</h3>\\n<p>content</p></li>"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/andymatthews/Dropbox/Development/code/Ember/gallery"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/andymatthews/Dropbox/Development/code/Ember/gallery/index.html",
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 4.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/andymatthews/Dropbox/Development/code/Ember/gallery/js/application.js",
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/andymatthews/Dropbox/Development/code/Ember/gallery/css/main.scss",
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/SCSS/SCSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 217.0
+			},
+			"output.exec":
+			{
+				"height": 128.0
+			},
+			"output.tests":
+			{
+				"height": 122.0
+			},
+			"position": "469 135 994 1004 0 0 1920 1178 ",
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"main",
+						"css/main.scss"
+					],
+					[
+						"appl",
+						"js/application.js"
+					],
+					[
+						"build",
+						"BuildingTheHomePage.pml"
+					],
+					[
+						"getting",
+						"GettingStartedWithEmberJs.pml"
+					],
+					[
+						"applca",
+						"js/application.js"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"displaypo",
+						"displayPosts.cfm"
+					],
+					[
+						"index.",
+						"index.cfm"
+					],
+					[
+						"htace",
+						".htaccess"
+					],
+					[
+						"stats",
+						"com/jrnl/stats.cfc"
+					],
+					[
+						"applica",
+						"js/application.js"
+					],
+					[
+						"ins",
+						".sass-cache/100b527c542b6ad76c032f7dc32d1f5e9c74941b/_inline-block.scssc"
+					],
+					[
+						"app",
+						"js/application.js"
+					],
+					[
+						"apl",
+						"js/application.js"
+					],
+					[
+						"index.html",
+						"/Users/andymatthews/Sites/code/notekeeper/index.html"
+					],
+					[
+						"",
+						"/Users/andymatthews/Sites/code/notekeeper/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 217.0,
+			"status_bar_visible": true,
+			"window_id": 1240,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -31,7 +31,7 @@ class CloseCftagCommand(sublime_plugin.TextCommand):
         # prevents triggering inside strings and other scopes that are not block tags
         # this should be taken care of in keybindings, but it's not working for cfcomponent
         if self.view.match_selector(sel.end(), "string") \
-            or self.view.match_selector(sel.end(), "source") \
+            or self.view.match_selector(sel.end(), "source.cfscript.embedded.cfml") \
             or not self.view.match_selector(sel.end(), "meta.tag.block.cf"):
             return
 
@@ -43,7 +43,7 @@ class CloseCftagCommand(sublime_plugin.TextCommand):
             tagdata = tagdata.pop(0).split(" ")
             tagname = tagdata[0]
 
-        if self.view.match_selector(sel.end(),"meta.tag.block.cf") and tagname.find("/") == -1:
+        if self.view.match_selector(sel.end(),"meta.tag.block.cf") and tagdata[-1].find("/") == -1:
             if not tagname[-1] == ">":
                 tagname = tagname + ">"
             if not SETTINGS.get("auto_indent_on_close") or tagname == "cfoutput>":
@@ -57,19 +57,19 @@ class TagAutoComplete(sublime_plugin.EventListener):
     def on_query_completions(self, view, prefix, locations):
         completions = []
         if not view.match_selector(locations[0],
-                "punctuation.definition.tag.cf.begin, \
+                "meta.scope.between-output-tags.cfml - meta.tag - comment - string, \
                 text.html.cfm - meta - source - comment - string, \
                 text.html.cfm.embedded.cfml - meta - source.cfscript.embedded.cfml - comment - string, \
-                source.sql.embedded.cfml - string - comment"):
+                punctuation.definition.tag.cf.begin, \
+                source.sql.embedded.cfml - string - comment - meta.name.interpolated.hash"):
             return
         if SETTINGS.get("verbose_tag_completions"):
             return
 
-        # Do not trigger if we are in a tag or string or comment
         pt = locations[0] - len(prefix) - 1
-        # not using this since we're matching selectors above
-        # if any(s in view.scope_name(pt) for s in ["meta.tag.block.cf","meta.tag.inline.cf","string","comment"]):
-        #     return
+        # view.match_selector being bonky so we're going nuclear here
+        if any(s in view.scope_name(pt) for s in ["meta.tag.block.cf","meta.tag.inline.cf","string","comment"]):
+            return
 
         for s in self.cflib.completions.keys():
             completions.extend([(s + "\tTag (cmfl)",s)])

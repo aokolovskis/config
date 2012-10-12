@@ -43,5 +43,16 @@ function startEmma(){
 	cd ~/VirtualMachines/Emma.vagrant
 	vagrant up
 }
-
+function deepThought(){
+	curl -s http://andymatthews.net/code/deepthoughts/get.cfm | say
+}
+function pgLogin() {
+	psql -U postgres -h emma.int emma
+}
+function catSql() {
+	# pass in an optional number of files to cat together
+	cd ~/Dev/emma/python/emma/schema_changes
+	local count="${1:-6}"
+	find [0-9]*.sql | tail -n $count | xargs cat | psql -U postgres -h emma.int emma
+}
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting

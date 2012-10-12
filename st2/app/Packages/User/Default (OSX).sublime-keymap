@@ -1,3 +1,4 @@
 [
-	{ "keys": ["ctrl+s"], "command": "toggle_side_bar" }
+	{ "keys": ["ctrl+s"], "command": "toggle_side_bar" },
+	{ "keys": ["f2"], "command": "toggle_bookmark" }
 ]

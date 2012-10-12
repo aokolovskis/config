@@ -20,10 +20,19 @@
             <string>#comments</string>
         </dict>
 
+         <!-- this is just the "component" tag operator -->
         <dict>
             <key>include</key>
             <string>#component-operators</string>
         </dict>
+        <!--  #tag-operators are outside #cfscript-code
+            as #cfscript-code is included in #tag-operators and
+            #function parameters and #tag-operators don't nest
+         -->
+         <dict>
+             <key>include</key>
+             <string>#functions</string>
+         </dict>
         <dict>
             <key>include</key>
             <string>#tag-operators</string>
@@ -48,7 +57,7 @@
                 </dict>
                 <dict>
                     <key>include</key>
-                    <string>#functions</string>
+                    <string>#closures</string>
                 </dict>
                 <dict>
                     <key>include</key>
@@ -61,10 +70,6 @@
                 <dict>
                     <key>include</key>
                     <string>#function-call</string>
-                </dict>
-                <dict>
-                    <key>include</key>
-                    <string>#storage-types</string>
                 </dict>
                 <dict>
                     <key>include</key>
@@ -82,6 +87,32 @@
         </dict>
 
 
+        <key>closures</key>
+        <dict>
+            <key>begin</key>
+            <string>(?i:(function))\s*</string>
+            <key>beginCaptures</key>
+            <dict>
+                <key>1</key>
+                <dict>
+                    <key>name</key>
+                    <string>storage.closure.cfscript</string>
+                </dict>
+            </dict>
+            <key>end</key>
+            <string>(?={)</string>
+            <key>name</key>
+            <string>meta.closure.cfscript</string>
+            <key>patterns</key>
+            <array>
+                <dict>
+                    <key>include</key>
+                    <string>#parameters</string>
+                </dict>
+            </array>
+        </dict>
+
+
         <!-- functions -->
         <key>functions</key>
         <dict>
@@ -89,7 +120,7 @@
                 <string>(?x)^\s*
                     (?:
                         (?: # optional access-control modifier and return-type
-                            (?:(?i:\b(private|package|public|remote)?)\s+)+\s* # access-control.modifier
+                            (?i:\b(private|package|public|remote)\s+)? # access-control.modifier
                             (?i:\b
                                 (void)
                                 |
@@ -97,7 +128,7 @@
                                 |
                                 ([A-Za-z0-9_\.$]+) #return-type component/object (may need additional tokens)
                             )?
-                        )?
+                        )
                     )
                     \s*
                     (?i:(function)) # storage.function
@@ -149,7 +180,7 @@
             <key>end</key>
             <string>(?={)</string>
             <key>name</key>
-            <string>meta.definition.function.cfscript</string>
+            <string>meta.function.cfscript</string>
             <key>patterns</key>
             <array>
                 <dict>
@@ -199,7 +230,7 @@
                          </dict>
                     </dict>
                     <key>name</key>
-                    <string>meta.function.arguments.cfscript</string>
+                    <string>meta.function.parameters.cfscript</string>
                     <key>patterns</key>
                     <array>
                         <dict>
@@ -466,7 +497,7 @@
                     <key>end</key>
                     <string>(?=[;{\(])</string>
                     <key>name</key>
-                    <string>meta.tag.operator.cfscript</string>
+                    <string>meta.operator.cfscript</string>
                     <key>patterns</key>
                     <array>
                         <dict>
@@ -513,7 +544,7 @@
                         </dict>
                     </dict>
                     <key>name</key>
-                    <string>meta.tag.operator.cfscript meta.class.component.cfscript</string>
+                    <string>meta.operator.cfscript meta.class.component.cfscript</string>
                     <key>end</key>
                     <string>(?=[;{\(])</string>
                     <key>patterns</key>
@@ -626,12 +657,6 @@
             <array>
                 <dict>
                     <key>match</key>
-                    <string>\b(?i:var)\b</string>
-                    <key>name</key>
-                    <string>storage.modifier.var.cfscript</string>
-                </dict>
-                <dict>
-                    <key>match</key>
                     <string>\b(?i:(function|string|date|struct|array|void|binary|numeric|boolean|query|xml|uuid|any))\b</string>
                     <key>name</key>
                     <string>storage.type.primitive.cfscript</string>
@@ -706,16 +731,19 @@
                 <dict>
                     <key>captures</key>
                     <dict>
-                        <key>1</key>
+                        <key>2</key>
                         <dict>
                             <key>name</key>
                             <string>punctuation.definition.comment.cfscript</string>
                         </dict>
+                        <key>1</key>
+                        <dict>
+                            <key>name</key>
+                            <string>comment.line.double-slash.cfscript</string>
+                        </dict>
                     </dict>
                     <key>match</key>
-                    <string>(//).*$\n?</string>
-                    <key>name</key>
-                    <string>comment.line.double-slash.cfscript</string>
+                    <string>((//).*?[^\s])\s*$\n?</string>
                 </dict>
             </array>
         </dict>
@@ -1000,17 +1028,17 @@
                 <key>3</key>
                 <dict>
                     <key>name</key>
-                    <string>punctuation.definition.function-parameters.begin.cfscript</string>
+                    <string>punctuation.definition.arguments.begin.cfscript</string>
                 </dict>
             </dict>
             <key>end</key>
-            <string>\)</string>
+            <string>(\))</string>
             <key>endCaptures</key>
             <dict>
-                <key>0</key>
+                <key>1</key>
                 <dict>
                     <key>name</key>
-                    <string>punctuation.definition.function-parameters.end.cfscript</string>
+                    <string>punctuation.definition.arguments.end.cfscript</string>
                 </dict>
             </dict>
             <key>name</key>
@@ -1021,7 +1049,15 @@
                     <key>match</key>
                     <string>,</string>
                     <key>name</key>
-                    <string>punctuation.definition.seperator.parameter.cfscript</string>
+                    <string>punctuation.definition.seperator.arguments.cfscript</string>
+                </dict>
+                <dict>
+                    <key>include</key>
+                    <string>#comments</string>
+                </dict>
+                <dict>
+                    <key>include</key>
+                    <string>#tag-operators</string>
                 </dict>
                 <dict>
                     <key>include</key>
@@ -1077,11 +1113,18 @@
             </array>
         </dict>
         <!-- /nest_hash -->
+
         <!-- variables -->
         <key>variables</key>
         <dict>
             <key>patterns</key>
             <array>
+                <dict>
+                    <key>match</key>
+                    <string>\b(?i:var)\b</string>
+                    <key>name</key>
+                    <string>storage.modifier.var.cfscript</string>
+                </dict>
                 <dict>
                     <key>match</key>
                     <string>\b(?i:(this|key))(?!\.)</string>

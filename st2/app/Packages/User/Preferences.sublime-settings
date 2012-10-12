@@ -3,17 +3,15 @@
 	"auto_indent": true,
 	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
 	"detect_indentation": false,
+	"fold_buttons": true,
 	"fade_fold_buttons": true,
 	"find_selected_text": true,
-	"fold_buttons": true,
-	"font_face": "Inconsolata",
+	"font_face": "Source Sans Pro",
 	"font_size": 16.0,
-	"rulers":
-	[
-	],
+	"rulers": [80,120],
 	"spell_check": false,
 	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": false,
-	"use_tab_stops": true
+	"use_tab_stops": false
 }

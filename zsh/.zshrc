@@ -4,6 +4,9 @@ ZSH=$HOME/.oh-my-zsh
 # Set name of the theme to load.
 ZSH_THEME="sunshine"
 
+# include virtualenvwrapper
+source /usr/local/bin/virtualenvwrapper.sh
+
 # Example aliases
 #alias web3='ssh andy@web3.goba.mobi'
 alias redis='redis-server /usr/local/etc/redis.conf'
@@ -55,4 +58,10 @@ function catSql() {
 	local count="${1:-6}"
 	find [0-9]*.sql | tail -n $count | xargs cat | psql -U postgres -h emma.int emma
 }
+function postgres() {
+	psql -U postgres -h emma.int emma
+}
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"

@@ -12,7 +12,6 @@ source /usr/local/bin/virtualenvwrapper.sh
 alias redis='redis-server /usr/local/etc/redis.conf'
 alias tree='nocorrect tree'
 alias pwdcp='pwd | tr -d "\n" | pbcopy'
-alias grep='ack'
 alias st='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
 alias c='clear'
 
@@ -36,7 +35,7 @@ export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Users/and
 
 function server(){
 	local port="${1:-8000}"
-	open "http://localhost:${port}/"
+	open "http://0.0.0.0:${port}/"
 	python -m SimpleHTTPServer "$port"
 }
 function md(){
@@ -60,6 +59,9 @@ function catSql() {
 }
 function postgres() {
 	psql -U postgres -h emma.int emma
+}
+function aws() {
+	ssh -i amazonec2.pem ubuntu@107.22.224.216	
 }
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 

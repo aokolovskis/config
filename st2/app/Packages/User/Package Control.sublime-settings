@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1353082775,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"ColdFusion",
 		"CSSLint",
 		"Git",
 		"JSHint",
+		"LESS",
 		"Package Control",
 		"RubyTest",
 		"SCSS",

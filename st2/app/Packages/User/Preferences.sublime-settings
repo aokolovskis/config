@@ -1,14 +1,23 @@
 {
 	"auto_complete_commit_on_tab": false,
 	"auto_indent": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
-	"fade_fold_buttons": true,
+	"fade_fold_buttons": false,
 	"find_selected_text": true,
 	"fold_buttons": true,
 	"font_face": "Source Sans Pro",
 	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"rulers":
 	[
 		80,

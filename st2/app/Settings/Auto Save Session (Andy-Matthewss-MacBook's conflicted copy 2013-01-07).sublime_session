@@ -1,0 +1,3563 @@
+{
+	"folder_history":
+	[
+		"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder",
+		"/Users/amatthews/Dropbox/Development/personal/andymatthews.net",
+		"/Users/andymatthews/Dropbox/github/fastbook.mobi/new",
+		"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder",
+		"/Users/amatthews/Dev/emma/python/emma/lib/sqlalchemy",
+		"/Users/andymatthews/Dropbox/Development/clients/tinaadamsconsulting",
+		"/Users/andymatthews/Dropbox/github/autoComplete.js",
+		"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book",
+		"/Users/andymatthews/Dropbox/github/fastbook.mobi",
+		"/Users/andymatthews/Dropbox/Development/_oldsites/tinaadamsconsulting",
+		"/Users/andymatthews/Dropbox/github/CFToolbar",
+		"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net",
+		"/Users/amatthews/Dropbox/Development/python/myApp/myApp",
+		"/Users/andymatthews/Dropbox/Development/code/Ember/gallery",
+		"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/code/cha2",
+		"/Users/andymatthews/Dropbox/Development/code/Ember/EmberGallery",
+		"/Users/andymatthews/Dropbox/Development/code/xkcd-1110",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha2",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book",
+		"/Users/andymatthews/Desktop/regatta",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/libs",
+		"/Users/andymatthews/Desktop/temp",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha1",
+		"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC",
+		"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/InfoWeNeed",
+		"/Users/andymatthews/Dropbox/github/CFDirectoryLister",
+		"/Users/andymatthews/Dropbox/github",
+		"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/uploads",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app",
+		"/Users/andymatthews/Desktop/bridgeclub/dist",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website",
+		"/Users/andymatthews/Dropbox/github/yeoman",
+		"/Users/andymatthews/Desktop/coderfaire",
+		"/Users/andymatthews/Dropbox/Writing/Presentations/Going Deeper with jQuery Mobile - Nashville",
+		"/Users/andymatthews/Desktop/bridgeclub",
+		"/Users/andymatthews/Dropbox/Writing/Articles/Yeoman At Your Service: Tooling and Frameworks for Beautiful Web Applications",
+		"/Users/andymatthews/Desktop/bridgeclub/app",
+		"/Users/andymatthews/Dropbox/Development/code/steveharvey",
+		"/Users/andymatthews/Dropbox/Development/code/goba",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code",
+		"/Users/andymatthews/Desktop/radio",
+		"/Users/andymatthews/Dropbox/Writing/Blog Posts/ember-router-example-part-02",
+		"/Users/andymatthews/Dropbox/Development/clients",
+		"/Users/andymatthews/Dropbox/Writing/Blog Posts/ember-router-example-part-01",
+		"/Users/andymatthews/Dropbox/Development/code/Ember/Router",
+		"/Users/andymatthews/Dropbox/Development/code/bookmark-bubble",
+		"/Users/andymatthews/Dropbox/Development/code/wikipedia",
+		"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Boilerplate",
+		"/Users/andymatthews/Dropbox/github/fastbook.mobi/includes",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/admin",
+		"/Users/andymatthews/Dropbox/Development/clients/rmh/recyclen",
+		"/Users/andymatthews/Dropbox/Development/code/goba/images",
+		"/Users/andymatthews/Dropbox/Writing/Blog Posts/2012-08-08-ember-router-example",
+		"/Users/andymatthews/Desktop/compress-images.workflow",
+		"//",
+		"/Users/andymatthews/Dropbox/Development/www/js/vendor",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app/prince/global/style",
+		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/book",
+		"/Users/andymatthews/Dropbox/github/goba-core/templates/goba/message/email",
+		"/Users/andymatthews/Dropbox/github/jquery.jqmts.js",
+		"/Users/andymatthews/Dropbox/github/jquery.swipeButton.js",
+		"/Users/andymatthews/Dropbox/github/textCounter.js",
+		"/Users/andymatthews/github/jquery.jqmts.js/src"
+	],
+	"last_window_id": 1442,
+	"settings":
+	{
+		"new_window_height": 1012.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Com",
+						"Compass"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"color",
+						"colorObj"
+					],
+					[
+						"firs",
+						"firstBlock"
+					],
+					[
+						"cu",
+						"currentView"
+					],
+					[
+						"templa",
+						"templateObject"
+					],
+					[
+						"cl",
+						"class"
+					],
+					[
+						"common",
+						"common_attr"
+					],
+					[
+						"conn",
+						"connectOutlets"
+					],
+					[
+						"step",
+						"step	@step"
+					],
+					[
+						"fil",
+						"fil	Filename"
+					],
+					[
+						"galler",
+						"galleryArray"
+					],
+					[
+						"application",
+						"ApplicationController"
+					],
+					[
+						"poi",
+						"pointer"
+					],
+					[
+						"se",
+						"separate"
+					],
+					[
+						"padd",
+						"padding	zen:css_properties"
+					],
+					[
+						"bor",
+						"border-box"
+					],
+					[
+						"widt",
+						"width	zen:css_properties"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"line-he",
+						"line-height	zen:css_properties"
+					],
+					[
+						"max",
+						"max-width	zen:css_properties"
+					],
+					[
+						"connect",
+						"connectOutlets"
+					],
+					[
+						"connec",
+						"connectOutlet"
+					],
+					[
+						"about",
+						"aboutController"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"applica",
+						"ApplicationController"
+					],
+					[
+						"Nav",
+						"NavbarView"
+					],
+					[
+						"Application",
+						"ApplicationController"
+					],
+					[
+						"books",
+						"booksController"
+					],
+					[
+						"rela",
+						"relative"
+					],
+					[
+						"Rou",
+						"Route"
+					],
+					[
+						"tem",
+						"templateName"
+					],
+					[
+						"remember",
+						"remember_token"
+					],
+					[
+						"out",
+						"outputClass"
+					],
+					[
+						"test",
+						"testing"
+					],
+					[
+						"pull",
+						"pullQuote"
+					],
+					[
+						"al",
+						"alert-error"
+					],
+					[
+						"sig",
+						"signin_path"
+					],
+					[
+						"su",
+						"submit"
+					],
+					[
+						"sign",
+						"signup_path"
+					],
+					[
+						"grava",
+						"gravatar_url"
+					],
+					[
+						"gr",
+						"gravatar_for"
+					],
+					[
+						"user",
+						"user_for_invalid_password"
+					],
+					[
+						"pas",
+						"password"
+					],
+					[
+						"pass",
+						"password_confirmation"
+					],
+					[
+						"be",
+						"be_valid"
+					],
+					[
+						"us",
+						"user"
+					],
+					[
+						"should",
+						"should_not"
+					],
+					[
+						"radios",
+						"radios2"
+					],
+					[
+						"have",
+						"have_selector"
+					],
+					[
+						"use",
+						"useNativeMenu"
+					],
+					[
+						"sort",
+						"sortKeys"
+					],
+					[
+						"attri",
+						"attributes"
+					],
+					[
+						"pos",
+						"post"
+					],
+					[
+						"post",
+						"post_path"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"style",
+						"style"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"cfpara",
+						"CFPARAM"
+					],
+					[
+						"bol",
+						"border-left"
+					],
+					[
+						"font-we",
+						"font-weight"
+					],
+					[
+						"e",
+						"extend"
+					],
+					[
+						"content",
+						"contentBinding"
+					],
+					[
+						"list",
+						"list	list-style: type position image"
+					],
+					[
+						"crea",
+						"createTodo"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"SearchReul",
+						"searchResult"
+					],
+					[
+						"Search",
+						"searchResults"
+					],
+					[
+						"Backbo",
+						"Backbone"
+					],
+					[
+						"fo",
+						"for"
+					],
+					[
+						"backgr",
+						"background	background-color: hex"
+					],
+					[
+						"Fav",
+						"FavoritesView"
+					],
+					[
+						"ren",
+						"renderItem"
+					],
+					[
+						"b",
+						"bind"
+					],
+					[
+						"favo",
+						"favorites"
+					],
+					[
+						"Vi",
+						"View"
+					],
+					[
+						"Mode",
+						"Model"
+					],
+					[
+						"SearchResultV",
+						"SearchResultView"
+					],
+					[
+						"SearchRes",
+						"SearchResultsView"
+					],
+					[
+						"SearchRe",
+						"SearchResultsView"
+					],
+					[
+						"search",
+						"searchResults"
+					],
+					[
+						"Sear",
+						"SearchView"
+					],
+					[
+						"return",
+						"returnStruct"
+					],
+					[
+						"abo",
+						"abort: abort"
+					],
+					[
+						"ra",
+						"rates"
+					],
+					[
+						"his",
+						"historical"
+					],
+					[
+						"returnD",
+						"returnData"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"paddin",
+						"padding: padding: T R B L"
+					],
+					[
+						"no",
+						"notesObj"
+					],
+					[
+						"notes",
+						"notesObj"
+					],
+					[
+						"h4",
+						"h4"
+					],
+					[
+						"h",
+						"html: html"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"sc",
+						"script"
+					],
+					[
+						"displ",
+						"display: display: inline"
+					],
+					[
+						"rest",
+						"restfulApp"
+					],
+					[
+						"pageU",
+						"pageUrl"
+					],
+					[
+						"restfulP",
+						"restfulPageUrl"
+					],
+					[
+						"restful",
+						"restfulUrl"
+					],
+					[
+						"ani",
+						"animal"
+					],
+					[
+						"restfulU",
+						"restfulUrl"
+					],
+					[
+						"restfu",
+						"restfulPageUrl"
+					],
+					[
+						"resul",
+						"restfulUrl"
+					],
+					[
+						"lef",
+						"left"
+					],
+					[
+						"ali",
+						"align"
+					],
+					[
+						"send",
+						"sendResponse"
+					],
+					[
+						"backgroun",
+						"background: background-attachment: scroll/fixed"
+					],
+					[
+						"sr",
+						"src"
+					],
+					[
+						"l",
+						"log"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"sock",
+						"socket"
+					],
+					[
+						"file_s",
+						"file_size"
+					],
+					[
+						"file_",
+						"file_path"
+					],
+					[
+						"re",
+						"response"
+					],
+					[
+						"file",
+						"file_path"
+					],
+					[
+						"ht",
+						"html: html"
+					],
+					[
+						"we",
+						"websocket"
+					],
+					[
+						"d",
+						"dd"
+					],
+					[
+						"text",
+						"text: text-align: left/center/right"
+					]
+				]
+			},
+			"build_system": "Packages/JSHint/JSHint.sublime-build",
+			"command_palette":
+			{
+				"height": 72.0,
+				"selected_items":
+				[
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						"tid",
+						"Tidy HTML"
+					],
+					[
+						"md",
+						"Set Syntax: Markdown"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"svg",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"t",
+						"Tidy HTML"
+					],
+					[
+						"coffee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"hre",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"diff",
+						"Set Syntax: Diff"
+					],
+					[
+						"tidy html",
+						"Tidy HTML"
+					],
+					[
+						"javascrip",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"coldfus",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"li",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"zen",
+						"Set Syntax: ZenCoding"
+					],
+					[
+						"hmlt",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"JS L",
+						"JSHint: Linter"
+					],
+					[
+						"JS H",
+						"JSHint"
+					],
+					[
+						"JS ",
+						"JSHint: Linter"
+					],
+					[
+						"JSH",
+						"JSHint"
+					],
+					[
+						"Js",
+						"JSHint"
+					],
+					[
+						"jslin",
+						"JSHint: Linter"
+					],
+					[
+						"hmtl",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"lint",
+						"CSSLint: Run CSSLint"
+					],
+					[
+						"cssli",
+						"CSSLint: Run CSSLint"
+					],
+					[
+						"zen ",
+						"Zen Coding: Zen as you type"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"coldfu",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"pm",
+						"Set Syntax: PML"
+					],
+					[
+						"snippet",
+						"Snippet: html"
+					],
+					[
+						"tweet",
+						"Tweet"
+					],
+					[
+						"twitt",
+						"Twitter timeline"
+					],
+					[
+						"twi",
+						"Twitter timeline"
+					],
+					[
+						"twitter",
+						"Twitter timeline"
+					],
+					[
+						"time",
+						"Twitter timeline"
+					],
+					[
+						"Install page",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Discover Packages"
+					],
+					[
+						"p",
+						"Preferences: Browse Packages"
+					],
+					[
+						"snippet	",
+						"Snippet: &ldots;"
+					],
+					[
+						"snippet edi",
+						"Snippet: Editor"
+					],
+					[
+						"snippet do",
+						"Snippet: Description List"
+					],
+					[
+						"sni",
+						"Snippet: Filename"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"Snippet: lo",
+						"Snippet: for (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"dust",
+						"Set Syntax: Dust.js Template"
+					],
+					[
+						"blame",
+						"Set Syntax: Git Blame"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pack",
+						"Package Control: Add Channel"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 340.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/icnfnt.py",
+				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/app/css/font-builder.less",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/urls.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_blocks/single_image.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_blocks/single_image.",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_blocks/image.html",
+				"/Users/amatthews/Dropbox/Development/personal/andymatthews.net/Application.cfm",
+				"/Users/amatthews/Dropbox/Development/personal/andymatthews.net/resume.html",
+				"/Users/amatthews/Dropbox/Development/personal/andymatthews.net/.htaccess",
+				"/Users/amatthews/amazonec2.pem",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/html_transformers.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/views.py",
+				"/Users/amatthews/Dev/emma/apps/core/html_transformers.py",
+				"/Users/amatthews/Desktop/accounts",
+				"/Users/amatthews/Desktop/file.txt",
+				"/Users/amatthews/Desktop/plain_html.html",
+				"/Users/amatthews/Desktop/unsandbox_editor_css.html",
+				"/Users/amatthews/Desktop/logging.py",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/e2ma.save.js",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/e2ma.mailing-controller.js",
+				"/Users/amatthews/Dev/emma/python/emma/index.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_create.html",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/e2ma.review.js",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_create_review_send.html",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/image-selector.js",
+				"/Users/amatthews/Dev/emma/python/emma/media/css/mailing-create/review.css",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/acct_ui_base.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/billing/templates/activate_account_base.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/billing/templates/activate_base.html",
+				"/Users/amatthews/Dev/emma/python/emma/settings.py",
+				"/Users/amatthews/Dev/emma/python/emma/templates/newui_base.html",
+				"/Users/amatthews/Dropbox/Writing/Blog Posts/2012 in review/index.html",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create-templates/_template-gallery-gallery-entry.tmpl.html",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/gallery.js",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/gallery-template-collection.js",
+				"/Users/amatthews/Dev/emma/python/emma/urls.py",
+				"/Users/amatthews/Desktop/template.html",
+				"/Users/amatthews/Desktop/scratch.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/utilities.py",
+				"/Users/amatthews/Desktop/index.html",
+				"/Users/amatthews/Desktop/temp.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/views.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/user_utils.py",
+				"/Users/amatthews/Desktop/Userdata_process_existing_assets.py",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/Application.cfm",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/new/index.html",
+				"/usr/local/lib/node_modules/hubot/src/scripts/nickgen.coffee",
+				"/Users/andymatthews/Dropbox/github/hubot-scripts/src/scripts/nickgen.coffee",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/new/css/homepage-new.css",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/new/js/custom-min.js",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/new/img/avatar.jpg",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/_checkbox_item.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/_nav_main.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/javascripts/application.js",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/app.rb",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/icons.yaml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/index.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/stylesheets/application.scss",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/layouts/application.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/stylesheets/bootstrap.min.css",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/config.rb",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/Gemfile",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/config.ru",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/Gemfile.lock",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/mongoid.yml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/layouts/page.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/javascripts/lib/bootstrap-button.js",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/javascripts/lib/modernizr-1.6.min 2.js",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/gallery/css/main.css",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/stylesheets/application.sass",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/tasks/application.rake",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/tasks/styles.rake",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/tasks/generate.rake",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/stylesheets/application.css",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/stylesheets/application.scss",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/javascripts/lib/jquery-1.8.3.min.js",
+				"/Users/andymatthews/Downloads/fontello-aef8658c/css/animation.css",
+				"/Users/andymatthews/Desktop/glyphs/icon-template.svg",
+				"/Users/andymatthews/Desktop/glyphs/readxml.py",
+				"/Users/andymatthews/Documents/Adobe Scripts/ResizeWidthHeight512.jsx",
+				"/Users/andymatthews/Desktop/glyphs/images/&#xf000.svg",
+				"/Users/andymatthews/Desktop/glyphs/template.svg",
+				"/Users/andymatthews/Desktop/glyphs/fontcustom/index.html",
+				"/Users/andymatthews/Desktop/glyphs/fontcustom/fontcustom.css",
+				"/Users/andymatthews/Desktop/glyphs/fontcustom/fontcustom-0560e9146cb47eda49620a5c7db754df.svg",
+				"/Users/andymatthews/Desktop/glyphs/final/&#xf0e2.svg",
+				"/Users/andymatthews/Desktop/glyphs/source.xml",
+				"/Users/andymatthews/Desktop/glyphs/source.txt",
+				"/Users/andymatthews/Desktop/untitled.xml",
+				"/Users/andymatthews/Desktop/circle.svg",
+				"/Users/andymatthews/Desktop/hexagon.svg",
+				"/Users/andymatthews/Desktop/book/index.html",
+				"/usr/local/lib/node_modules/hubot/src/scripts/httptest.coffee",
+				"/usr/local/lib/node_modules/hubot/src/scripts/deepthoughts.coffee",
+				"/usr/local/lib/node_modules/hubot/src/scripts/pingpong.coffee",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/account_utils.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/cached_db_session.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/account_utils.pyc",
+				"/Users/amatthews/Dev/emma/python/tests/core/utilities_tests.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/acct_trial_expired.html",
+				"/Users/amatthews/Desktop/without.html",
+				"/Users/amatthews/Desktop/with.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/authenticate.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/views.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/utilities.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/urls.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/context_processors.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/templates/start.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/campaign_preview.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/newui_base.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/db/account_models.py",
+				"/Users/amatthews/Dev/emma/python/emma/templates/login.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/acct_activate_base.html",
+				"/Users/amatthews/Dropbox/github/config/st2/app/Packages/User/Preferences.sublime-settings",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/trial_signup.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/acct_activate_next_steps.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/trial_signup_base.html",
+				"/Users/amatthews/Dev/admin/v",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/templates/account_settings.html",
+				"/Users/amatthews/Dev/admin/emmadmin/urls.py",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/urls.py",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/billing_views.py",
+				"/Users/amatthews/Dev/admin/emmadmin/search/views.py",
+				"/Users/amatthews/Dev/admin/emmadmin/search/ur",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/views.py",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/forms.py",
+				"/Users/amatthews/Dev/emma/python/emma/media/themes/default/js/emma.dpl.js",
+				"/Users/amatthews/Dev/emma/python/emma/scrabble.txt"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"<open files>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"span3",
+					"download",
+					"btn-large",
+					".btn-large",
+					"render_to_string",
+					"move_images",
+					"render_to_string",
+					"render_html",
+					"move_images",
+					"imageholder",
+					"_parse_flexible_tags",
+					"ImageBlock",
+					"_parse_flexible_tags",
+					"_get_html_content",
+					"EmmaCampaignJSON",
+					"mailing.send.test.prompt",
+					"unsandbox_editor_css",
+					"****\n\n\\*\\*\\*\\*",
+					"<!--",
+					"<!-- ",
+					"--------------",
+					"\\\\n",
+					"mailing.template.create.prompt",
+					"showBigstockPreview",
+					"stock\nstock\nshowBigstockPreview",
+					"stock\nshowBigstockPreview",
+					"stock",
+					"testdrive",
+					"testdrive@",
+					"testdrive",
+					"each_rule",
+					"unsandbox_editor_css",
+					"def campaign_",
+					"campaign_",
+					"NewTemplate",
+					"pageviews",
+					"<table cellpadding=\"2\" cellspacing=\"0\" border=\"1\">",
+					"</?b>",
+					"<table cellpadding=\"2\" cellspacing=\"0\">",
+					"cellpadding=\"5\"",
+					"cellpading",
+					"<table",
+					"</div>",
+					"<div>",
+					"th>",
+					"campaigns",
+					"templates",
+					"/templates",
+					"galleryTemplates",
+					"galleryTemplateCollection",
+					"template-gallery-gallery-entry",
+					"span",
+					" class=\"\"",
+					" align=\"right\" ",
+					" class=\"[\\w -\\.]+\"",
+					"-",
+					"<div id=\"[\\w -]+\">",
+					"<div id=\"[\\w -]\">",
+					"<span style=\"\">",
+					"<input type=\"checkbox\">",
+					"<span>",
+					"</span>",
+					"<div>",
+					"</div>",
+					"<span><span>",
+					" class=\"[\\w -\\.]+\"",
+					" class=\"[\\w -]+\"",
+					"<div style=\"width:[\\d\\.]+%;\"></div>",
+					" class=\"[\\w -]+\"",
+					"<div style=\"width:18.34636102444145%;\"></div>",
+					"<div style=\"width:[\\d\\.]%;\"></div>",
+					" class=\"[\\w -]+\"",
+					" class=\"\\w+\"",
+					" class=\"NJ \"",
+					" class=\"Fx\"",
+					"get_default_account_for_user",
+					"background-size: 24px 24px;",
+					"  ",
+					".span2.icon.icon-beaker",
+					"32px 32px",
+					"icon-asterisk",
+					"icon-magnet",
+					"[class*=\" ",
+					"14px",
+					"icon-beaker",
+					"	",
+					"  ",
+					"'",
+					"  ",
+					"'",
+					"parseInt(document.resize.roundto.value, 10)",
+					"document.resize.newheight.value",
+					"document.resize.newwidth.value",
+					"fWidth",
+					"document.resize.newwidth.value",
+					";\" d=\"",
+					"\" />",
+					"<glyph unicode=\"",
+					"books",
+					"horiz-adv-x=\"[0-9]+\" ",
+					"respond",
+					"  ",
+					"ExpiredTrialAccountError",
+					"trial_mailings_remaining",
+					"\\n",
+					"get_mailings_sent",
+					"trial_email_quota",
+					"account_utils",
+					"ExpiredTrialAccountError",
+					"audience",
+					"theme_block",
+					"emma-theme",
+					"()\n",
+					"theme_customization",
+					"spaceless",
+					"log out",
+					"\"start",
+					"back-to-start-page",
+					"logo.png",
+					"back-to-start-page",
+					"log out",
+					"come back here",
+					"audience",
+					"accountsetting",
+					"render_to_response",
+					"./templates/newui_base.html",
+					"view",
+					"render_to"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\n",
+					"<table cellpadding=\"2\" cellspacing=\"0\" border=\"1\" width=\"100%\">",
+					"",
+					"<table cellpadding=\"2\" cellspacing=\"0\" border=\"1\">",
+					"cellpadding=\"2\"",
+					"cellpadding",
+					"",
+					"td>",
+					" ",
+					"",
+					"@include background-size;",
+					"\\t",
+					"24px 24px",
+					"icon-comments",
+					"icon-fire",
+					"icon-magnet",
+					"  ",
+					"\\t",
+					"\"",
+					"\\t",
+					"\"",
+					"roundto",
+					"cHeight",
+					"fWidth",
+					"|",
+					"",
+					"glyphs",
+					"",
+					"\\t",
+					" ",
+					"\\t",
+					"amatthews",
+					"<yourusername>",
+					"Intern",
+					"jqm.autoComplete-1.5.0-min.js",
+					"\\t",
+					"",
+					"\\t",
+					"\\n",
+					"Voucher Wardrobe Package",
+					"Associate-Stylist-Wardrobe-Package",
+					"/images/",
+					"/images",
+					"\"/images",
+					"/images",
+					"../images",
+					"Associate",
+					"Apprentice",
+					"<dt><a href=\"#faq-1\">\\1</a></dt>",
+					"<dt><a href=\"\">\\1</a></dt>",
+					"1",
+					"<dt id=\"faq-01\">",
+					" <dt id=\"faq-01\">",
+					"info@tinaadamsconsulting.com",
+					"p",
+					"",
+					"\\t",
+					"		",
+					"\"",
+					"\\t",
+					"\\n",
+					">\\n<",
+					"  ",
+					"",
+					"}",
+					"",
+					".png\" title=\"click to enlarge\"></td>",
+					"<td><img src=\"fixed.gif\" class=\"npc\"></td>",
+					" class=\"npc\" title=\"click to enlarge\"",
+					"<td><img src=\"fixed.gif\" class=\"npc\"></td>",
+					"<tr class=\"black\">",
+					"white",
+					"black",
+					"white",
+					"black",
+					"white",
+					"fixed",
+					"20n",
+					"19n",
+					"18n",
+					"17n",
+					"16n",
+					"15n",
+					"14n",
+					"13n",
+					"12n",
+					"11n",
+					"10n",
+					"9n",
+					"</tr>\\n<tr",
+					"</td>\\n<td>",
+					"",
+					"fixed",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"<td><img src=\"broken.gif\" /></td>",
+					"",
+					"<td><img src=\"broken.gif\" /></td>",
+					"",
+					"<td><img src=\"http://imgs.xkcd.com/clickdrag/$1\" /></td>",
+					"8s",
+					"7s",
+					"6s",
+					"5s",
+					"4s",
+					"3s",
+					"2s",
+					"1s",
+					"8n",
+					"7n",
+					"6n",
+					"5n",
+					"4n",
+					"3n",
+					"2n",
+					"</td>",
+					"",
+					"cha2-app-01.js",
+					"app_id",
+					"Gallery$1",
+					"  ",
+					"",
+					"code/cha1/cha1",
+					"Gallery",
+					"galleries"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 217.0
+			},
+			"output.exec":
+			{
+				"height": 128.0
+			},
+			"output.tests":
+			{
+				"height": 122.0
+			},
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"service",
+						"services.php"
+					],
+					[
+						"paym",
+						"payment.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"style",
+						"assets/styles.css"
+					],
+					[
+						"ser",
+						"services.php"
+					],
+					[
+						"main",
+						"css/main.scss"
+					],
+					[
+						"appl",
+						"js/application.js"
+					],
+					[
+						"build",
+						"BuildingTheHomePage.pml"
+					],
+					[
+						"getting",
+						"GettingStartedWithEmberJs.pml"
+					],
+					[
+						"applca",
+						"js/application.js"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"displaypo",
+						"displayPosts.cfm"
+					],
+					[
+						"index.",
+						"index.cfm"
+					],
+					[
+						"htace",
+						".htaccess"
+					],
+					[
+						"stats",
+						"com/jrnl/stats.cfc"
+					],
+					[
+						"applica",
+						"js/application.js"
+					],
+					[
+						"ins",
+						".sass-cache/100b527c542b6ad76c032f7dc32d1f5e9c74941b/_inline-block.scssc"
+					],
+					[
+						"app",
+						"js/application.js"
+					],
+					[
+						"apl",
+						"js/application.js"
+					],
+					[
+						"index.html",
+						"/Users/andymatthews/Sites/code/notekeeper/index.html"
+					],
+					[
+						"",
+						"/Users/andymatthews/Sites/code/notekeeper/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 221.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1138.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Com",
+						"Compass"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"color",
+						"colorObj"
+					],
+					[
+						"firs",
+						"firstBlock"
+					],
+					[
+						"cu",
+						"currentView"
+					],
+					[
+						"templa",
+						"templateObject"
+					],
+					[
+						"cl",
+						"class"
+					],
+					[
+						"common",
+						"common_attr"
+					],
+					[
+						"conn",
+						"connectOutlets"
+					],
+					[
+						"step",
+						"step	@step"
+					],
+					[
+						"fil",
+						"fil	Filename"
+					],
+					[
+						"galler",
+						"galleryArray"
+					],
+					[
+						"application",
+						"ApplicationController"
+					],
+					[
+						"poi",
+						"pointer"
+					],
+					[
+						"se",
+						"separate"
+					],
+					[
+						"padd",
+						"padding	zen:css_properties"
+					],
+					[
+						"bor",
+						"border-box"
+					],
+					[
+						"widt",
+						"width	zen:css_properties"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"line-he",
+						"line-height	zen:css_properties"
+					],
+					[
+						"max",
+						"max-width	zen:css_properties"
+					],
+					[
+						"connect",
+						"connectOutlets"
+					],
+					[
+						"connec",
+						"connectOutlet"
+					],
+					[
+						"about",
+						"aboutController"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"applica",
+						"ApplicationController"
+					],
+					[
+						"Nav",
+						"NavbarView"
+					],
+					[
+						"Application",
+						"ApplicationController"
+					],
+					[
+						"books",
+						"booksController"
+					],
+					[
+						"rela",
+						"relative"
+					],
+					[
+						"Rou",
+						"Route"
+					],
+					[
+						"tem",
+						"templateName"
+					],
+					[
+						"remember",
+						"remember_token"
+					],
+					[
+						"out",
+						"outputClass"
+					],
+					[
+						"test",
+						"testing"
+					],
+					[
+						"pull",
+						"pullQuote"
+					],
+					[
+						"al",
+						"alert-error"
+					],
+					[
+						"sig",
+						"signin_path"
+					],
+					[
+						"su",
+						"submit"
+					],
+					[
+						"sign",
+						"signup_path"
+					],
+					[
+						"grava",
+						"gravatar_url"
+					],
+					[
+						"gr",
+						"gravatar_for"
+					],
+					[
+						"user",
+						"user_for_invalid_password"
+					],
+					[
+						"pas",
+						"password"
+					],
+					[
+						"pass",
+						"password_confirmation"
+					],
+					[
+						"be",
+						"be_valid"
+					],
+					[
+						"us",
+						"user"
+					],
+					[
+						"should",
+						"should_not"
+					],
+					[
+						"radios",
+						"radios2"
+					],
+					[
+						"have",
+						"have_selector"
+					],
+					[
+						"use",
+						"useNativeMenu"
+					],
+					[
+						"sort",
+						"sortKeys"
+					],
+					[
+						"attri",
+						"attributes"
+					],
+					[
+						"pos",
+						"post"
+					],
+					[
+						"post",
+						"post_path"
+					],
+					[
+						"s",
+						"src"
+					],
+					[
+						"style",
+						"style"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"cfpara",
+						"CFPARAM"
+					],
+					[
+						"bol",
+						"border-left"
+					],
+					[
+						"font-we",
+						"font-weight"
+					],
+					[
+						"e",
+						"extend"
+					],
+					[
+						"content",
+						"contentBinding"
+					],
+					[
+						"list",
+						"list	list-style: type position image"
+					],
+					[
+						"crea",
+						"createTodo"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"SearchReul",
+						"searchResult"
+					],
+					[
+						"Search",
+						"searchResults"
+					],
+					[
+						"Backbo",
+						"Backbone"
+					],
+					[
+						"fo",
+						"for"
+					],
+					[
+						"backgr",
+						"background	background-color: hex"
+					],
+					[
+						"Fav",
+						"FavoritesView"
+					],
+					[
+						"ren",
+						"renderItem"
+					],
+					[
+						"b",
+						"bind"
+					],
+					[
+						"favo",
+						"favorites"
+					],
+					[
+						"Vi",
+						"View"
+					],
+					[
+						"Mode",
+						"Model"
+					],
+					[
+						"SearchResultV",
+						"SearchResultView"
+					],
+					[
+						"SearchRes",
+						"SearchResultsView"
+					],
+					[
+						"SearchRe",
+						"SearchResultsView"
+					],
+					[
+						"search",
+						"searchResults"
+					],
+					[
+						"Sear",
+						"SearchView"
+					],
+					[
+						"return",
+						"returnStruct"
+					],
+					[
+						"abo",
+						"abort: abort"
+					],
+					[
+						"ra",
+						"rates"
+					],
+					[
+						"his",
+						"historical"
+					],
+					[
+						"returnD",
+						"returnData"
+					],
+					[
+						"retu",
+						"returnData"
+					],
+					[
+						"paddin",
+						"padding: padding: T R B L"
+					],
+					[
+						"no",
+						"notesObj"
+					],
+					[
+						"notes",
+						"notesObj"
+					],
+					[
+						"h4",
+						"h4"
+					],
+					[
+						"h",
+						"html: html"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"sc",
+						"script"
+					],
+					[
+						"displ",
+						"display: display: inline"
+					],
+					[
+						"rest",
+						"restfulApp"
+					],
+					[
+						"pageU",
+						"pageUrl"
+					],
+					[
+						"restfulP",
+						"restfulPageUrl"
+					],
+					[
+						"restful",
+						"restfulUrl"
+					],
+					[
+						"ani",
+						"animal"
+					],
+					[
+						"restfulU",
+						"restfulUrl"
+					],
+					[
+						"restfu",
+						"restfulPageUrl"
+					],
+					[
+						"resul",
+						"restfulUrl"
+					],
+					[
+						"lef",
+						"left"
+					],
+					[
+						"ali",
+						"align"
+					],
+					[
+						"send",
+						"sendResponse"
+					],
+					[
+						"backgroun",
+						"background: background-attachment: scroll/fixed"
+					],
+					[
+						"sr",
+						"src"
+					],
+					[
+						"l",
+						"log"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"sock",
+						"socket"
+					],
+					[
+						"file_s",
+						"file_size"
+					],
+					[
+						"file_",
+						"file_path"
+					],
+					[
+						"re",
+						"response"
+					],
+					[
+						"file",
+						"file_path"
+					],
+					[
+						"ht",
+						"html: html"
+					],
+					[
+						"we",
+						"websocket"
+					],
+					[
+						"d",
+						"dd"
+					],
+					[
+						"text",
+						"text: text-align: left/center/right"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/e2ma.send.js",
+					"settings":
+					{
+						"buffer_size": 14011,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/amatthews/Dev/emma/python/emma/apps/campaigns/urls.py",
+					"settings":
+					{
+						"buffer_size": 9178,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/amatthews/Dev/emma/python/emma/apps/campaigns/views.py",
+					"settings":
+					{
+						"buffer_size": 166038,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/amatthews/Dev/emma/python/emma/apps/campaigns/emma_campaign_json.py",
+					"settings":
+					{
+						"buffer_size": 46026,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/amatthews/Dev/emma/python/emma/apps/campaigns/emma_campaign_blocks.py",
+					"settings":
+					{
+						"buffer_size": 19122,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "import sys\n# import unicodedata\nprint >>sys.stderr, \"--------------------------\"\nprint >>sys.stderr, \"--------------------------\"\nprint >>sys.stderr, \"--------------------------\"\n# print >>sys.stderr, unicodedata.normalize('NFKD', html).encode('ascii', 'ignore')\n# print >>sys.stderr, json.dumps(my_obj)\nprint >>sys.stderr, string\nprint >>sys.stderr, \"--------------------------\"\nprint >>sys.stderr, \"--------------------------\"\nprint >>sys.stderr, \"--------------------------\"\n\n    # tail -f /var/log/apache2/error.log",
+					"file": "/Users/amatthews/Desktop/logging.py",
+					"file_size": 517,
+					"file_write_time": 1357584780000000,
+					"settings":
+					{
+						"buffer_size": 519,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/JSHint/JSHint.sublime-build",
+			"command_palette":
+			{
+				"height": 72.0,
+				"selected_items":
+				[
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						"tid",
+						"Tidy HTML"
+					],
+					[
+						"md",
+						"Set Syntax: Markdown"
+					],
+					[
+						"javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"svg",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"t",
+						"Tidy HTML"
+					],
+					[
+						"coffee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"hre",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"diff",
+						"Set Syntax: Diff"
+					],
+					[
+						"tidy html",
+						"Tidy HTML"
+					],
+					[
+						"javascrip",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"coldfus",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"li",
+						"SublimeLinter: Lint Current File"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"zen",
+						"Set Syntax: ZenCoding"
+					],
+					[
+						"hmlt",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"JS L",
+						"JSHint: Linter"
+					],
+					[
+						"JS H",
+						"JSHint"
+					],
+					[
+						"JS ",
+						"JSHint: Linter"
+					],
+					[
+						"JSH",
+						"JSHint"
+					],
+					[
+						"Js",
+						"JSHint"
+					],
+					[
+						"jslin",
+						"JSHint: Linter"
+					],
+					[
+						"hmtl",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"lint",
+						"CSSLint: Run CSSLint"
+					],
+					[
+						"cssli",
+						"CSSLint: Run CSSLint"
+					],
+					[
+						"zen ",
+						"Zen Coding: Zen as you type"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"coldfu",
+						"Set Syntax: ColdFusion Markup"
+					],
+					[
+						"pm",
+						"Set Syntax: PML"
+					],
+					[
+						"snippet",
+						"Snippet: html"
+					],
+					[
+						"tweet",
+						"Tweet"
+					],
+					[
+						"twitt",
+						"Twitter timeline"
+					],
+					[
+						"twi",
+						"Twitter timeline"
+					],
+					[
+						"twitter",
+						"Twitter timeline"
+					],
+					[
+						"time",
+						"Twitter timeline"
+					],
+					[
+						"Install page",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Discover Packages"
+					],
+					[
+						"p",
+						"Preferences: Browse Packages"
+					],
+					[
+						"snippet	",
+						"Snippet: &ldots;"
+					],
+					[
+						"snippet edi",
+						"Snippet: Editor"
+					],
+					[
+						"snippet do",
+						"Snippet: Description List"
+					],
+					[
+						"sni",
+						"Snippet: Filename"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"Snippet: lo",
+						"Snippet: for (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"dust",
+						"Set Syntax: Dust.js Template"
+					],
+					[
+						"blame",
+						"Set Syntax: Git Blame"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pack",
+						"Package Control: Add Channel"
+					],
+					[
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 340.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/urls.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_blocks/single_image.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_blocks/single_image.",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_blocks/image.html",
+				"/Users/amatthews/Dropbox/Development/personal/andymatthews.net/Application.cfm",
+				"/Users/amatthews/Dropbox/Development/personal/andymatthews.net/resume.html",
+				"/Users/amatthews/Dropbox/Development/personal/andymatthews.net/.htaccess",
+				"/Users/amatthews/amazonec2.pem",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/html_transformers.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/views.py",
+				"/Users/amatthews/Dev/emma/apps/core/html_transformers.py",
+				"/Users/amatthews/Desktop/accounts",
+				"/Users/amatthews/Desktop/file.txt",
+				"/Users/amatthews/Desktop/plain_html.html",
+				"/Users/amatthews/Desktop/unsandbox_editor_css.html",
+				"/Users/amatthews/Desktop/logging.py",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/e2ma.save.js",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/e2ma.mailing-controller.js",
+				"/Users/amatthews/Dev/emma/python/emma/index.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_create.html",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/e2ma.review.js",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/mailing_create_review_send.html",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/image-selector.js",
+				"/Users/amatthews/Dev/emma/python/emma/media/css/mailing-create/review.css",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/acct_ui_base.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/billing/templates/activate_account_base.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/billing/templates/activate_base.html",
+				"/Users/amatthews/Dev/emma/python/emma/settings.py",
+				"/Users/amatthews/Dev/emma/python/emma/templates/newui_base.html",
+				"/Users/amatthews/Dropbox/Writing/Blog Posts/2012 in review/index.html",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create-templates/_template-gallery-gallery-entry.tmpl.html",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/gallery.js",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/gallery-template-collection.js",
+				"/Users/amatthews/Dev/emma/python/emma/urls.py",
+				"/Users/amatthews/Desktop/template.html",
+				"/Users/amatthews/Desktop/scratch.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/utilities.py",
+				"/Users/amatthews/Desktop/index.html",
+				"/Users/amatthews/Desktop/temp.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/views.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/user_utils.py",
+				"/Users/amatthews/Desktop/Userdata_process_existing_assets.py",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/Application.cfm",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/new/index.html",
+				"/usr/local/lib/node_modules/hubot/src/scripts/nickgen.coffee",
+				"/Users/andymatthews/Dropbox/github/hubot-scripts/src/scripts/nickgen.coffee",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/new/css/homepage-new.css",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/new/js/custom-min.js",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/new/img/avatar.jpg",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/_checkbox_item.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/_nav_main.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/javascripts/application.js",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/app.rb",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/icons.yaml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/index.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/stylesheets/application.scss",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/layouts/application.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/stylesheets/bootstrap.min.css",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/config.rb",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/Gemfile",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/config.ru",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/Gemfile.lock",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/mongoid.yml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/layouts/page.haml",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/javascripts/lib/bootstrap-button.js",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/javascripts/lib/modernizr-1.6.min 2.js",
+				"/Users/andymatthews/Dropbox/Development/code/Ember/gallery/css/main.css",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/views/stylesheets/application.sass",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/tasks/application.rake",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/tasks/styles.rake",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/tasks/generate.rake",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/stylesheets/application.css",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/stylesheets/application.scss",
+				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/public/javascripts/lib/jquery-1.8.3.min.js",
+				"/Users/andymatthews/Downloads/fontello-aef8658c/css/animation.css",
+				"/Users/andymatthews/Desktop/glyphs/icon-template.svg",
+				"/Users/andymatthews/Desktop/glyphs/readxml.py",
+				"/Users/andymatthews/Documents/Adobe Scripts/ResizeWidthHeight512.jsx",
+				"/Users/andymatthews/Desktop/glyphs/images/&#xf000.svg",
+				"/Users/andymatthews/Desktop/glyphs/template.svg",
+				"/Users/andymatthews/Desktop/glyphs/fontcustom/index.html",
+				"/Users/andymatthews/Desktop/glyphs/fontcustom/fontcustom.css",
+				"/Users/andymatthews/Desktop/glyphs/fontcustom/fontcustom-0560e9146cb47eda49620a5c7db754df.svg",
+				"/Users/andymatthews/Desktop/glyphs/final/&#xf0e2.svg",
+				"/Users/andymatthews/Desktop/glyphs/source.xml",
+				"/Users/andymatthews/Desktop/glyphs/source.txt",
+				"/Users/andymatthews/Desktop/untitled.xml",
+				"/Users/andymatthews/Desktop/circle.svg",
+				"/Users/andymatthews/Desktop/hexagon.svg",
+				"/Users/andymatthews/Desktop/book/index.html",
+				"/usr/local/lib/node_modules/hubot/src/scripts/httptest.coffee",
+				"/usr/local/lib/node_modules/hubot/src/scripts/deepthoughts.coffee",
+				"/usr/local/lib/node_modules/hubot/src/scripts/pingpong.coffee",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/account_utils.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/cached_db_session.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/account_utils.pyc",
+				"/Users/amatthews/Dev/emma/python/tests/core/utilities_tests.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/acct_trial_expired.html",
+				"/Users/amatthews/Desktop/without.html",
+				"/Users/amatthews/Desktop/with.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/authenticate.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/views.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/utilities.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/urls.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/context_processors.py",
+				"/Users/amatthews/Dev/emma/python/emma/apps/core/templates/start.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/campaigns/templates/campaign_preview.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/newui_base.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/db/account_models.py",
+				"/Users/amatthews/Dev/emma/python/emma/templates/login.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/acct_activate_base.html",
+				"/Users/amatthews/Dropbox/github/config/st2/app/Packages/User/Preferences.sublime-settings",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/trial_signup.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/acct_activate_next_steps.html",
+				"/Users/amatthews/Dev/emma/python/emma/apps/accounts/templates/trial_signup_base.html",
+				"/Users/amatthews/Dev/admin/v",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/templates/account_settings.html",
+				"/Users/amatthews/Dev/admin/emmadmin/urls.py",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/urls.py",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/billing_views.py",
+				"/Users/amatthews/Dev/admin/emmadmin/search/views.py",
+				"/Users/amatthews/Dev/admin/emmadmin/search/ur",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/views.py",
+				"/Users/amatthews/Dev/admin/emmadmin/accounts/forms.py",
+				"/Users/amatthews/Dev/emma/python/emma/media/themes/default/js/emma.dpl.js",
+				"/Users/amatthews/Dev/emma/python/emma/scrabble.txt",
+				"/Users/amatthews/Dev/emma/python/emma/media/themes/default/css/alert-bars.css",
+				"/Users/amatthews/Dev/emma/python/emma/media/js/emmaPager.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"",
+					"<open files>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"EmmaCampaignJSON",
+					"render_to_string",
+					"move_images",
+					"render_to_string",
+					"render_html",
+					"move_images",
+					"imageholder",
+					"_parse_flexible_tags",
+					"ImageBlock",
+					"_parse_flexible_tags",
+					"_get_html_content",
+					"EmmaCampaignJSON",
+					"mailing.send.test.prompt",
+					"unsandbox_editor_css",
+					"****\n\n\\*\\*\\*\\*",
+					"<!--",
+					"<!-- ",
+					"--------------",
+					"\\\\n",
+					"mailing.template.create.prompt",
+					"showBigstockPreview",
+					"stock\nstock\nshowBigstockPreview",
+					"stock\nshowBigstockPreview",
+					"stock",
+					"testdrive",
+					"testdrive@",
+					"testdrive",
+					"each_rule",
+					"unsandbox_editor_css",
+					"def campaign_",
+					"campaign_",
+					"NewTemplate",
+					"pageviews",
+					"<table cellpadding=\"2\" cellspacing=\"0\" border=\"1\">",
+					"</?b>",
+					"<table cellpadding=\"2\" cellspacing=\"0\">",
+					"cellpadding=\"5\"",
+					"cellpading",
+					"<table",
+					"</div>",
+					"<div>",
+					"th>",
+					"campaigns",
+					"templates",
+					"/templates",
+					"galleryTemplates",
+					"galleryTemplateCollection",
+					"template-gallery-gallery-entry",
+					"span",
+					" class=\"\"",
+					" align=\"right\" ",
+					" class=\"[\\w -\\.]+\"",
+					"-",
+					"<div id=\"[\\w -]+\">",
+					"<div id=\"[\\w -]\">",
+					"<span style=\"\">",
+					"<input type=\"checkbox\">",
+					"<span>",
+					"</span>",
+					"<div>",
+					"</div>",
+					"<span><span>",
+					" class=\"[\\w -\\.]+\"",
+					" class=\"[\\w -]+\"",
+					"<div style=\"width:[\\d\\.]+%;\"></div>",
+					" class=\"[\\w -]+\"",
+					"<div style=\"width:18.34636102444145%;\"></div>",
+					"<div style=\"width:[\\d\\.]%;\"></div>",
+					" class=\"[\\w -]+\"",
+					" class=\"\\w+\"",
+					" class=\"NJ \"",
+					" class=\"Fx\"",
+					"get_default_account_for_user",
+					"background-size: 24px 24px;",
+					"  ",
+					".span2.icon.icon-beaker",
+					"32px 32px",
+					"icon-asterisk",
+					"icon-magnet",
+					"[class*=\" ",
+					"14px",
+					"icon-beaker",
+					"	",
+					"  ",
+					"'",
+					"  ",
+					"'",
+					"parseInt(document.resize.roundto.value, 10)",
+					"document.resize.newheight.value",
+					"document.resize.newwidth.value",
+					"fWidth",
+					"document.resize.newwidth.value",
+					";\" d=\"",
+					"\" />",
+					"<glyph unicode=\"",
+					"books",
+					"horiz-adv-x=\"[0-9]+\" ",
+					"respond",
+					"  ",
+					"ExpiredTrialAccountError",
+					"trial_mailings_remaining",
+					"\\n",
+					"get_mailings_sent",
+					"trial_email_quota",
+					"account_utils",
+					"ExpiredTrialAccountError",
+					"audience",
+					"theme_block",
+					"emma-theme",
+					"()\n",
+					"theme_customization",
+					"spaceless",
+					"log out",
+					"\"start",
+					"back-to-start-page",
+					"logo.png",
+					"back-to-start-page",
+					"log out",
+					"come back here",
+					"audience",
+					"accountsetting",
+					"render_to_response",
+					"./templates/newui_base.html",
+					"view",
+					"render_to",
+					"AcccountSetting",
+					"login_required",
+					"@login_required"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\n",
+					"<table cellpadding=\"2\" cellspacing=\"0\" border=\"1\" width=\"100%\">",
+					"",
+					"<table cellpadding=\"2\" cellspacing=\"0\" border=\"1\">",
+					"cellpadding=\"2\"",
+					"cellpadding",
+					"",
+					"td>",
+					" ",
+					"",
+					"@include background-size;",
+					"\\t",
+					"24px 24px",
+					"icon-comments",
+					"icon-fire",
+					"icon-magnet",
+					"  ",
+					"\\t",
+					"\"",
+					"\\t",
+					"\"",
+					"roundto",
+					"cHeight",
+					"fWidth",
+					"|",
+					"",
+					"glyphs",
+					"",
+					"\\t",
+					" ",
+					"\\t",
+					"amatthews",
+					"<yourusername>",
+					"Intern",
+					"jqm.autoComplete-1.5.0-min.js",
+					"\\t",
+					"",
+					"\\t",
+					"\\n",
+					"Voucher Wardrobe Package",
+					"Associate-Stylist-Wardrobe-Package",
+					"/images/",
+					"/images",
+					"\"/images",
+					"/images",
+					"../images",
+					"Associate",
+					"Apprentice",
+					"<dt><a href=\"#faq-1\">\\1</a></dt>",
+					"<dt><a href=\"\">\\1</a></dt>",
+					"1",
+					"<dt id=\"faq-01\">",
+					" <dt id=\"faq-01\">",
+					"info@tinaadamsconsulting.com",
+					"p",
+					"",
+					"\\t",
+					"		",
+					"\"",
+					"\\t",
+					"\\n",
+					">\\n<",
+					"  ",
+					"",
+					"}",
+					"",
+					".png\" title=\"click to enlarge\"></td>",
+					"<td><img src=\"fixed.gif\" class=\"npc\"></td>",
+					" class=\"npc\" title=\"click to enlarge\"",
+					"<td><img src=\"fixed.gif\" class=\"npc\"></td>",
+					"<tr class=\"black\">",
+					"white",
+					"black",
+					"white",
+					"black",
+					"white",
+					"fixed",
+					"20n",
+					"19n",
+					"18n",
+					"17n",
+					"16n",
+					"15n",
+					"14n",
+					"13n",
+					"12n",
+					"11n",
+					"10n",
+					"9n",
+					"</tr>\\n<tr",
+					"</td>\\n<td>",
+					"",
+					"fixed",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"",
+					"<td><img src=\"fixed.gif\" /></td>",
+					"<td><img src=\"broken.gif\" /></td>",
+					"",
+					"<td><img src=\"broken.gif\" /></td>",
+					"",
+					"<td><img src=\"http://imgs.xkcd.com/clickdrag/$1\" /></td>",
+					"8s",
+					"7s",
+					"6s",
+					"5s",
+					"4s",
+					"3s",
+					"2s",
+					"1s",
+					"8n",
+					"7n",
+					"6n",
+					"5n",
+					"4n",
+					"3n",
+					"2n",
+					"</td>",
+					"",
+					"cha2-app-01.js",
+					"app_id",
+					"Gallery$1",
+					"  ",
+					"",
+					"code/cha1/cha1",
+					"Gallery",
+					"galleries"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create/e2ma/e2ma.send.js",
+							"settings":
+							{
+								"buffer_size": 14011,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12266,
+										12266
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 6647.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/amatthews/Dev/emma/python/emma/apps/campaigns/urls.py",
+							"settings":
+							{
+								"buffer_size": 9178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4709,
+										4726
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 617.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/amatthews/Dev/emma/python/emma/apps/campaigns/views.py",
+							"settings":
+							{
+								"buffer_size": 166038,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										111461,
+										111461
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 52972.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/amatthews/Dev/emma/python/emma/apps/campaigns/emma_campaign_json.py",
+							"settings":
+							{
+								"buffer_size": 46026,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2574,
+										2574
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1456.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/amatthews/Dev/emma/python/emma/apps/campaigns/emma_campaign_blocks.py",
+							"settings":
+							{
+								"buffer_size": 19122,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										33,
+										33
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 104.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/amatthews/Desktop/logging.py",
+							"settings":
+							{
+								"buffer_size": 519,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										477,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 217.0
+			},
+			"output.exec":
+			{
+				"height": 128.0
+			},
+			"output.tests":
+			{
+				"height": 122.0
+			},
+			"position": "391 21 1138 1034 0 0 1920 1058 ",
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"service",
+						"services.php"
+					],
+					[
+						"paym",
+						"payment.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"style",
+						"assets/styles.css"
+					],
+					[
+						"ser",
+						"services.php"
+					],
+					[
+						"main",
+						"css/main.scss"
+					],
+					[
+						"appl",
+						"js/application.js"
+					],
+					[
+						"build",
+						"BuildingTheHomePage.pml"
+					],
+					[
+						"getting",
+						"GettingStartedWithEmberJs.pml"
+					],
+					[
+						"applca",
+						"js/application.js"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"displaypo",
+						"displayPosts.cfm"
+					],
+					[
+						"index.",
+						"index.cfm"
+					],
+					[
+						"htace",
+						".htaccess"
+					],
+					[
+						"stats",
+						"com/jrnl/stats.cfc"
+					],
+					[
+						"applica",
+						"js/application.js"
+					],
+					[
+						"ins",
+						".sass-cache/100b527c542b6ad76c032f7dc32d1f5e9c74941b/_inline-block.scssc"
+					],
+					[
+						"app",
+						"js/application.js"
+					],
+					[
+						"apl",
+						"js/application.js"
+					],
+					[
+						"index.html",
+						"/Users/andymatthews/Sites/code/notekeeper/index.html"
+					],
+					[
+						"",
+						"/Users/andymatthews/Sites/code/notekeeper/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 221.0,
+			"status_bar_visible": true,
+			"window_id": 1441,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

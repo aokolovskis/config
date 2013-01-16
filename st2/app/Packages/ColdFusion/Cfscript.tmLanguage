@@ -19,6 +19,11 @@
             <key>include</key>
             <string>#comments</string>
         </dict>
+        <!-- apparently cfml style comments are working in Railo -->
+        <dict>
+            <key>include</key>
+            <string>#cfcomments</string>
+        </dict>
 
          <!-- this is just the "component" tag operator -->
         <dict>
@@ -385,15 +390,14 @@
 
                 <dict>
                     <key>begin</key>
-                    <string>(?x)
-                        \b
+                    <string>(?x)^[\s}]*
                         (?i:
                         (lock)|(transaction)|(thread)|(abort)
                         |(exit)|(include)|(param)|(thread)|(import)
                         |(rethrow|throw)|(property)|(interface)|(location)
                         |(break)|(pageencoding)|(schedule)|(return)|(try|catch|finally)
                         |(for|in|do|while|break|continue)
-                        |(trace)|(savecontent)
+                        |(trace)|(savecontent)|(http|httpparam)
                         )
                         \b
                         \s*
@@ -506,18 +510,82 @@
                             <key>name</key>
                             <string>entity.name.tag.operator.savecontent.cfscript</string>
                         </dict>
+                        <key>22</key>
+                        <dict>
+                            <key>name</key>
+                            <string>entity.name.tag.operator.http.cfscript</string>
+                        </dict>
                     </dict>
                     <key>end</key>
-                    <string>(?=[;{\(])</string>
+                    <string>(;)|({)</string>
+                    <key>endCaptures</key>
+                    <dict>
+                        <key>1</key>
+                        <dict>
+                            <key>name</key>
+                            <string>punctuation.terminator.cfscript</string>
+                        </dict>
+                        <key>3</key>
+                        <dict>
+                            <key>name</key>
+                            <string>meta.brace.curly.cfscript</string>
+                        </dict>
+                    </dict>
                     <key>name</key>
                     <string>meta.operator.cfscript</string>
                     <key>patterns</key>
                     <array>
                         <dict>
+                            <key>begin</key>
+                            <string>\(</string>
+                            <key>beginCaptures</key>
+                            <dict>
+                                <key>0</key>
+                                <dict>
+                                    <key>name</key>
+                                    <string>meta.brace.curly.cfscript</string>
+                                </dict>
+                            </dict>
+                            <key>end</key>
+                            <string>\)</string>
+                            <key>endCaptures</key>
+                            <dict>
+                                <key>0</key>
+                                <dict>
+                                    <key>name</key>
+                                    <string>meta.brace.curly.cfscript</string>
+                                </dict>
+                            </dict>
+                            <key>patterns</key>
+                            <array>
+                                <dict>
+                                    <key>match</key>
+                                    <string>,</string>
+                                    <key>name</key>
+                                    <string>punctuation.definition.seperator.arguments.cfscript</string>
+                                </dict>
+                                <dict>
+                                    <key>match</key>
+                                    <string>(?i:(\w+)\s*(?=\=))</string>
+                                    <key>name</key>
+                                    <string>entity.other.operator-parameter.cfscript</string>
+                                </dict>
+                                <dict>
+                                    <key>include</key>
+                                    <string>#cfscript-code</string>
+                                </dict>
+                            </array>
+                        </dict>
+                        <dict>
                             <key>match</key>
                             <string>(?i:(\w+)\s*(?=\=))</string>
                             <key>name</key>
-                            <string>entity.tag.name.operator-attribute.other.cfscript</string>
+                            <string>entity.other.attribute-name.cfscript</string>
+                        </dict>
+                        <!-- cfml style comments are apparently legal here too -->
+                        <dict>
+                            <key>include</key>
+                            <string>#cfcomments</string>
                         </dict>
                         <dict>
                             <key>include</key>
@@ -570,7 +638,7 @@
                             <key>match</key>
                             <string>(?i:(\w+)\s*(?=\=))</string>
                             <key>name</key>
-                            <string>entity.name.tag.operator-attribute.other.cfscript</string>
+                            <string>entity.other.attribute-name.cfscript</string>
                         </dict>
                         <dict>
                             <key>include</key>
@@ -942,7 +1010,6 @@
         <!-- / keywords -->
 
         <!-- function-call -->
-        <!-- TODO: add all language functions -->
         <key>function-call</key>
         <dict>
             <key>begin</key>
@@ -1063,6 +1130,12 @@
                     <string>,</string>
                     <key>name</key>
                     <string>punctuation.definition.seperator.arguments.cfscript</string>
+                </dict>
+                <dict>
+                    <key>match</key>
+                    <string>(?i:(\w+)\s*(?=\=))</string>
+                    <key>name</key>
+                    <string>entity.other.method-parameter.cfscript</string>
                 </dict>
                 <!-- issue #93 cfml comments in
                  source.embedded.cfscript tags function calls (cfset/cfreturn) -->

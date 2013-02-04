@@ -42,7 +42,7 @@ function md(){
 	mkdir $1 && cd $1
 }
 function startEmma(){
-	cd ~/VirtualMachines/Emma.vagrant
+	cd ~/VirtualMachines/LocalEmma/ 
 	vagrant up
 }
 function deepThought(){

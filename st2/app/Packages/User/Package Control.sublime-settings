@@ -2,19 +2,29 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"cdnjs",
 		"ColdFusion",
 		"CSSLint",
+		"Djaneiro",
+		"Emmet",
 		"Git",
+		"HtmlTidy",
+		"Jade",
 		"JSHint",
 		"LESS",
 		"Package Control",
+		"Pretty JSON",
 		"RubyTest",
 		"SCSS",
 		"SideBarEnhancements",
+		"sublime-github",
 		"Sublime-JSHint",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Tomorrow Color Schemes"
+		"SublimeTODO",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"Web Inspector"
 	],
 	"repositories":
 	[

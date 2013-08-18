@@ -1,34 +1,47 @@
 {
 	"folder_history":
 	[
+		"/Users/amatthews/Dev/hubot-social",
+		"/Users/amatthews/Dev/social/sprintdemo",
 		"/Users/amatthews/Dev/social",
-		"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder",
-		"/Users/amatthews/Dropbox/github/jquery-mobile-icon-pack/font-awesome",
-		"/Users/amatthews/Dropbox/github/jquery-mobile-icon-pack",
-		"/Users/amatthews/Dropbox/github/pickadate.js",
-		"/Users/amatthews/Dev/_social_app_php",
-		"/Users/amatthews/Dev/_social_api/python/emma/apps/social",
-		"/Users/amatthews/Dev/emma",
-		"/Users/amatthews/Dropbox/github/ftssyncvault.com",
+		"/Users/amatthews/Dropbox/github/hubot",
+		"/Users/amatthews/Dev/streaming",
+		"/Users/amatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad",
+		"/Users/amatthews/Dev/social/src/seleniumtests",
 		"/Users/amatthews/Dev/social-streaming",
-		"/Users/amatthews/Dropbox/Development/clients/richkalonick/website",
-		"/Users/amatthews/Dev/social/src",
+		"/Users/amatthews/Desktop/selenium/agencySprintTwelve",
+		"/Users/andymatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad",
+		"/Users/andymatthews/Dropbox/github/fastbook.mobi",
+		"/Users/andymatthews/Dropbox/github/fastbook.mobi/",
+		"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications/code",
+		"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications/app",
+		"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications/article",
+		"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net",
+		"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications",
+		"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack",
 		"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src",
-		"/Users/amatthews/Dropbox/github/ember-data-django-rest-adapter",
-		"/Users/amatthews/Dropbox/github/top-github-users",
+		"/Users/amatthews/Dropbox/github/jquery.maskedinput/demo",
+		"/Users/amatthews/Dropbox/github/jquery.maskedinput",
+		"/Users/amatthews/Dev/social/vm",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website",
+		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/",
+		"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder",
+		"/Users/andymatthews/Desktop/temp",
+		"/Users/andymatthews/Dropbox/github/ftssyncvault.com",
+		"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack",
+		"/Users/andymatthews/Dropbox/github/Sticky",
+		"/Users/andymatthews/Dropbox/github/autoComplete.js",
 		"/Users/andymatthews/Dropbox/github/social",
 		"/Users/andymatthews/Dropbox/github/ftsfilevault.com",
-		"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website",
 		"/Users/andymatthews/Dropbox/Development/clients/richkalonick",
-		"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack",
-		"/Users/andymatthews/Dropbox/github/autoComplete.js",
 		"/Users/andymatthews/Dropbox/github/jsdownloader",
 		"/Users/amatthews/Dev/social-streaming/vm",
 		"/Users/amatthews/Dev/social/src/emmasocial/api/tests",
 		"/Users/amatthews/Dropbox/github/django-allauth",
+		"/Users/amatthews/Dev/emma",
 		"/Users/amatthews/Dropbox/github/jsdownloader",
 		"/Users/amatthews/Dev/_social_api",
-		"/Users/andymatthews/Dropbox/github/Sticky",
+		"/Users/amatthews/Dev/social/src",
 		"/Users/andymatthews/Dropbox/Writing/Presentations/Using jQuery Mobile for your Next Web Application/2013 - Adobe Max",
 		"/Users/amatthews/Dropbox/github/todoMVC/architecture-examples/backbone",
 		"/Users/amatthews/Dropbox/Development/code/backbone",
@@ -36,15 +49,16 @@
 		"/Users/amatthews/Desktop/7263_Code/Chapter 11",
 		"/Users/amatthews/Dropbox/Writing/Presentations/Using jQuery Mobile for your Next Web Application/2013 - Adobe Max",
 		"/Users/amatthews/Dropbox/github/reveal.js",
-		"/Users/amatthews/Dev/social/sprintdemo",
 		"/Users/amatthews/Desktop/social-sprint-03",
 		"/Users/amatthews/Desktop/Social-demo",
 		"/Users/amatthews/Desktop/resting",
+		"/Users/amatthews/Dropbox/github/ember-data-django-rest-adapter",
 		"/Users/amatthews/Dropbox/Development/personal/andymatthews.net/code/deepthoughts",
 		"/Users/amatthews/Dropbox/Development/personal/andymatthews.net",
 		"/Users/amatthews/Dropbox/github/generator-ember",
 		"/Users/amatthews/Dropbox/github/ember-starter-kit",
 		"/Users/amatthews/Desktop/starter-kit",
+		"/Users/amatthews/Dropbox/Development/clients/richkalonick/website",
 		"/Users/amatthews/Dropbox/github/nodeWhiteBoard",
 		"/Users/amatthews/Desktop/express-test",
 		"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/app",
@@ -56,7 +70,6 @@
 		"/Users/amatthews/Dropbox/github/complex-ember-data-example/codecamp/static/script",
 		"/Users/amatthews/Dropbox/github",
 		"/Users/amatthews/Dropbox/github/fastbook.mobi",
-		"/Users/amatthews/Dev/social/vm",
 		"/Users/amatthews/Dropbox/Development/code/twitterLinking",
 		"/Users/amatthews/Dev/social/src/emmasocial/api",
 		"/Users/amatthews/Dev/social/src/emmasocial",
@@ -81,10 +94,9 @@
 		"/Users/amatthews/Dev/emma/python/emma/apps/social",
 		"/Users/amatthews/Dev/emma/python/emma/media/js/mailing-create-templates",
 		"/Users/amatthews/Dev/emma/python/emma/apps/rest_services",
+		"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder",
 		"/Users/amatthews/Desktop/tweets/data/js",
 		"/Users/amatthews/Desktop/tweets",
-		"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder",
-		"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net",
 		"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack/font-awesome",
 		"/Users/andymatthews/Downloads/customfont",
 		"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder-ALT",
@@ -92,7 +104,6 @@
 		"/Users/amatthews/Dev/emma/python/emma/lib/sqlalchemy",
 		"/Users/andymatthews/Dropbox/Development/clients/tinaadamsconsulting",
 		"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book",
-		"/Users/andymatthews/Dropbox/github/fastbook.mobi",
 		"/Users/andymatthews/Dropbox/Development/_oldsites/tinaadamsconsulting",
 		"/Users/andymatthews/Dropbox/github/CFToolbar",
 		"/Users/amatthews/Dropbox/Development/python/myApp/myApp",
@@ -104,7 +115,6 @@
 		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book",
 		"/Users/andymatthews/Desktop/regatta",
 		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/libs",
-		"/Users/andymatthews/Desktop/temp",
 		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code/cha1",
 		"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/code/openexchangerateCFC",
 		"/Users/andymatthews/Dropbox/Writing/Books/Ember.js/amejs/Book/InfoWeNeed",
@@ -118,22 +128,12 @@
 		"/Users/andymatthews/Dropbox/Writing/Presentations/Going Deeper with jQuery Mobile - Nashville",
 		"/Users/andymatthews/Desktop/bridgeclub",
 		"/Users/andymatthews/Dropbox/Writing/Articles/Yeoman At Your Service: Tooling and Frameworks for Beautiful Web Applications",
-		"/Users/andymatthews/Desktop/bridgeclub/app",
-		"/Users/andymatthews/Dropbox/Development/code/steveharvey",
-		"/Users/andymatthews/Dropbox/Development/code/goba",
-		"/Users/andymatthews/Dropbox/Writing/books/Ember.js/amejs/Book/code",
-		"/Users/andymatthews/Desktop/radio",
-		"/Users/andymatthews/Dropbox/Writing/Blog Posts/ember-router-example-part-02",
-		"/Users/andymatthews/Dropbox/Development/clients",
-		"/Users/andymatthews/Dropbox/Writing/Blog Posts/ember-router-example-part-01",
-		"/Users/andymatthews/Dropbox/Development/code/Ember/Router",
-		"/Users/andymatthews/Dropbox/Development/code/bookmark-bubble",
-		"/Users/andymatthews/Dropbox/Development/code/wikipedia"
+		"/Users/andymatthews/Desktop/bridgeclub/app"
 	],
-	"last_window_id": 1947,
+	"last_window_id": 2046,
 	"settings":
 	{
-		"new_window_height": 1132.0,
+		"new_window_height": 1012.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -141,28 +141,88 @@
 				"selected_items":
 				[
 					[
-						"create",
-						"create-new-post"
+						"profil",
+						"profile_url"
 					],
 					[
-						"e",
-						"else"
+						"statu",
+						"status_endpoint"
 					],
 					[
-						"message",
-						"messageKey"
+						"ra",
+						"randrange  (function)"
 					],
 					[
-						"ope",
-						"open"
+						"line",
+						"lineWidth"
 					],
 					[
-						"for",
-						"forEach"
+						"char",
+						"chartType"
 					],
 					[
-						"ga",
-						"ga_status"
+						"camp",
+						"campaign-content-input"
+					],
+					[
+						"y",
+						"yAxisFormat"
+					],
+					[
+						"xAx",
+						"xAxisFormat"
+					],
+					[
+						"is",
+						"is_scheduled"
+					],
+					[
+						"scheduled",
+						"scheduled_at"
+					],
+					[
+						"sched",
+						"scheduled_at"
+					],
+					[
+						"chec",
+						"checkLength"
+					],
+					[
+						"text",
+						"textIsValid"
+					],
+					[
+						"ph",
+						"photo"
+					],
+					[
+						"j",
+						"join"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"gall",
+						"galleries"
+					],
+					[
+						"pho",
+						"photo_id"
+					],
+					[
+						"new_file",
+						"new_file_path"
+					],
+					[
+						"galleries",
+						"galleries_id"
+					],
+					[
+						"backgrou",
+						"background-image:   (property)"
 					],
 					[
 						"l",
@@ -199,6 +259,10 @@
 					[
 						"write",
 						"writeZip"
+					],
+					[
+						"message",
+						"message"
 					],
 					[
 						"str",
@@ -587,126 +651,82 @@
 					[
 						"post",
 						"post_path"
-					],
-					[
-						"s",
-						"src"
-					],
-					[
-						"style",
-						"style"
-					],
-					[
-						"lo",
-						"log"
-					],
-					[
-						"len",
-						"length"
-					],
-					[
-						"cfpara",
-						"CFPARAM"
-					],
-					[
-						"bol",
-						"border-left"
-					],
-					[
-						"font-we",
-						"font-weight"
-					],
-					[
-						"content",
-						"contentBinding"
-					],
-					[
-						"list",
-						"list	list-style: type position image"
-					],
-					[
-						"he",
-						"height"
-					],
-					[
-						"SearchReul",
-						"searchResult"
-					],
-					[
-						"Search",
-						"searchResults"
-					],
-					[
-						"Backbo",
-						"Backbone"
-					],
-					[
-						"fo",
-						"for"
-					],
-					[
-						"backgr",
-						"background	background-color: hex"
-					],
-					[
-						"Fav",
-						"FavoritesView"
 					]
 				]
 			},
 			"build_system": "Packages/JSHint/JSHint.sublime-build",
 			"command_palette":
 			{
-				"height": 315.0,
+				"height": 95.0,
 				"selected_items":
 				[
 					[
+						"json",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
 						"html",
 						"Set Syntax: HTML"
-					],
-					[
-						"javascript",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"open gi",
-						"GitHub: Open Gist in Editor"
-					],
-					[
-						"open gist",
-						"GitHub: Open Gist in Browser"
 					],
 					[
 						"gist",
 						"GitHub: Public Gist from Selection"
 					],
 					[
+						"django",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"javascript",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
 						"javasc",
 						"Set Syntax: JavaScript"
 					],
 					[
-						"install pac",
-						"Package Control: Install Package"
+						"javasct",
+						"Set Syntax: JavaScript"
 					],
 					[
-						"install pack",
-						"Package Control: Install Package"
+						"Ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"javascip",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"pyt",
+						"Set Syntax: Python"
 					],
 					[
 						"tidy",
 						"Tidy HTML"
 					],
 					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
 						"Snippet: html",
 						"Snippet: html"
-					],
-					[
-						"python",
-						"Set Syntax: Python"
 					],
 					[
 						"jaasc",
@@ -733,24 +753,12 @@
 						"Indentation: Convert to Tabs"
 					],
 					[
-						"ruby",
-						"Set Syntax: Ruby"
-					],
-					[
-						"json",
-						"Pretty JSON: Reformat (Pretty Print) JSON"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
 						"remo",
 						"Package Control: Remove Package"
-					],
-					[
-						"text",
-						"Set Syntax: Plain Text"
 					],
 					[
 						"cdn",
@@ -762,6 +770,10 @@
 					],
 					[
 						"install page",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
 						"Package Control: Install Package"
 					],
 					[
@@ -797,16 +809,16 @@
 						"Show TODOs: Project and open files"
 					],
 					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
 						"jshint",
 						"JSHint: Linter"
 					],
 					[
 						"jshit",
 						"JSHint"
-					],
-					[
-						"django",
-						"Set Syntax: HTML (Django)"
 					],
 					[
 						"install pa",
@@ -843,10 +855,6 @@
 					[
 						"pyth",
 						"Set Syntax: Python"
-					],
-					[
-						"sql",
-						"Set Syntax: SQL"
 					],
 					[
 						"css",
@@ -931,6 +939,10 @@
 					[
 						"php",
 						"Set Syntax: PHP"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
 					],
 					[
 						"zen",
@@ -1069,7 +1081,7 @@
 						"Snippet: #!/usr/bin/env"
 					]
 				],
-				"width": 588.0
+				"width": 435.0
 			},
 			"console":
 			{
@@ -1086,134 +1098,134 @@
 			},
 			"file_history":
 			[
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/index.html",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack/font-awesome/jqm-icon-pack-fa.css",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/app/css/font-builder.css",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/app/js/controllers.js",
-				"/Users/amatthews/Downloads/customfont/fontawesome.css",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/app/bootstrap/css/font-awesome.css",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack/font-awesome/jqm-icon-pack-fa.scss",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/app/js/app.js",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/templates/font-awesome.css.template",
-				"/Users/amatthews/Dropbox/github/jquery-mobile-icon-pack/font-awesome/index.html",
-				"/Users/amatthews/Dropbox/github/jquery-mobile-icon-pack/font-awesome/jqm-icon-pack-3.0.0-fa.css",
-				"/Users/amatthews/Dropbox/github/jquery-mobile-icon-pack/font-awesome/jqm-icon-pack-3.0.0-fa.scss",
-				"/Users/amatthews/Desktop/Social DB Backup/social_db.1370995201",
-				"/Users/amatthews/Dev/social/src/emmasocial/templates/activity.html",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.activity.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/models.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/views.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/serializers.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/urls.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/models.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.utils.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/main.scss",
-				"/Users/amatthews/Dev/social/src/emmasocial/templates/reports.html",
-				"/Users/amatthews/Dev/social/vm/Vagrantfile",
-				"/Users/amatthews/Dev/social/fabfile.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/main.css",
-				"/Users/amatthews/Downloads/social_db.1370995201.sql",
-				"/Users/amatthews/Downloads/social_db.1370995201.gz",
-				"/Users/amatthews/Downloads/social_db.1370995201",
-				"/Users/amatthews/Dev/_social_app_php/protected/controllers/SiteController.php",
-				"/Users/amatthews/Dev/_social_api/php/emma2/scripts/dbconnect.php",
-				"/Users/amatthews/Dev/social/requirements.txt",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.reports.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/_reports.scss",
-				"/Users/amatthews/Downloads/novus-nvd3-90e4078/examples/stackedAreaChart.html",
+				"/Users/amatthews/Dev/social/sprintdemo/sprint-13.html",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/jira-issues.coffee",
+				"/Users/amatthews/Dev/hubot-social/hubot-scripts.json",
+				"/Users/amatthews/Dev/hubot-social/scripts/jira-issues.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/jira.coffee",
+				"/Users/amatthews/Dev/hubot-social/scripts/jira.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/party_gifs.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/nettipot.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/look-of-disapproval.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/megusta.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/mailchimp-subscribe.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/likeaboss.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/haters.coffee",
+				"/Users/amatthews/Dev/hubot-social/package.json",
+				"/Users/amatthews/Dev/hubot-social/README.md",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot/docs/scripting.md",
+				"/Users/amatthews/Dev/hubot-social/Procfile",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/admin.scss",
 				"/Users/amatthews/Dev/social/src/emmasocial/templates/base_app.html",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/requirements.txt",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/app.py",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/index.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/libs/token-input-facebook.css",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/mousetrap.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/min/application.activity-min.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/_mixins.scss",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-data-r13.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/core.libs.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-data-r12.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-data-adapter.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-1.0.0-rc.4.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/templates/index.html",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-data-serializer.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-1.0.0-rc.2.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_acct_meta.py",
-				"/Users/amatthews/Dropbox/github/top-github-users/format-users.coffee",
-				"/Users/amatthews/Dropbox/github/top-github-users/README.md",
-				"/Users/amatthews/Dropbox/github/top-github-users/temp-logins.json",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/static/css/app.scss",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/static/css/main.scss",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/env/lib/python2.7/site-packages/flask/app.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_utm_tracking_params.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/templates/base_admin.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/templates/accounts.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/templates/consumers.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/templates/main.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/activity.html",
+				"/Users/amatthews/Desktop/random_article.py",
+				"/Users/amatthews/Desktop/random-wiki-article",
+				"/Users/amatthews/Dropbox/github/config/alfred/Alfred 2/Alfred.alfredpreferences/workflows/user.workflow.418A8F3D-B225-4C79-924C-D1C179FE1F86/format.php",
+				"/Users/amatthews/Dropbox/github/config/alfred/Alfred 2/Alfred.alfredpreferences/workflows/user.workflow.2AAFE036-DFDA-418B-AC14-8E8E5A785E84/upload_open__imgur.scpt",
+				"/Users/amatthews/Dropbox/github/config/alfred/Alfred 2/Alfred.alfredpreferences/workflows/user.workflow.2AAFE036-DFDA-418B-AC14-8E8E5A785E84/upload_imgur.scpt",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/views.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/facebook/utils.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_facebook_utils.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/models.py",
 				"/Users/amatthews/Dev/social/src/emmasocial/tests/__init__.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_url_extraction.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/facebook/base.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/migrations/0025_auto__add_unique_accountmeta_account_key.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/permissions.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/monkey.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/views.py",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/templates/gallery-intro.txt",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/index.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app.py",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/js/application.admin.js",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/templates/gallery-thumbnail.txt",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/login.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/app.scss",
-				"/Users/andymatthews/Downloads/starter-kit-1.0.0-rc.3/js/app.js",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/admin.css",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/base.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/admin.scss",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/globals.scss",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/login.scss",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/bootstrap.min.css",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/fonts.scss",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/config.rb",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/admin_login.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/admin_base.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/index_admin.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/requirements.txt",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/base_admin.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/categories_admin.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/base.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/forms.py",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/data/weddings_lg.json",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/fabfile.py",
-				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack/original/index.html",
-				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack/original/jqm-icon-pack-2.0-original.css",
-				"/Users/andymatthews/Downloads/jquery.mobile-1.3.1/demos/widgets/icons/index.html",
-				"/Users/andymatthews/Desktop/icons.html",
-				"/Users/andymatthews/Dropbox/github/autoComplete.js/readme.md",
-				"/Users/andymatthews/Dropbox/github/autoComplete.js/jqm.autoComplete-1.5.1.js",
-				"/Users/andymatthews/Dropbox/github/autoComplete.js/array.html",
-				"/Users/andymatthews/Dropbox/github/autoComplete.js/index.html",
-				"/Users/andymatthews/Dropbox/github/jsdownloader/package.json",
-				"/Users/amatthews/Dev/social-streaming/streaming/tasks.py",
-				"/Users/amatthews/Dev/social-streaming/streaming/documentstore.py",
-				"/Users/amatthews/Dev/social-streaming/streaming/settings.py",
-				"/Users/amatthews/Dropbox/MOthers Day/index.html",
-				"/Users/amatthews/Dev/social/src/emmasocial/tasks.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/management/commands/flood_account_growth.py",
-				"/Users/amatthews/Dev/social/sprintdemo/sprint-06.html",
-				"/Users/amatthews/Dev/social/src/emmasocial/management/commands/processmessages.py",
-				"/Users/amatthews/Dev/social/src/manage.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.index.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/min/spin.min.js",
-				"/Users/amatthews/Dev/social/sprintdemo/plugin/notes-server/index.js",
+				"/Users/amatthews/Dev/social/vm/Vagrantfile",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/samples/andy.json",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_page_access.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/facebook/exceptions.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.activity.js",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/min/application.activity-min.js",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/serializers.py",
+				"/Users/amatthews/Dev/social/requirements.txt",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.utils.js",
+				"/Users/amatthews/Dropbox/github/hubot-emma/where_is_my_shit.coffee",
+				"/Users/amatthews/Dropbox/github/hubot-scripts/src/scripts/httpcat.coffee",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/urls.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/throttles.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/settings_local.py",
 				"/Users/amatthews/Dev/social/src/emmasocial/settings.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/twitter/base.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/migrations/0023_auto__add_accountmeta__chg_field_message_message_key.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/tests/AccountGrowth.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/tests.py",
-				"/Users/amatthews/Dev/emma/python/tests/__init__.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/schedule.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/jquery.tokeninput.js",
-				"/Users/amatthews/Downloads/twitter-1.9.4/README",
-				"/Users/amatthews/Downloads/twitter-1.9.4/twitter/cmdline.py",
-				"/Users/amatthews/Downloads/twitter-1.9.4/PKG-INFO",
-				"/Users/amatthews/Downloads/twitter-1.9.4/setup.py",
-				"/Users/amatthews/Downloads/twitter-1.9.4/setup.cfg",
-				"/Users/amatthews/Dev/social/src/emmasocial/local_settings.py",
-				"/Users/amatthews/Dropbox/github/django-allauth/allauth/socialaccount/models.py"
+				"/Users/amatthews/Dev/streaming/streaming/tasks.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/500.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/urls.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/views.py",
+				"/Users/amatthews/Dev/social/src/allauth/account/views.py",
+				"/Users/amatthews/Dev/social/src/allauth/socialaccount/views.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/settings_prod.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/index.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/main.scss",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/views.py",
+				"/Users/amatthews/Dev/social/src/allauth/socialaccount/providers/facebook/provider.py",
+				"/Users/amatthews/Dev/social/src/allauth/socialaccount/providers/twitter/provider.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/facebook/base.py",
+				"/Users/amatthews/Dev/social/src/allauth/socialaccount/models.py",
+				"/Users/amatthews/Dev/social/src/allauth/models.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tasks.py",
+				"/Users/amatthews/Desktop/test.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_acct_meta.py",
+				"/Users/amatthews/Dev/streaming/streaming/flaskapp.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/urls.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_emmasocial_views.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_utils.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/utils.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/decorators.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/settings_dev.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/admin/main.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/admin/base_admin.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/models.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/admin_base.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/admin.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/_emmaicons.scss",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/fonts/EmmaIcons.dev.svg",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/fonts/EmmaIcons.svg",
+				"/Users/amatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/index.html",
+				"/Users/amatthews/Dev/social/src/seleniumtests/test_app_posting.py",
+				"/Users/amatthews/Dev/social/src/seleniumtests/main.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/selenium/tests/agencySprintTwelve.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_account_engagement_index.py",
+				"/Users/amatthews/Dev/social/src/seleniumtests/tests/test_logging_in_with_twitter_account.py",
+				"/Users/amatthews/Dev/social/src/seleniumtests/__init__.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/selenium/tests/__init__.py",
+				"/Users/amatthews/Dev/social/src/selenium/tests.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_url_extraction.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/selenium/tests/first_test.py",
+				"/Users/amatthews/Dev/social/src/manage.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/selenium/chromedriver.log",
+				"/Users/amatthews/Dev/social/fabfile.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/selenium/agencySprintTwelve.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/__init__.py",
+				"/Users/amatthews/Dev/social/submodules/django-allauth/example/example/local_settings.example",
+				"/Users/amatthews/Desktop/selenium/agencySprintTwelve/splinter/include/python2.7/frameobject.h",
+				"/Users/andymatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/css/big.css",
+				"/Users/andymatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/js/big.js",
+				"/Users/andymatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/css/custom.css",
+				"/Users/andymatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/index.html",
+				"/Users/andymatthews/Dropbox/github/hubot-scripts/src/scripts/httpcat.coffee",
+				"/Users/andymatthews/Dropbox/github/hubot-scripts/src/scripts/nickgen.coffee",
+				"/usr/local/lib/node_modules/hubot/src/nickgen.coffee",
+				"/usr/local/lib/node_modules/hubot/src/scripts/httpcat.coffee",
+				"/usr/local/lib/node_modules/hubot/src/httpcat.coffee",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/includes/header.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/b/includes/header.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/login.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/b/login.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/b/home.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/home.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/css/custom.css",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/book.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/services.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/details.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/css/jquery.mobile.flatui.css",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/unicorn/html/css/unicorn.fastbook.css",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/b/includes/manage.php",
+				"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications/code/css/style.css",
+				"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications/code/js/app.js",
+				"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications/code/index.html",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/com/jrnl/jrnl.cfc",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/Application.cfm",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/displayPosts.cfm"
 			],
 			"find":
 			{
@@ -1224,6 +1236,16 @@
 				"height": 0.0,
 				"where_history":
 				[
+					"",
+					"*.py",
+					"",
+					"data-role=\"list-divider\" data-theme=\"d\">",
+					"",
+					"*.py",
+					"",
+					"*.py",
+					"",
+					"*.py",
 					"",
 					"-/Users/amatthews/Dropbox/github/jsdownloader/node_modules/*",
 					"-/node_modules/*",
@@ -1243,152 +1265,167 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"thumbs",
-					"0px",
-					"2px",
-					"info",
-					"(.+)",
-					":before.*",
-					".ui-icon-",
-					"eur",
-					"-info",
-					"insert",
-					"scheduled_at",
+					"<<",
+					"<<<<<",
+					"2013-08-15T21:27:02.002873+00:00 heroku[web.1]",
+					"$(this)",
+					"display",
+					"class",
+					"twitter",
+					"')\n",
+					"| activity",
+					"(Pdb) ",
+					"app_",
+					"app_status_",
+					"app_update",
+					"import pdb",
+					"funky",
+					"post_should_be_imported",
+					"facebook_url",
+					"[\n",
+					"post_should_be_imported",
+					"import_posts",
+					"funky",
+					"\"sp",
+					"'",
+					"''",
+					"'",
+					"{\"",
+					"'",
+					"Funky",
+					"funky",
+					"'",
+					"'picture'",
+					"'",
+					"shared_story",
+					"import_posts",
+					"funky_response",
+					"create_from_facebook_post",
+					"message",
+					"FacebookPostStructureException",
+					"formIsDisabled",
+					"isDisabled",
+					"schedule",
+					"scheduleP",
+					"post_save",
+					"dupe submissions",
+					"cat",
+					"schedule",
+					"throttle",
+					"reloadAllPosts",
+					"OnceEveryFiveMinsUserRateThrottle",
+					"cache",
+					"Unable to send outside post to app",
+					"$('.twitter')",
+					"tagname",
+					"sticky",
+					"disconnect",
+					"logging",
+					"disconnect",
+					"HttpResponseRedirect",
+					"reverse",
+					"disconnect",
+					"\"account\"",
+					"account",
+					"disconnect",
+					"ACCOUNT_LOGOUT_REDIRECT_URL",
+					"myemma.com/social",
+					"myemma.com",
+					"connections",
+					"head",
+					"import_pages",
+					"get_profile_url",
+					"start_stream",
+					"nav_current",
+					"current",
+					"h3",
+					"h2",
+					"disconnect",
+					"Privacy and Permission Policy",
+					"disconnect",
+					"consumers_online",
+					"mock",
+					"TestAdminAccessNotLoggedIn",
+					"call_",
+					"media",
+					"Media",
+					"Privacy and Permission Policy",
+					"super(",
+					"super",
+					"get_primary_nav",
+					"get_primary_nav()",
+					"get_primary_nav",
+					"utils.",
+					"utils",
+					"CouldNotAcquireLockException",
+					"get_consumer_status",
+					"get_app_status",
+					"status",
+					"get_app_status",
+					"\n        ",
+					"status",
+					"app_status",
+					"get_app_status",
 					"pdb",
-					"Post",
-					"social.message",
-					"saveMessage",
-					"submitScheduled",
-					"saveMessage",
-					"emmaso",
-					">>>>>>>",
-					"message_key",
-					">>>>>>>",
-					"message_key",
-					">>>>>>>",
-					"$dragStatus",
-					"$draggable",
-					"$view.find('#time-picker')",
-					"$view.find('#date-picker')",
-					"time",
-					"text",
-					"true",
-					"timeSet",
-					"dateSet",
-					"timeSet",
-					"dateSet",
-					"textinput",
-					"\n                    ",
-					";\n",
-					"'));",
-					"dateSet",
-					"pickadate",
-					"postDisabled",
-					"this.get('text')",
-					"postDisabled",
-					"buttonDisabled",
-					"schedule",
-					"(.+)\\n",
-					"(.+)",
-					"newpostc",
-					"linkedText",
-					"urls",
-					"Message",
-					"created",
-					"console.log",
-					"isScheduled",
-					"post",
-					"null",
-					"social.account",
-					"{{controller}}",
-					"newpost",
-					"social.message",
-					"list-posted",
-					"HEAD",
-					"publications",
-					"schedule",
-					"post-content-tags",
-					"post",
-					"social.post",
-					"click",
-					"bind",
-					"a-channel",
-					"95fcf11d9ed00e6b9fad",
-					"  ",
-					"_this",
-					"  ",
-					"getDefaultLength",
-					"$span",
-					"tcwarn",
-					"totalCharCount",
-					"totalCharCount\ntotalCharCount\naddImage",
-					"setproperties",
-					"addImage",
-					"message_key",
-					"didchange",
-					"addImage",
-					".set",
-					"message_key",
-					"unmber",
-					"unmbber",
-					"filterTwitterData",
-					"panelName",
-					"loadChildren",
-					"order",
-					"showMetric",
-					"thumb",
-					"text",
-					"displayThumbnail",
-					"addImage",
-					"post-content-tags",
-					"drag-image-status",
-					"figure",
-					"histcatexpshort",
-					"histcatexplong",
-					"<h2>Followers over time</h2>\n            <figure id=\"chart-followers\"></figure>",
-					"DS.attr(\"string\")",
-					"  ",
-					"providerclass",
-					"primary",
-					"nav-",
-					"_bindSingle",
-					"_bindSingle:",
-					"_bindSingle",
-					"bind(",
-					"bind",
-					"view",
-					"this",
-					"newpostShortcut",
-					"open",
-					"events",
-					"console.",
-					"tag",
-					"tagHTML",
-					"tag",
-					"rejectionHandler",
-					"rejectionhandler\nrejectionhandler\nrejectionhandler\nrejectionhandler\nrejectionHandler",
-					"rejectionhandler\nrejectionhandler\nrejectionhandler\nrejectionHandler",
-					"rejectionhandler\nrejectionhandler\nrejectionHandler",
-					"rejectionhandler\nrejectionHandler",
-					"rejectionHandler"
+					"isSent",
+					"scheduled",
+					"{{",
+					"last_login",
+					"span",
+					"td",
+					"tr",
+					"get_avatar_url",
+					"get_profile_url",
+					"total_shares_provider",
+					"this_response",
+					"admin-",
+					"self.response",
+					"    ",
+					"requests",
+					"primary_nav",
+					"admin",
+					"primary_nav,",
+					"total_facebook",
+					"Total ",
+					"follow",
+					"total_twitter",
+					" in ",
+					"content",
+					": ",
+					"/"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
-					"<a href=\"index.html\" data-role=\"button\" data-icon=\"$1\" data-theme=\"b\">data-icon=\"$1\"</a>",
+					"\"\"",
+					"duplicate submissions",
+					"current_admin",
+					"get_primary_nav(request)",
+					"\\t",
+					"$1",
 					"",
-					"'$1', ",
+					"$1, ",
+					"$1",
+					"$1,",
+					"",
 					"    ",
-					"messageKey",
-					"    ",
+					"data-role=\"list-divider\" data-theme=\"d\">",
 					"\\n",
+					"(/images/",
+					"1.3.1",
 					"",
+					" ",
+					"campaign",
 					"\\n",
-					"",
-					"\\n",
+					"\"",
+					">",
+					"<",
+					" margin-top: 2px; }",
+					"\" data-theme=\"b\">data-",
+					"<a href=\"index.html\" data-role=\"button\" data-icon=\"$1\">data-icon=\"$1\"</a>",
 					"",
 					"    ",
 					"",
@@ -1490,22 +1527,7 @@
 					"icon-magnet",
 					"  ",
 					"\\t",
-					"\"",
-					"\\t",
-					"\"",
-					"roundto",
-					"cHeight",
-					"fWidth",
-					"|",
-					"",
-					"glyphs",
-					"",
-					"\\t",
-					" ",
-					"\\t",
-					"amatthews",
-					"<yourusername>",
-					"Intern"
+					"\""
 				],
 				"reverse": false,
 				"show_context": false,
@@ -1571,516 +1593,516 @@
 				"selected_items":
 				[
 					[
-						"index",
-						"index.html"
+						"scripting",
+						"node_modules/hubot/docs/scripting.md"
 					],
 					[
-						"models.",
-						"src/emmasocial/models.py"
+						"readme",
+						"README.md"
 					],
 					[
-						"serializer",
-						"src/emmasocial/api/serializers.py"
+						"procf",
+						"Procfile"
 					],
 					[
-						"model",
-						"src/emmasocial/models.py"
+						"package",
+						"package.json"
 					],
 					[
-						"models",
-						"src/emmasocial/api/models.py"
+						"consumer",
+						"src/emmasocial/admin/templates/consumers.html"
 					],
 					[
-						"views",
-						"src/emmasocial/api/views.py"
+						"main.html",
+						"src/emmasocial/admin/templates/main.html"
 					],
 					[
-						"urls",
-						"src/emmasocial/api/urls.py"
+						"base_admin",
+						"src/emmasocial/admin/templates/base_admin.html"
 					],
 					[
-						"main.scs",
-						"src/emmasocial/assets/css/sass/main.scss"
-					],
-					[
-						"utils",
-						"src/emmasocial/assets/js/es/src/application.utils.js"
-					],
-					[
-						"reports",
-						"src/emmasocial/templates/reports.html"
-					],
-					[
-						"urls.p",
-						"src/emmasocial/api/urls.py"
-					],
-					[
-						"moels",
-						"src/emmasocial/models.py"
-					],
-					[
-						"seriali",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"vagrant",
-						"vm/Vagrantfile"
-					],
-					[
-						"fafil",
-						"fabfile.py"
-					],
-					[
-						"activit",
+						"activity.html",
 						"src/emmasocial/templates/activity.html"
-					],
-					[
-						"seria",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"activ",
-						"src/emmasocial/assets/js/es/src/application.activity.js"
-					],
-					[
-						"main.css",
-						"src/emmasocial/assets/css/main.css"
-					],
-					[
-						"activity",
-						"src/emmasocial/assets/js/es/src/application.activity.js"
-					],
-					[
-						"reqi",
-						"requirements.txt"
-					],
-					[
-						"activi",
-						"src/emmasocial/templates/activity.html"
-					],
-					[
-						"report",
-						"src/emmasocial/assets/js/es/src/application.reports.js"
-					],
-					[
-						"main.scss",
-						"src/emmasocial/assets/css/sass/main.scss"
-					],
-					[
-						"urls.",
-						"src/emmasocial/api/urls.py"
-					],
-					[
-						"views.",
-						"src/emmasocial/api/views.py"
-					],
-					[
-						"reports.s",
-						"src/emmasocial/assets/css/sass/_reports.scss"
-					],
-					[
-						"base",
-						"src/emmasocial/templates/base_app.html"
-					],
-					[
-						"reports.",
-						"src/emmasocial/assets/js/es/src/application.reports.js"
-					],
-					[
-						"requi",
-						"requirements.txt"
-					],
-					[
-						"mouse",
-						"emmasocial/assets/js/libs/src/mousetrap.js"
-					],
-					[
-						"mixin",
-						"emmasocial/assets/css/sass/_mixins.scss"
-					],
-					[
-						"facebo",
-						"emmasocial/assets/css/libs/token-input-facebook.css"
-					],
-					[
-						"ember",
-						"src/emmasocial/assets/js/libs/src/ember-data-r13.js"
-					],
-					[
-						"core",
-						"src/emmasocial/assets/js/libs/src/core.libs.js"
-					],
-					[
-						"data",
-						"src/emmasocial/assets/js/libs/src/ember-data-r12.js"
-					],
-					[
-						"adapter",
-						"src/emmasocial/assets/js/libs/src/ember-data-adapter.js"
-					],
-					[
-						"ember-da",
-						"src/emmasocial/assets/js/libs/src/ember-data-r13.js"
-					],
-					[
-						"ember-re",
-						"src/emmasocial/assets/js/libs/src/ember-data-serializer.js"
-					],
-					[
-						"test_acct_meta",
-						"src/emmasocial/tests/test_acct_meta.py"
-					],
-					[
-						"serai",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"app.scss",
-						"static/css/app.scss"
-					],
-					[
-						"main",
-						"static/css/main.scss"
-					],
-					[
-						"test",
-						"src/emmasocial/tests/test_utm_tracking_params.py"
-					],
-					[
-						"modls",
-						"src/emmasocial/models.py"
-					],
-					[
-						"test_acc",
-						"src/emmasocial/tests/test_acct_meta.py"
-					],
-					[
-						"fabf",
-						"fabfile.py"
-					],
-					[
-						"__init__",
-						"src/emmasocial/tests/__init__.py"
-					],
-					[
-						"serial",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"0025_",
-						"src/emmasocial/migrations/0025_auto__add_unique_accountmeta_account_key.py"
-					],
-					[
-						"mode",
-						"src/emmasocial/models.py"
-					],
-					[
-						"permissions",
-						"src/emmasocial/api/permissions.py"
-					],
-					[
-						"monk",
-						"src/emmasocial/monkey.py"
-					],
-					[
-						"modes",
-						"src/emmasocial/models.py"
-					],
-					[
-						"view.",
-						"src/emmasocial/views.py"
-					],
-					[
-						"admin.js",
-						"static/js/application.admin.js"
-					],
-					[
-						"login",
-						"templates/admin/login.html"
-					],
-					[
-						"app.",
-						"app.py"
-					],
-					[
-						"require",
-						"requirements.txt"
-					],
-					[
-						"read",
-						"readme.md"
-					],
-					[
-						"settings",
-						"streaming/settings.py"
-					],
-					[
-						"base_ap",
-						"src/emmasocial/templates/base_app.html"
 					],
 					[
 						"base_app",
 						"src/emmasocial/templates/base_app.html"
 					],
 					[
-						"index.html",
-						"src/emmasocial/templates/index.html"
+						"admin.scs",
+						"src/emmasocial/assets/css/sass/admin.scss"
 					],
 					[
-						"tasks",
-						"src/emmasocial/tasks.py"
+						"accounts.html",
+						"src/emmasocial/admin/templates/accounts.html"
 					],
 					[
-						"flood",
-						"src/emmasocial/management/commands/flood_account_growth.py"
+						"proc",
+						"Procfile"
 					],
 					[
-						"06",
-						"sprintdemo/sprint-06.html"
+						"utils.py",
+						"src/emmasocial/facebook/utils.py"
 					],
 					[
-						"processm",
-						"src/emmasocial/management/commands/processmessages.py"
+						"views",
+						"src/emmasocial/api/views.py"
 					],
 					[
-						"manage.",
-						"src/manage.py"
+						"andy",
+						"src/emmasocial/tests/samples/andy.json"
 					],
 					[
-						"process",
-						"src/emmasocial/management/commands/processmessages.py"
+						"vagrant",
+						"vm/Vagrantfile"
 					],
 					[
-						"processmessage",
-						"src/emmasocial/management/commands/processmessages.py"
+						"view",
+						"src/emmasocial/api/views.py"
 					],
 					[
-						"index.",
-						"src/emmasocial/assets/js/es/src/application.index.js"
+						"models",
+						"src/emmasocial/models.py"
 					],
 					[
-						"main.sc",
-						"src/emmasocial/assets/css/sass/main.scss"
+						"utils",
+						"src/emmasocial/facebook/utils.py"
 					],
 					[
-						"bse_app",
-						"src/emmasocial/templates/base_app.html"
+						"activity",
+						"src/emmasocial/assets/js/es/min/application.activity-min.js"
 					],
 					[
-						"seri",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"views.p",
-						"src/emmasocial/views.py"
-					],
-					[
-						"idnex.",
-						"sprintdemo/plugin/notes-server/index.js"
-					],
-					[
-						"acti",
+						"activi",
 						"src/emmasocial/assets/js/es/src/application.activity.js"
 					],
 					[
-						"fab",
-						"fabfile.py"
-					],
-					[
-						"0023",
-						"src/emmasocial/migrations/0023_auto__add_accountmeta__chg_field_message_message_key.py"
-					],
-					[
-						"account",
-						"src/emmasocial/api/tests/AccountGrowth.py"
-					],
-					[
-						"serali",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"task",
-						"src/emmasocial/tasks.py"
-					],
-					[
-						"base.py",
-						"src/emmasocial/twitter/base.py"
-					],
-					[
-						"accountgr",
-						"src/emmasocial/api/tests/AccountGrowth.py"
-					],
-					[
-						"accountgro",
-						"src/emmasocial/api/tests/AccountGrowth.py"
-					],
-					[
-						"tests",
-						"src/emmasocial/api/tests.py"
-					],
-					[
-						"manage",
-						"src/manage.py"
-					],
-					[
-						"accountmeta.py",
-						"src/emmasocial/migrations/0023_auto__add_accountmeta__chg_field_message_message_key.py"
-					],
-					[
-						"accountgrowth",
-						"src/emmasocial/api/tests/AccountGrowth.py"
+						"views.p",
+						"src/emmasocial/api/views.py"
 					],
 					[
 						"requie",
 						"requirements.txt"
 					],
 					[
+						"serialier",
+						"src/emmasocial/api/serializers.py"
+					],
+					[
+						"views.",
+						"src/emmasocial/api/views.py"
+					],
+					[
+						"utils.js",
+						"src/emmasocial/assets/js/es/src/application.utils.js"
+					],
+					[
+						"activ",
+						"src/emmasocial/assets/js/es/src/application.activity.js"
+					],
+					[
+						"activit",
+						"src/emmasocial/assets/js/es/src/application.activity.js"
+					],
+					[
+						"views.py",
+						"src/emmasocial/api/views.py"
+					],
+					[
+						"settings_local",
+						"src/emmasocial/settings_local.py"
+					],
+					[
+						"urls.py",
+						"src/emmasocial/api/urls.py"
+					],
+					[
+						"consumers",
+						"src/emmasocial/admin/templates/consumers.html"
+					],
+					[
+						"urls.",
+						"src/emmasocial/api/urls.py"
+					],
+					[
+						"view.py",
+						"src/allauth/socialaccount/views.py"
+					],
+					[
+						"consu",
+						"src/emmasocial/admin/templates/consumers.html"
+					],
+					[
+						"index",
+						"src/emmasocial/templates/index.html"
+					],
+					[
+						"index.html",
+						"src/emmasocial/templates/index.html"
+					],
+					[
+						"__init",
+						"src/emmasocial/tests/__init__.py"
+					],
+					[
+						"disconnect",
+						"src/emmasocial/tests/test_connect_disconnect.py"
+					],
+					[
+						"provider.",
+						"src/allauth/socialaccount/providers/facebook/provider.py"
+					],
+					[
+						"provider",
+						"src/allauth/socialaccount/providers/twitter/provider.py"
+					],
+					[
+						"models.",
+						"src/emmasocial/models.py"
+					],
+					[
+						"provider.py",
+						"src/allauth/socialaccount/providers/facebook/provider.py"
+					],
+					[
+						"models.p",
+						"src/emmasocial/models.py"
+					],
+					[
+						"models.py",
+						"src/allauth/socialaccount/models.py"
+					],
+					[
+						"main.scs",
+						"src/emmasocial/assets/css/sass/main.scss"
+					],
+					[
+						"urls.p",
+						"src/emmasocial/urls.py"
+					],
+					[
+						"test_page",
+						"src/emmasocial/tests/test_page_access.py"
+					],
+					[
+						"test_connect",
+						"src/emmasocial/tests/test_connect_disconnect.py"
+					],
+					[
+						"test_",
+						"src/emmasocial/tests/test_page_access.py"
+					],
+					[
+						"acti",
+						"src/emmasocial/assets/js/es/src/application.activity.js"
+					],
+					[
+						"flaskapp",
+						"streaming/flaskapp.py"
+					],
+					[
+						"tasks",
+						"streaming/tasks.py"
+					],
+					[
+						"consuer",
+						"src/emmasocial/admin/templates/consumers.html"
+					],
+					[
+						"test_emmasocial_views.py",
+						"src/emmasocial/tests/test_emmasocial_views.py"
+					],
+					[
+						"test_utils.",
+						"src/emmasocial/tests/test_utils.py"
+					],
+					[
+						"accounts",
+						"src/emmasocial/admin/templates/accounts.html"
+					],
+					[
+						"test",
+						"src/emmasocial/tests/test_page_access.py"
+					],
+					[
+						"utils.",
+						"src/emmasocial/utils.py"
+					],
+					[
+						"decor",
+						"src/emmasocial/admin/decorators.py"
+					],
+					[
+						"urls",
+						"src/emmasocial/admin/urls.py"
+					],
+					[
+						"settings",
+						"src/emmasocial/settings_prod.py"
+					],
+					[
+						"settings_de",
+						"src/emmasocial/settings_dev.py"
+					],
+					[
+						"settings_prod",
+						"src/emmasocial/settings_prod.py"
+					],
+					[
+						"ser",
+						"src/emmasocial/api/serializers.py"
+					],
+					[
+						"serializer",
+						"src/emmasocial/api/serializers.py"
+					],
+					[
+						"serialize",
+						"src/emmasocial/api/serializers.py"
+					],
+					[
 						"serializers",
 						"src/emmasocial/api/serializers.py"
 					],
 					[
-						"sche",
-						"src/emmasocial/schedule.py"
-					],
-					[
-						"utils.",
-						"src/emmasocial/assets/js/es/src/application.utils.js"
-					],
-					[
-						"token",
-						"src/emmasocial/assets/js/libs/src/jquery.tokeninput.js"
-					],
-					[
-						"actit",
-						"src/emmasocial/templates/activity.html"
-					],
-					[
-						"basey",
-						"src/emmasocial/twitter/base.py"
-					],
-					[
-						"loca",
-						"src/emmasocial/local_settings.py"
-					],
-					[
-						"act",
-						"src/emmasocial/templates/activity.html"
-					],
-					[
-						"xh",
-						"src/emmasocial/assets/js/libs/src/xcharts.js"
-					],
-					[
-						"xchart",
-						"src/emmasocial/assets/js/libs/min/xcharts-min.js"
-					],
-					[
-						"prep",
-						"src/emmasocial/assets/js/libs/src/preparetransition.js"
-					],
-					[
-						"ember-core",
-						"src/emmasocial/assets/js/libs/src/ember-core-files.js"
-					],
-					[
-						"repot",
-						"src/emmasocial/templates/reports.html"
-					],
-					[
-						"message",
-						"src/emmasocial/templates/message.html"
-					],
-					[
-						"modrn",
-						"src/emmasocial/assets/js/libs/modernizr-2.5.3-min.js"
-					],
-					[
-						"20121105125424_assets_rewrite_pre_implementation.sql",
-						"python/emma/schema_changes/20121105125424_assets_rewrite_pre_implementation.sql"
-					],
-					[
-						"social",
-						"python/emma/apps/social/templates/social_app.html"
-					],
-					[
-						"sprint",
-						"sprintdemo/sprint-05.html"
-					],
-					[
-						"utils.js",
-						"src/emmasocial/assets/js/utils.js"
-					],
-					[
-						"app",
-						"app.js"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"ap.s",
-						"app.js"
-					],
-					[
-						"download",
-						"routes/download.js"
-					],
-					[
-						"req",
+						"require",
 						"requirements.txt"
 					],
 					[
+						"settings_loca",
+						"src/emmasocial/settings_local.py"
+					],
+					[
+						"prod",
+						"src/emmasocial/settings_prod.py"
+					],
+					[
+						"dev",
+						"src/emmasocial/settings_dev.py"
+					],
+					[
+						"local.p",
+						"src/emmasocial/settings_local.py"
+					],
+					[
+						"admin_bas",
+						"src/emmasocial/templates/admin_base.html"
+					],
+					[
+						"_emma",
+						"src/emmasocial/assets/css/sass/_emmaicons.scss"
+					],
+					[
+						"main.scss",
+						"src/emmasocial/assets/css/sass/main.scss"
+					],
+					[
+						"admin.html",
+						"src/emmasocial/templates/admin.html"
+					],
+					[
+						"api/views.py",
+						"src/emmasocial/api/views.py"
+					],
+					[
+						"main.py",
+						"src/seleniumtests/main.py"
+					],
+					[
+						"seleniumtests",
+						"src/seleniumtests/tests/__init__.py"
+					],
+					[
+						"manage.py",
+						"src/manage.py"
+					],
+					[
+						"manage",
+						"src/manage.py"
+					],
+					[
 						"local",
-						"src/emmasocial/local_settings.py"
+						"src/emmasocial/settings_local.py"
 					],
 					[
-						"settings.",
-						"src/emmasocial/settings.py"
+						"fab",
+						"fabfile.py"
 					],
 					[
-						"__init",
-						"src/emmasocial/middleware/__init__.py"
+						"settings_",
+						"src/emmasocial/settings_dev.py"
 					],
 					[
-						"twitter",
-						"src/emmasocial/twitter/base.py"
+						"big.css",
+						"css/big.css"
 					],
 					[
-						"aci",
-						"src/emmasocial/assets/css/libs/token-input-facebook.css"
+						"big.",
+						"js/big.js"
 					],
 					[
-						"util",
-						"src/emmasocial/assets/js/utils.js"
+						"cusom",
+						"css/custom.css"
 					],
 					[
-						"serializ",
-						"src/emmasocial/api/serializers.py"
+						"css",
+						"css/big.css"
 					],
 					[
-						"csrf",
-						"src/emmasocial/assets/js/libs/django-ajax-csrf.js"
+						"header",
+						"b/includes/header.php"
 					],
 					[
-						"jquery",
-						"src/emmasocial/assets/js/libs/jquery-1.9.1.min.js"
+						"login",
+						"b/login.php"
 					],
 					[
-						"spin",
-						"src/emmasocial/assets/js/libs/spin.min.js"
+						"home",
+						"b/home.php"
 					],
 					[
-						"tokenin",
-						"src/emmasocial/assets/js/libs/jquery.tokeninput.js"
+						"details",
+						"details.php"
 					],
 					[
-						"utili",
-						"src/emmasocial/assets/js/utilities.js"
+						"services",
+						"services.php"
 					],
 					[
-						"message.",
-						"src/emmasocial/templates/message.html"
+						"book",
+						"book.php"
+					],
+					[
+						"custom",
+						"css/custom.css"
+					],
+					[
+						"home.php",
+						"home.php"
+					],
+					[
+						"flat",
+						"css/jquery.mobile.flatui.css"
+					],
+					[
+						"unicorn",
+						"unicorn/html/css/unicorn.fastbook.css"
+					],
+					[
+						"booking",
+						"b/bookings.php"
+					],
+					[
+						"home.",
+						"home.php"
+					],
+					[
+						"includes",
+						"b/includes/footer.php"
+					],
+					[
+						"style",
+						"css/style.css"
+					],
+					[
+						"js",
+						"js/app.js"
+					],
+					[
+						"indet",
+						"index.html"
+					],
+					[
+						"aplicat",
+						"js/Application.js"
+					],
+					[
+						"application",
+						"js/Application.js"
+					],
+					[
+						"footer",
+						"code/footer.cfm"
+					],
+					[
+						".js",
+						"v1/js/site.js"
+					],
+					[
+						"applicat",
+						"Application.cfm"
+					],
+					[
+						"jr",
+						"com/jrnl/jrnl.cfc"
+					],
+					[
+						"faq",
+						"faq.php"
+					],
+					[
+						"css/jquery.mobile.flatui.css",
+						"css/jquery.mobile.flatui.css"
+					],
+					[
+						"location",
+						"location.php"
+					],
+					[
+						"jquery.mobile.flatui.css",
+						"css/jquery.mobile.flatui.css"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						"remote",
+						"Connections/remote.dataConn.php"
+					],
+					[
+						"dataconn",
+						"Connections/dataConn.php"
+					],
+					[
+						"function",
+						"functions.php"
+					],
+					[
+						"reports.js",
+						"src/emmasocial/assets/js/es/src/application.reports.js"
+					],
+					[
+						"reports",
+						"src/emmasocial/templates/reports.html"
+					],
+					[
+						"flood",
+						"src/emmasocial/management/commands/flood_account_engagement.py"
+					],
+					[
+						"vagra",
+						"vm/Vagrantfile"
+					],
+					[
+						"34",
+						"src/emmasocial/migrations/0034_auto__del_tag__add_field_message_campaign__chg_field_message_message_k.py"
+					],
+					[
+						"reports.",
+						"src/emmasocial/templates/reports.html"
+					],
+					[
+						"test_utm_tracking_params",
+						"src/emmasocial/tests/test_utm_tracking_params.py"
+					],
+					[
+						"view.",
+						"src/emmasocial/views.py"
+					],
+					[
+						"base.p",
+						"src/emmasocial/middleware/base.py"
 					]
 				],
 				"width": 0.0
@@ -2096,11 +2118,11 @@
 			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 249.0,
+			"side_bar_visible": true,
+			"side_bar_width": 228.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 962.0
+		"new_window_width": 1138.0
 	},
 	"windows":
 	[
@@ -2110,36 +2132,88 @@
 				"selected_items":
 				[
 					[
+						"profil",
+						"profile_url"
+					],
+					[
+						"statu",
+						"status_endpoint"
+					],
+					[
+						"ra",
+						"randrange  (function)"
+					],
+					[
+						"line",
+						"lineWidth"
+					],
+					[
+						"char",
+						"chartType"
+					],
+					[
+						"camp",
+						"campaign-content-input"
+					],
+					[
+						"y",
+						"yAxisFormat"
+					],
+					[
+						"xAx",
+						"xAxisFormat"
+					],
+					[
+						"is",
+						"is_scheduled"
+					],
+					[
+						"scheduled",
+						"scheduled_at"
+					],
+					[
 						"sched",
 						"scheduled_at"
 					],
 					[
-						"sc",
-						"scheduled_at"
+						"chec",
+						"checkLength"
 					],
 					[
-						"create",
-						"create-new-post"
+						"text",
+						"textIsValid"
 					],
 					[
-						"e",
-						"else"
+						"ph",
+						"photo"
 					],
 					[
-						"message",
-						"messageKey"
+						"j",
+						"join"
 					],
 					[
-						"ope",
-						"open"
+						"file",
+						"filename"
 					],
 					[
-						"for",
-						"forEach"
+						"gall",
+						"galleries"
 					],
 					[
-						"ga",
-						"ga_status"
+						"pho",
+						"photo_id"
+					],
+					[
+						"new_file",
+						"new_file_path"
+					],
+					[
+						"galleries",
+						"galleries_id"
+					],
+					[
+						"backgrou",
+						"background-image:   (property)"
 					],
 					[
 						"l",
@@ -2176,6 +2250,10 @@
 					[
 						"write",
 						"writeZip"
+					],
+					[
+						"message",
+						"message"
 					],
 					[
 						"str",
@@ -2564,115 +2642,48 @@
 					[
 						"post",
 						"post_path"
-					],
-					[
-						"s",
-						"src"
-					],
-					[
-						"style",
-						"style"
-					],
-					[
-						"lo",
-						"log"
-					],
-					[
-						"len",
-						"length"
-					],
-					[
-						"cfpara",
-						"CFPARAM"
-					],
-					[
-						"bol",
-						"border-left"
-					],
-					[
-						"font-we",
-						"font-weight"
-					],
-					[
-						"content",
-						"contentBinding"
-					],
-					[
-						"list",
-						"list	list-style: type position image"
-					],
-					[
-						"he",
-						"height"
-					],
-					[
-						"SearchReul",
-						"searchResult"
-					],
-					[
-						"Search",
-						"searchResults"
-					],
-					[
-						"Backbo",
-						"Backbone"
-					],
-					[
-						"fo",
-						"for"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Users/amatthews/Dev/social/src/emmasocial/templates/activity.html",
+					"file": "/Users/amatthews/Dev/hubot-social/hubot-scripts.json",
 					"settings":
 					{
-						"buffer_size": 23146,
+						"buffer_size": 157,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.activity.js",
+					"file": "/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/jira.coffee",
 					"settings":
 					{
-						"buffer_size": 37822,
+						"buffer_size": 7359,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "#!/usr/bin/env python\n# -*- coding: utf-8 -*-\nimport logging\nimport importlib\nimport json\nimport urllib\nimport urlparse\n\nfrom functools import partial\nfrom datetime import timedelta, datetime\n\nfrom django.db import models\nfrom django.db.models import F\nfrom django.db.models.signals import m2m_changed, pre_save, post_save, pre_delete, post_delete\nfrom django.contrib.auth.models import User\nfrom django.dispatch import receiver\nfrom django.utils import timezone as tz\nfrom django.utils.text import slugify\nfrom django.utils.timezone import utc\n\nfrom allauth.socialaccount.models import SocialAccount, SocialToken\n\nfrom emmasocial.facebook import import_pages\nfrom emmasocial.bitly import shorten\nfrom emmasocial.twitter import parser as twitter_parser\nfrom emmasocial import tasks\nfrom emmasocial import exceptions\n\nimport emmasocial.gmetrics.accounts\n\n# Shortcut to allauth.socialaccount.models.SocialAccount\nAccount = SocialAccount\n\nlogger = logging.getLogger(__name__)\n\n\nclass UpdateDisallowedException(Exception):\n    pass\n\n\n# Monkey patch SocialAccount.objects, give it a group method...\ndef _group(self, **kwargs):\n    \"\"\"\n    Allows us to group SocialAccount objects around the modulos of the\n    account's id.\n\n    This is useful for periodic processing of accounts.\n\n    For example, when we want to process every account once a day, but we\n    don't want to process them all at once, this group method allows us to run\n    a process once an hour, and each hour select a different group of accounts\n    to process.\n\n    E.g. to group SocialAccounts into 24 groups, and choose the first group:\n\n        SocialAccount.objects.group(divider=24, remainder=1)\n\n    \"\"\"\n    # Get the divider, default to 24 as this fits our primary use case (hourly\n    # processing job, each account processed once per day)\n    divider = int(kwargs.get(\"divider\", 24))\n\n    # Get the remainder, default it to the current hour, as this also fits our\n    # primary use case (hourly processing job, each account processed once per\n    # day)\n    remainder = int(kwargs.get(\"remainder\", datetime.now().hour))\n\n    # Return the matching accounts\n    return self.extra(where=['id %% {divider} = {remainder}'.\n                             format(divider=divider,\n                                    remainder=remainder)])\nSocialAccount.objects.group = partial(_group, SocialAccount.objects)\n\n\n# Monkey patch SocialAccount, give it add_meta and get_meta methods...\ndef get_meta(self, key, default=None, deserializer=json.loads):\n    \"\"\"\n    Read account meta from the database, deserializing automatically.\n    \"\"\"\n    try:\n        meta = AccountMeta.objects.get(key=key, account=self)\n        return deserializer(meta.value)\n    except AccountMeta.DoesNotExist:\n        return default\nSocialAccount.get_meta = get_meta\n\n\ndef set_meta(self, key, value, serializer=json.dumps):\n    \"\"\"\n    Write account meta to the database, serializing automatically.\n    \"\"\"\n    meta, created = AccountMeta.objects.get_or_create(key=key, account=self)\n    meta.value = serializer(value)\n    meta.save()\n    return meta\nSocialAccount.set_meta = set_meta\n\n\n# Monkey patch SocialAccount, give it provider methods for total_shares, total_posts and total_audience...\ndef total_shares_provider(self, *args, **kwargs):\n    \"\"\"\n    Returns a provider that will give total shares this account has received\n    between startdate and enddate, specified in kwargs.\n\n    Used to calculate the account's engagement index.\n    \"\"\"\n    return emmasocial.gmetrics.accounts.provider(\"shares\", self, *args, **kwargs)\nSocialAccount.total_shares_provider = total_shares_provider\n\n\ndef total_posts_provider(self, *args, **kwargs):\n    \"\"\"\n    Returns a provider that will give the total posts this account has sent\n    between startdate and enddate, specified in kwargs.\n\n    Used to calculate the account's engagement index.\n    \"\"\"\n    return emmasocial.gmetrics.accounts.provider(\"posts\", self, *args, **kwargs)\nSocialAccount.total_posts_provider = total_posts_provider\n\n\ndef total_audience_provider(self):\n    \"\"\"\n    Returns a provider that will give the total audience size of this account.\n\n    Used to calculate the account's engagement index.\n    \"\"\"\n    return emmasocial.gmetrics.accounts.provider(\"audience\", self)\nSocialAccount.total_audience_provider = total_audience_provider\n\n\nclass AccountMeta(models.Model):\n    key = models.CharField(max_length=240, db_index=True)\n    value = models.TextField(blank=False, null=False)\n    account = models.ForeignKey(SocialAccount, related_name='meta')\n    created_at = models.DateTimeField(auto_now_add=True, db_index=True)\n    updated_at = models.DateTimeField(auto_now=True)\n\n    def __unicode__(self):\n        return self.key + '-' + repr(self.value)\n\n    class Meta:\n        # unique by key and account\n        unique_together = ((\"key\", \"account\"),)\n\n\nclass AccountEngagementManager(models.Manager):\n\n    def since(self, account, date=None):\n        \"\"\"\n        Returns all account engagement data since `date`, `date` is defaulted\n        to 90 days ago if not provided.\n        \"\"\"\n        if date is None:\n            # Default to last 90 days\n            now = datetime.utcnow().replace(tzinfo=utc, hour=0, minute=0, second=0, microsecond=0)\n            date = now - timedelta(days=90)\n\n        return self.filter(account=account, date__gte=date).order_by(\"-date\")\n\n\nclass AccountEngagement(models.Model):\n    \"\"\"\n    Engagement data for an account, serves as the basis for calculating the\n    account's engagement index.\n    \"\"\"\n    objects = AccountEngagementManager()\n\n    account = models.ForeignKey(SocialAccount, related_name='engagement')\n    total_shares = models.PositiveIntegerField(default=0)\n    total_posts = models.PositiveIntegerField(default=0)\n    total_audience = models.PositiveIntegerField(default=0)\n    date = models.DateField(db_index=True)\n    index = models.FloatField(default=0.0)\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n\n    class Meta:\n        # unique by account and date\n        unique_together = ((\"account\", \"date\"),)\n\n    def __unicode__(self):\n        return unicode(self.account) + u': ' + unicode(self.index)\n\n    def save(self, *args, **kwargs):\n        # Calculate the index before saving\n        self.index = self.calculate_index()\n\n        super(AccountEngagement, self).save(*args, **kwargs)  # Call the \"real\" save() method.\n\n    def calculate_index(self, precision=2, maximum=100.0):\n        \"\"\"\n        Calculate the engagement index for this account.\n\n        Calculated as follows:\n\n        _ For Twitter accounts:\n\n            (((Replies + Retweets on a given day)\n              /\n              (# of tweets made by profile on a given day))\n              /\n              (# of followers on a given day)) * 100\n\n        _ For Facebook accounts:\n\n            (((Likes + Comments + Shares on a given day)\n              /\n              (# of wall posts made by page on a given day))\n              /\n              (# of fans on a given day)) * 100\n\n        _ For Google+ accounts:\n\n            (((+1s + Comments + Shares on a given day)\n              /\n              (# of wall posts made by page on a given day))\n              /\n              (# of followers on a given day)) * 100\n\n        Worked example for a Facebook account:\n\n        _ So, if you have posted two updates on Facebook on a given day, and they\n          received a total of 10 shares/likes/comments, and you have 536 fans,\n          then your Facebook Average Engagement Rate for that day is:\n\n          ((10 / 2) / 536) * 100 = .93\n        \"\"\"\n\n        # Need to assert a couple of things before diving in...\n        try:\n            # Ensure posts have been made from this account today\n            assert self.total_posts > 0\n\n            # Ensure this account has an audience\n            assert self.total_audience > 0\n\n        except:\n            return 0.0\n\n        return min(round(((float(self.total_shares) /\n                           float(self.total_posts)) /\n                          float(self.total_audience)) * 100, precision), maximum)\n\n\nclass MessageManager(models.Manager):\n    pass\n\n\nclass Message(models.Model):\n    objects = MessageManager()\n    text = models.TextField()\n    message_key = models.CharField(max_length=30, blank=True, db_index=True)\n    user = models.ForeignKey(User, related_name='+')\n    accounts = models.ManyToManyField(SocialAccount, related_name='messages')\n    created_at = models.DateTimeField(auto_now_add=True, db_index=True)\n    scheduled_at = models.DateTimeField(null=True, blank=True)\n    updated_at = models.DateTimeField(auto_now=True)\n\n    def __unicode__(self):\n        return self.text\n\n\nclass Tag(models.Model):\n    tag = models.CharField(max_length=30, unique=True)\n    tag_slug = models.SlugField(max_length=30, default='')\n    messages = models.ManyToManyField(Message, related_name='tags')\n    users = models.ManyToManyField(User, related_name='tags')\n\n    def __unicode__(self):\n        return self.tag\n\n    def save(self, *args, **kwargs):\n        self.tag_slug = slugify(self.tag)\n        super(Tag, self).save(*args, **kwargs)\n\n\n@receiver(m2m_changed, sender=Message.accounts.through)\ndef message_m2m_changed(sender, instance, **kwargs):\n    \"\"\"\n    Receiver that gets called when the M2M relationship between Message\n    and Account is changed.\n\n    We use this to ensure that all accounts added to a message are owned\n    by the message owner.\n\n    We also use this to ensure posts are kept in sync with messages and accounts,\n    i.e. when a relationship between a message and an account is created, we create\n    the corresponding post. Conversely, when a relationship between a message and an\n    account is destroyed, we destroyed the relevant post.\n    \"\"\"\n    action = kwargs.get(\"action\", \"\")\n    if action == \"pre_add\":\n        # Ensure each account being added is owned by the message owner\n        accts = [Account.objects.get(pk=pk) for pk in kwargs[\"pk_set\"]]\n        for acct in accts:\n            assert acct.user.id == instance.user.id, \"Cannot add an account owned by someone different from the message owner\"\n\n    if action == \"post_add\":\n        # Create all missing posts, i.e. where an account is attached to the message,\n        # but where a corresponding post has not yet been created\n        status = \"C\" if instance.scheduled_at is not None else \"P\"\n        posts_to_create = instance.accounts.exclude(pk__in=instance.posts.all())\n        for acct in posts_to_create:\n            p = Post(message=instance, account=acct, text=instance.text, user=instance.user, status=status,\n                     scheduled_at=instance.scheduled_at)\n            p.save()\n\n    if action == \"post_remove\":\n        # Delete all posts currently attached to an account that is no longer attached to the message\n        posts_to_delete = instance.posts.exclude(account__in=instance.accounts.all())\n        for post in posts_to_delete:\n            post.delete()\n\n\nclass PostManager(models.Manager):\n    def filter(self, *args, **kwargs):\n        \"\"\"\n        Allows posts to be additionally filtered by 'min_age' and 'max_age'.\n\n        E.g. to find all posts older than 1 day, but younger than 2 days:\n\n            max_age = datetime.timedelta(days=2)\n            min_age = datetime.timedelta(days=1)\n            Post.objects.filter(min_age=min_age, max_age=max_age)\n        \"\"\"\n        min_age = max_age = None\n        now = tz.now()\n\n        if \"min_age\" in kwargs:\n            min_age = kwargs[\"min_age\"]\n            del kwargs[\"min_age\"]\n\n        if \"max_age\" in kwargs:\n            max_age = kwargs[\"max_age\"]\n            del kwargs[\"max_age\"]\n\n        posts = super(PostManager, self).filter(*args, **kwargs)\n\n        if min_age:\n            # Filter by min_age\n            # e.g. if min_age is 12 hours, then find all posts created MORE THAN\n            # 12 hours ago\n            logger.info(\"Filtering by posts older than {min_age}\".format(min_age=min_age))\n            posts = posts.filter(created_at__lte=(now - min_age))\n\n        if max_age:\n            # Filter by max_age\n            # e.g. if max_age is 12 hours, then find all posts created LESS THAN\n            # 12 hours ago\n            logger.info(\"Filtering by posts younger than {max_age}\".format(max_age=max_age))\n            posts = posts.filter(created_at__gte=(now - max_age))\n\n        return posts\n\n\nclass Post(models.Model):\n    STATUS_CHOICES = (\n        (\"P\", \"Pending\"),\n        (\"Q\", \"Queued\"),\n        (\"E\", \"Error\"),\n        (\"S\", \"Success\"),\n        (\"C\", \"Scheduled\"),\n    )\n\n    objects = PostManager()\n    text = models.TextField()\n    user = models.ForeignKey(User, related_name='+')\n    message = models.ForeignKey(Message, related_name='posts')\n    account = models.ForeignKey(SocialAccount, related_name='posts')\n    status = models.CharField(max_length=1, choices=STATUS_CHOICES, db_index=True, default=\"P\")\n    native_id = models.CharField(max_length=5000, default='', blank=True)\n    native_url = models.CharField(max_length=5000, default='', blank=True)\n    initial_reach = models.IntegerField(default=0)\n    extra_data = models.TextField(default='', blank=True)\n    scheduled_at = models.DateTimeField(null=True, blank=True)\n    created_at = models.DateTimeField(auto_now_add=True, db_index=True)\n    updated_at = models.DateTimeField(auto_now=True)\n\n    class Meta:\n        # We don't want messages going to the same account multiple times...\n        unique_together = ((\"message\", \"account\"),)\n\n    def __unicode__(self):\n        return self.text\n\n    def __getattr__(self, name):\n        # If name begins with register_ then call self.register_metric with\n        # appropriate metric type\n        # e.g. so we can do post.register_click() post.register_retweet() etc.\n        if name.startswith(\"register_\"):\n            metric_type = name.replace(\"register_\", \"\")\n            return partial(self.register_metric, metric_type)\n        elif name.startswith(\"refresh_\"):\n            metric_type = name.replace(\"refresh_\", \"\")\n            return partial(self.refresh_metric, metric_type)\n        else:\n            raise AttributeError()\n\n    def urls(self):\n        \"\"\"\n        Returns all URLs from the post text.\n        \"\"\"\n        parsed = twitter_parser.parse(self.text)\n        urls = []\n\n        for url in parsed.urls:\n\n            # Parse the URL into its constituent parts\n            url_parts = list(urlparse.urlparse(url))\n\n            # Ensure URL scheme is populated, default it to 'http' if not\n            if not url_parts[0]:\n                url = \"http://\" + url\n\n            urls.append(url)\n\n        return urls\n\n    def tags(self):\n        \"\"\"\n        Returns all tags belonging to this post, in the order they were added to\n        the post.\n        \"\"\"\n        # We have to drop down to raw SQL for this, so we can access the id column\n        # on the M2M relationship table, which provides the order in which the tags\n        # were added to the post.\n        sql = \"\"\"SELECT Tag.* FROM emmasocial_tag AS Tag\n                 INNER JOIN emmasocial_tag_messages AS TagMessage ON Tag.id = TagMessage.tag_id\n                 WHERE TagMessage.message_id = %s\n                 ORDER BY TagMessage.id\"\"\"\n\n        return [tag for tag in Tag.objects.raw(sql, [self.message.id])]\n\n    def add_utm_tracking(self):\n        \"\"\"\n        Adds UTM tracking to all URLs in a post.\n\n        Acceptance criteria:\n\n            1. The first, and only the first, tag a user enters in the tags box\n               below their post is automatically appended to all hyperlinks in\n               that post and is tracked in Google Analytics.\n            2. The utm_medium parameter will be set to \"EmmaSocial\".\n            3. The utm_source parameter will be set to either \"twitter\" or\n               \"facebook\" as appropriate (\"twitter\" in the case of Twitter\n                posts, \"facebook\" in the case of Facebook posts).\n            4. The utm_campaign will be set to the first tag in the list of\n               tags.\n            5. If an included link already contains utm parameters\n               (utm_source, utm_campaign, utm_medium, utm_term, or\n               utm_content) in the URL, we will NOT append anything for\n               tracking.\n            6. If no tags are added to the post, we will NOT append anything\n               for tracking.\n        \"\"\"\n        # Look for post tags\n        tags = self.tags()\n        if len(tags) == 0:\n            return\n\n        # Add tracking to each URL in post...\n        for url in self.urls():\n            # Parse the URL into its constituent parts\n            url_parts = list(urlparse.urlparse(url))\n\n            # Get the query string\n            query = dict(urlparse.parse_qsl(url_parts[4]))\n\n            # If query already contains any UTM params, then don't tamper with it\n            utm_params = [utm_param for utm_param in (\"utm_source\", \"utm_campaign\", \"utm_medium\", \"utm_term\", \"utm_content\") if utm_param in query]\n            if len(utm_params) > 0:\n                continue\n\n            utm_params = dict(utm_source=self.account.provider,\n                              utm_campaign=tags[0].tag_slug,\n                              utm_medium=\"EmmaSocial\")\n\n            # Update query with the UTM params\n            query.update(utm_params)\n            url_parts[4] = urllib.urlencode(query)\n\n            # Rebuild the URL\n            decorated_url = urlparse.urlunparse(url_parts)\n            self.text = self.text.replace(url, decorated_url)\n\n    def short_urls(self):\n        \"\"\"\n        Returns all short URLs from the post text.\n        \"\"\"\n        urls = self.urls()\n        shortened = [(shorten(url), url) for url in urls]\n        shortened = [(short[\"url\"], url) for short, url in shortened]\n        return shortened\n\n    def replace_urls(self):\n        \"\"\"\n        Replaces all URLs in the post text with shortened URLs.\n        \"\"\"\n        urls = self.short_urls()\n        for short_url, long_url in urls:\n            self.text = self.text.replace(long_url, short_url)\n        return self.text, urls\n\n    def send(self, shorten_urls=True, async=True):\n        \"\"\"\n        Send a post to the target social platform.\n        \"\"\"\n        if async:\n            # Mark as 'queued'\n            self.status = \"Q\"\n            self.save()\n            # Send asynchronously\n            send_method = tasks.send_post.delay\n        else:\n            send_method = tasks.send_post\n\n        # Send it!\n        return send_method(self.id, shorten_urls=shorten_urls)\n\n    def register_metric_total(self, metric_type, total, details=None):\n        # Get current total\n        ms = self.metrics.get(type__name=metric_type)\n\n        if total != ms.total:\n            # Register the difference\n            m = Metric.objects.register(metric_type, self, total - ms.total)\n\n            if details is not None:\n                m.set_meta('details', details)\n\n            return m\n\n    def register_metric(self, metric_type, value=1):\n        return Metric.objects.register(metric_type, self, value)\n\n    def refresh_metric(self, metric_type):\n        mtype = MetricType.objects.get_by_name(metric_type)\n\n        # Get or create a MetricSummary for this post and metric_type\n        msummary, created = MetricSummary.objects.get_or_create(type=mtype, post=self)\n\n        # Refresh the metric summary\n        return msummary.refresh()\n\n    def metric_provider(self, metric_type, **kwargs):\n        mtype = MetricType.objects.get_by_name(metric_type)\n\n        # Get or create a MetricSummary for this post and metric_type\n        msummary, created = MetricSummary.objects.get_or_create(type=mtype, post=self)\n\n        # Refresh the metric provider\n        return msummary.provider(**kwargs)\n\n    def eligible_metrics(self):\n        return MetricType.objects.get_eligible_for_post(self)\n\n\n@receiver(pre_save, sender=Post)\ndef post_pre_save(sender, instance, **kwargs):\n    \"\"\"\n    Receiver that gets called before a post is saved.\n\n    We use this to ensure that the owner of the post, related messages and\n    related accounts are the same individual.\n    \"\"\"\n    assert instance.user.id == instance.message.user.id and \\\n        instance.message.user.id == instance.account.user.id, \\\n        \"The owner of the post, related messages and related accounts cannot be different\"\n\n    # retrieve current value of ga_status account metadata\n    meta = instance.account.get_meta('ga_status', True)\n\n    # Add UTM tracking params to all links in post.\n    # We do this on the post rather than the message, as the post is specific to a particular\n    # platform, and we want to track that platform via the UTM fields.\n    # This only applies for accounts which have enabled google analytics via the\n    # control panel\n    if not instance.id and meta:\n        instance.add_utm_tracking()\n\n\n@receiver(post_save, sender=Post)\ndef post_post_save(sender, instance, created, **kwargs):\n    \"\"\"\n    Receiver that gets called after a post is saved.\n\n    We use this to send the post to the target platform, via its send() method.\n\n    We also use this to initialize all eligible metrics for the post.\n    \"\"\"\n    import pdb; pdb.set_trace()\n\n    # Is this a scheduled post\n    scheduled = instance.message.scheduled_at is not None\n\n    # Should we send the post?\n\n    # Send if post has just been created and isn't a scheduled post\n    send = created and not scheduled\n\n    # Also, send if post hasn't yet been sent and isn't a scheduled post\n    # e.g. when a previously-scheduled post is now being sent immediately\n\n    if created:\n        # Initialize all eligible metrics for the post\n        for metric_type in instance.eligible_metrics():\n            # Initialize to 0\n            instance.register_metric(metric_type.name, value=0)\n\n        # Send the post\n        if instance.message.scheduled_at is None:\n            native_id = instance.send(async=False)\n            success = native_id is not False\n\n            # Raise error if not successful\n            if not success:\n                raise exceptions.StatusUpdateException(None, None, \"Post could not be published.\")\n    else:\n        pass\n\n\nclass MetricTypeManager(models.Manager):\n    def get_by_name(self, name):\n        \"\"\"\n        Shortcut for Metric.objects.get(name=name).\n        \"\"\"\n        return self.get(name=name)\n\n    def get_eligible_for_post(self, post):\n        \"\"\"\n        Returns all metrics the post is eligible for.\n        \"\"\"\n        # Acceptance criteria for FB:\n        # 1. User can see Reach for posts made from personal Facebook accounts. This metric should be the sum of user's friend count plus the friend count of any friend who has shared this post.\n        # 2. User can see Potential Views for posts made from Facebook pages.\n        # 3. User can view # of likes for each Facebook post\n        # 4. User can view # of clicks for each Facebook post\n        # 5. User can view # of comments for each Facebook post\n        # 6. User can view # of shares for each Facebook post\n        eligibility_by_platform = {\n            \"twitter\": [\"click\", \"favorite\", \"reach\", \"reply\", \"retweet\"],\n            \"facebook\": [\"click\", \"like\", \"reach\", \"comment\", \"share\"]\n        }\n\n        # Select eligible metrics based on the post's target platform.\n        return self.filter(name__in=eligibility_by_platform[post.account.provider])\n\n\nclass MetricType(models.Model):\n    objects = MetricTypeManager()\n    name = models.CharField(max_length=50, default='', db_index=True)\n    label = models.CharField(max_length=250, default='')\n    plural = models.CharField(max_length=250, default='')\n    simple = models.BooleanField(default=True)\n\n    @property\n    def singular(self):\n        \"\"\"\n        Synonym for self.label\n        \"\"\"\n        return self.label\n\n    def __unicode__(self):\n        return self.name\n\n\nclass MetricSummaryManager(models.Manager):\n    def get_by_name(self, name):\n        return self.get(type__name=name)\n\n\nclass MetricSummary(models.Model):\n    objects = MetricSummaryManager()\n\n    type = models.ForeignKey(MetricType, related_name='metrics')\n    post = models.ForeignKey(Post, related_name='metrics')\n    total = models.PositiveIntegerField(default=0)\n    rate_limit_reset = models.DateTimeField(default=None, null=True)\n    rate_limit_remaining = models.PositiveIntegerField(default=180, null=True)\n    rate_limit_limit = models.PositiveIntegerField(default=180, null=True)\n    created_at = models.DateTimeField(auto_now_add=True, db_index=True)\n    updated_at = models.DateTimeField(auto_now=True)\n\n    class Meta:\n        # We don't want messages going to the same account multiple times...\n        unique_together = ((\"type\", \"post\"),)\n\n    def provider(self, **kwargs):\n        # Instantiate some class based on the MetricType\n        modu = importlib.import_module(\"emmasocial.gmetrics.{0}\".format(self.type.name))\n        klass = getattr(modu, self.type.name.title())\n\n        # Instantiate the klass, giving it this MS's post\n        # That should be enough info for a refresh\n        instance = klass(self.post, **kwargs)\n\n        return instance\n\n    def incr(self, amount=1):\n        self.total = F(\"total\") + amount\n        self.save()\n\n    def decr(self, amount=1):\n        self.total = F(\"total\") - amount\n        self.save()\n\n    def rate_limit_exceeded(self):\n        if self.rate_limit_reset is None:\n            # Rate limits do not apply\n            return False\n        if self.rate_limit_remaining > 0:\n            # Still got some gas in the tank\n            return False\n        # Is the reset in the future?\n        return self.rate_limit_reset > tz.now()\n\n    def refresh(self):\n        instance = self.provider()\n\n        # Ask the instance to get the latest metrics\n        instance.start()\n\n        # Wait until this is done\n        instance.join()\n\n        # Process the metrics\n        val = instance.value\n\n        # Register new value\n        if val is not None and val != self.total:\n            # Register the difference\n            Metric.objects.register(self.type.name, self.post, val - self.total)\n\n        # Store rate limit info, if available\n        if hasattr(instance, \"meta\") and \"rate_limit\" in instance.meta:\n            # Refresh 'self', so we don't overwrite newly registered metrics\n            self = MetricSummary.objects.get(pk=self.pk)\n\n            # Store rate limit info\n            self.rate_limit_limit = instance.meta[\"rate_limit\"][\"limit\"]\n            self.rate_limit_remaining = instance.meta[\"rate_limit\"][\"remaining\"]\n            self.rate_limit_reset = instance.meta[\"rate_limit\"][\"reset\"]\n\n            # Save\n            self.save()\n\n        return instance\n\n    def __unicode__(self):\n        return unicode(self.type) + u\": \" + unicode(self.total)\n\n\nclass MetricManager(models.Manager):\n    def register(self, type_name, post, value=1):\n        \"\"\"\n        Registers a metric of type 'type_name' for 'post' with 'value'.\n\n        E.g. to register a click on a post:\n\n            Metric.objects.register(\"click\", post, 1)\n        \"\"\"\n        assert type(post) is Post, \"post must be a Post instance\"\n        mtype = MetricType.objects.get_by_name(type_name)\n\n        # Get or create a MetricSummary for this post and metric_type\n        msummary, created = MetricSummary.objects.get_or_create(type=mtype, post=post)\n\n        # Create our metric\n        m = Metric(parent=msummary, value=value)\n        m.save()\n\n        # Return it\n        return m\n\n\nclass Metric(models.Model):\n    objects = MetricManager()\n    parent = models.ForeignKey(MetricSummary, related_name='details')\n    value = models.IntegerField(default=0)\n    created_at = models.DateTimeField(auto_now_add=True, db_index=True)\n\n    def __unicode__(self):\n        return unicode(self.parent.type) + u\": \" + unicode(self.value)\n\n    def save(self, *args, **kwargs):\n        is_new = self.pk is None\n        if is_new:\n            super(Metric, self).save(*args, **kwargs)\n        else:\n            # We don't allow metrics to be updated, as this could cause\n            # the parent MetricSummary to become out of sync.\n            # Instead, metrics should be deleted and re-created.\n            raise UpdateDisallowedException(\"Metrics cannot be updated.\")\n\n    def set_meta(self, key, value, serializer=json.dumps):\n        \"\"\"\n        Write metric meta data to the database, serializing automatically.\n        \"\"\"\n        meta, created = self.meta.get_or_create(key=key, metric=self)\n        meta.value = serializer(value)\n        meta.save()\n        return meta\n\n    def get_meta(self, key, default=None, deserializer=json.loads):\n        \"\"\"\n        Read metric meta data from the database, deserializing automatically.\n        \"\"\"\n        try:\n            meta = self.meta.get(key=key, metric=self)\n            return deserializer(meta.value)\n        except MetricMeta.DoesNotExist:\n            return default\n\n\n@receiver(post_save, sender=Metric)\ndef metric_post_save(sender, instance, created, **kwargs):\n    \"\"\"\n    Receiver that gets called whenever a new metric is saved.\n\n    We use this to ensure that that the total on the metric's parent accurately\n    reflects the aggregate for all metrics of that parent's type.\n    \"\"\"\n    if created:\n        instance.parent.incr(instance.value)\n\n\n@receiver(pre_delete, sender=Metric)\ndef metric_pre_delete(sender, instance, **kwargs):\n    \"\"\"\n    Receiver that gets called whenever a metric is deleted.\n\n    We use this to ensure that that the total on the metric's parent accurately\n    reflects the aggregate for all metrics of that parent's type.\n    \"\"\"\n    instance.parent.decr(min(instance.parent.total, instance.value))\n\n\nclass MetricMeta(models.Model):\n    metric = models.ForeignKey(Metric, related_name='meta')\n    key = models.CharField(max_length=250, db_index=True)\n    value = models.TextField(blank=False)\n    created_at = models.DateTimeField(auto_now_add=True, db_index=True)\n    updated_at = models.DateTimeField(auto_now=True)\n\n    def __unicode__(self):\n        return unicode(self.metric.parent.type) + u\": \" + self.key\n\n    class Meta:\n        # We don't want duplicate keys for a single metric...\n        unique_together = ((\"metric\", \"key\"),)\n\n\n@receiver(post_save, sender=SocialToken)\ndef account_post_save(sender, instance, created, **kwargs):\n    \"\"\"\n    We use this post_save signal on the SocialToken model to spin up new\n    stream consumers, in the case of a new Twitter account being created in our\n    system.\n\n    We also use this post_save signal on the SocialToken model to create\n    accounts for all pages managed by the user, so they can post to those\n    pages too.\n    \"\"\"\n    if created:\n\n        # Refresh account metrics immediately\n        tasks.refresh_account_metrics(accounts=[instance.account])\n\n        if instance.account.provider == 'facebook':\n            # Import associated Facebook pages\n            import_pages(instance)\n\n        if instance.account.provider == 'twitter':\n            # Start consuming the account's Twitter stream\n            tasks.start_stream.delay(instance.account.id)\n\n\n@receiver(post_delete, sender=SocialAccount)\ndef account_post_delete(sender, instance, using, **kwargs):\n    \"\"\"\n    We use this post_delete signal on the SocialAccount model to spin down the\n    associated stream consumer, in the case of a Twitter account being deleted\n    from our system.\n    \"\"\"\n    if instance.provider == 'twitter':\n\n        # Stop consuming the account's Twitter stream\n        tasks.stop_stream.delay(instance.id)\n",
-					"file": "/Users/amatthews/Dev/social/src/emmasocial/models.py",
-					"file_size": 31188,
-					"file_write_time": 1371565144000000,
+					"file": "/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/jira-issues.coffee",
 					"settings":
 					{
-						"buffer_size": 31588,
+						"buffer_size": 3326,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/amatthews/Dev/social/src/emmasocial/api/serializers.py",
+					"contents": "HUBOT_JIRA_URL (format: \"https://jira-domain.com:9090\")\nHUBOT_JIRA_IGNORECASE (optional; default is \"true\")\nHUBOT_JIRA_USERNAME (optional)\nHUBOT_JIRA_PASSWORD (optional)\nHUBOT_JIRA_IGNORE_USERS (optional, format: \"user1|user2\", default is \"jira|github\")\n",
 					"settings":
 					{
-						"buffer_size": 4554,
+						"buffer_size": 254,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/amatthews/Dev/social/src/emmasocial/api/urls.py",
+					"file": "/Users/amatthews/Dev/hubot-social/package.json",
 					"settings":
 					{
-						"buffer_size": 2505,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/amatthews/Dev/social/src/emmasocial/api/views.py",
-					"settings":
-					{
-						"buffer_size": 16795,
+						"buffer_size": 615,
 						"line_ending": "Unix"
 					}
 				}
@@ -2680,56 +2691,76 @@
 			"build_system": "Packages/JSHint/JSHint.sublime-build",
 			"command_palette":
 			{
-				"height": 315.0,
+				"height": 95.0,
 				"selected_items":
 				[
 					[
+						"json",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
 						"html",
 						"Set Syntax: HTML"
-					],
-					[
-						"javascript",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"open gi",
-						"GitHub: Open Gist in Editor"
-					],
-					[
-						"open gist",
-						"GitHub: Open Gist in Browser"
 					],
 					[
 						"gist",
 						"GitHub: Public Gist from Selection"
 					],
 					[
+						"django",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Reformat (Pretty Print) JSON"
+					],
+					[
+						"javascript",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
 						"javasc",
 						"Set Syntax: JavaScript"
 					],
 					[
-						"install pac",
-						"Package Control: Install Package"
+						"javasct",
+						"Set Syntax: JavaScript"
 					],
 					[
-						"install pack",
-						"Package Control: Install Package"
+						"Ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"javascip",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"pyt",
+						"Set Syntax: Python"
 					],
 					[
 						"tidy",
 						"Tidy HTML"
 					],
 					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
 						"Snippet: html",
 						"Snippet: html"
-					],
-					[
-						"python",
-						"Set Syntax: Python"
 					],
 					[
 						"jaasc",
@@ -2756,24 +2787,12 @@
 						"Indentation: Convert to Tabs"
 					],
 					[
-						"ruby",
-						"Set Syntax: Ruby"
-					],
-					[
-						"json",
-						"Pretty JSON: Reformat (Pretty Print) JSON"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
 						"remo",
 						"Package Control: Remove Package"
-					],
-					[
-						"text",
-						"Set Syntax: Plain Text"
 					],
 					[
 						"cdn",
@@ -2785,6 +2804,10 @@
 					],
 					[
 						"install page",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
 						"Package Control: Install Package"
 					],
 					[
@@ -2820,16 +2843,16 @@
 						"Show TODOs: Project and open files"
 					],
 					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
 						"jshint",
 						"JSHint: Linter"
 					],
 					[
 						"jshit",
 						"JSHint"
-					],
-					[
-						"django",
-						"Set Syntax: HTML (Django)"
 					],
 					[
 						"install pa",
@@ -2866,10 +2889,6 @@
 					[
 						"pyth",
 						"Set Syntax: Python"
-					],
-					[
-						"sql",
-						"Set Syntax: SQL"
 					],
 					[
 						"css",
@@ -2954,6 +2973,10 @@
 					[
 						"php",
 						"Set Syntax: PHP"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
 					],
 					[
 						"zen",
@@ -3092,7 +3115,7 @@
 						"Snippet: #!/usr/bin/env"
 					]
 				],
-				"width": 588.0
+				"width": 435.0
 			},
 			"console":
 			{
@@ -3109,134 +3132,134 @@
 			},
 			"file_history":
 			[
-				"/Users/amatthews/Dev/social/src/emmasocial/views.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/serializers.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/models.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/views.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/models.py",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/index.html",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack/font-awesome/jqm-icon-pack-fa.css",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/app/css/font-builder.css",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/app/js/controllers.js",
-				"/Users/amatthews/Downloads/customfont/fontawesome.css",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/app/bootstrap/css/font-awesome.css",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack/font-awesome/jqm-icon-pack-fa.scss",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/static/app/js/app.js",
-				"/Users/amatthews/Dropbox/github/jQuery-Mobile-Icon-Pack-Builder/templates/font-awesome.css.template",
-				"/Users/amatthews/Dropbox/github/jquery-mobile-icon-pack/font-awesome/index.html",
-				"/Users/amatthews/Dropbox/github/jquery-mobile-icon-pack/font-awesome/jqm-icon-pack-3.0.0-fa.css",
-				"/Users/amatthews/Dropbox/github/jquery-mobile-icon-pack/font-awesome/jqm-icon-pack-3.0.0-fa.scss",
-				"/Users/amatthews/Desktop/Social DB Backup/social_db.1370995201",
-				"/Users/amatthews/Dev/social/src/emmasocial/templates/activity.html",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.activity.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/urls.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.utils.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/main.scss",
-				"/Users/amatthews/Dev/social/src/emmasocial/templates/reports.html",
-				"/Users/amatthews/Dev/social/vm/Vagrantfile",
-				"/Users/amatthews/Dev/social/fabfile.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/main.css",
-				"/Users/amatthews/Downloads/social_db.1370995201.sql",
-				"/Users/amatthews/Downloads/social_db.1370995201.gz",
-				"/Users/amatthews/Downloads/social_db.1370995201",
-				"/Users/amatthews/Dev/_social_app_php/protected/controllers/SiteController.php",
-				"/Users/amatthews/Dev/_social_api/php/emma2/scripts/dbconnect.php",
-				"/Users/amatthews/Dev/social/requirements.txt",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.reports.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/_reports.scss",
-				"/Users/amatthews/Downloads/novus-nvd3-90e4078/examples/stackedAreaChart.html",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/haters.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/grumpycat.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/nickgen.coffee",
+				"/Users/amatthews/Dev/social/sprintdemo/sprint-13.html",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/jira-issues.coffee",
+				"/Users/amatthews/Dev/hubot-social/hubot-scripts.json",
+				"/Users/amatthews/Dev/hubot-social/scripts/jira-issues.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/jira.coffee",
+				"/Users/amatthews/Dev/hubot-social/scripts/jira.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/party_gifs.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/nettipot.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/look-of-disapproval.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/megusta.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/mailchimp-subscribe.coffee",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/likeaboss.coffee",
+				"/Users/amatthews/Dev/hubot-social/package.json",
+				"/Users/amatthews/Dev/hubot-social/README.md",
+				"/Users/amatthews/Dev/hubot-social/node_modules/hubot/docs/scripting.md",
+				"/Users/amatthews/Dev/hubot-social/Procfile",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/admin.scss",
 				"/Users/amatthews/Dev/social/src/emmasocial/templates/base_app.html",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/requirements.txt",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/app.py",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/index.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/libs/token-input-facebook.css",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/mousetrap.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/min/application.activity-min.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/_mixins.scss",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-data-r13.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/core.libs.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-data-r12.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-data-adapter.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-1.0.0-rc.4.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/templates/index.html",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-data-serializer.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/ember-1.0.0-rc.2.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_acct_meta.py",
-				"/Users/amatthews/Dropbox/github/top-github-users/format-users.coffee",
-				"/Users/amatthews/Dropbox/github/top-github-users/README.md",
-				"/Users/amatthews/Dropbox/github/top-github-users/temp-logins.json",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/static/css/app.scss",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/static/css/main.scss",
-				"/Users/amatthews/Dropbox/Development/clients/richkalonick/website/env/lib/python2.7/site-packages/flask/app.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_utm_tracking_params.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/templates/base_admin.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/templates/accounts.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/templates/consumers.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/templates/main.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/activity.html",
+				"/Users/amatthews/Desktop/random_article.py",
+				"/Users/amatthews/Desktop/random-wiki-article",
+				"/Users/amatthews/Dropbox/github/config/alfred/Alfred 2/Alfred.alfredpreferences/workflows/user.workflow.418A8F3D-B225-4C79-924C-D1C179FE1F86/format.php",
+				"/Users/amatthews/Dropbox/github/config/alfred/Alfred 2/Alfred.alfredpreferences/workflows/user.workflow.2AAFE036-DFDA-418B-AC14-8E8E5A785E84/upload_open__imgur.scpt",
+				"/Users/amatthews/Dropbox/github/config/alfred/Alfred 2/Alfred.alfredpreferences/workflows/user.workflow.2AAFE036-DFDA-418B-AC14-8E8E5A785E84/upload_imgur.scpt",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/views.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/facebook/utils.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_facebook_utils.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/models.py",
 				"/Users/amatthews/Dev/social/src/emmasocial/tests/__init__.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_url_extraction.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/facebook/base.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/migrations/0025_auto__add_unique_accountmeta_account_key.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/permissions.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/monkey.py",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/templates/gallery-intro.txt",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/index.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/app.py",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/js/application.admin.js",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/templates/gallery-thumbnail.txt",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/login.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/app.scss",
-				"/Users/andymatthews/Downloads/starter-kit-1.0.0-rc.3/js/app.js",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/admin.css",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/base.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/admin.scss",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/globals.scss",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/login.scss",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/bootstrap.min.css",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/css/fonts.scss",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/config.rb",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/admin_login.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/admin_base.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/index_admin.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/requirements.txt",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/base_admin.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/admin/categories_admin.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/templates/base.html",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/forms.py",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/static/data/weddings_lg.json",
-				"/Users/andymatthews/Dropbox/Development/clients/richkalonick/website/fabfile.py",
-				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack/original/index.html",
-				"/Users/andymatthews/Dropbox/github/jQuery-Mobile-Icon-Pack/original/jqm-icon-pack-2.0-original.css",
-				"/Users/andymatthews/Downloads/jquery.mobile-1.3.1/demos/widgets/icons/index.html",
-				"/Users/andymatthews/Desktop/icons.html",
-				"/Users/andymatthews/Dropbox/github/autoComplete.js/readme.md",
-				"/Users/andymatthews/Dropbox/github/autoComplete.js/jqm.autoComplete-1.5.1.js",
-				"/Users/andymatthews/Dropbox/github/autoComplete.js/array.html",
-				"/Users/andymatthews/Dropbox/github/autoComplete.js/index.html",
-				"/Users/andymatthews/Dropbox/github/jsdownloader/package.json",
-				"/Users/amatthews/Dev/social-streaming/streaming/tasks.py",
-				"/Users/amatthews/Dev/social-streaming/streaming/documentstore.py",
-				"/Users/amatthews/Dev/social-streaming/streaming/settings.py",
-				"/Users/amatthews/Dropbox/MOthers Day/index.html",
-				"/Users/amatthews/Dev/social/src/emmasocial/tasks.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/management/commands/flood_account_growth.py",
-				"/Users/amatthews/Dev/social/sprintdemo/sprint-06.html",
-				"/Users/amatthews/Dev/social/src/emmasocial/management/commands/processmessages.py",
-				"/Users/amatthews/Dev/social/src/manage.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.index.js",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/min/spin.min.js",
-				"/Users/amatthews/Dev/social/sprintdemo/plugin/notes-server/index.js",
+				"/Users/amatthews/Dev/social/vm/Vagrantfile",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/samples/andy.json",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_page_access.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/facebook/exceptions.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.activity.js",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/min/application.activity-min.js",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/serializers.py",
+				"/Users/amatthews/Dev/social/requirements.txt",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.utils.js",
+				"/Users/amatthews/Dropbox/github/hubot-emma/where_is_my_shit.coffee",
+				"/Users/amatthews/Dropbox/github/hubot-scripts/src/scripts/httpcat.coffee",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/urls.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/throttles.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/settings_local.py",
 				"/Users/amatthews/Dev/social/src/emmasocial/settings.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/twitter/base.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/migrations/0023_auto__add_accountmeta__chg_field_message_message_key.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/tests/AccountGrowth.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/api/tests.py",
-				"/Users/amatthews/Dev/emma/python/tests/__init__.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/schedule.py",
-				"/Users/amatthews/Dev/social/src/emmasocial/assets/js/libs/src/jquery.tokeninput.js",
-				"/Users/amatthews/Downloads/twitter-1.9.4/README",
-				"/Users/amatthews/Downloads/twitter-1.9.4/twitter/cmdline.py",
-				"/Users/amatthews/Downloads/twitter-1.9.4/PKG-INFO",
-				"/Users/amatthews/Downloads/twitter-1.9.4/setup.py",
-				"/Users/amatthews/Downloads/twitter-1.9.4/setup.cfg",
-				"/Users/amatthews/Dev/social/src/emmasocial/local_settings.py",
-				"/Users/amatthews/Dropbox/github/django-allauth/allauth/socialaccount/models.py"
+				"/Users/amatthews/Dev/streaming/streaming/tasks.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/500.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/urls.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/views.py",
+				"/Users/amatthews/Dev/social/src/allauth/account/views.py",
+				"/Users/amatthews/Dev/social/src/allauth/socialaccount/views.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/settings_prod.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/index.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/main.scss",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/views.py",
+				"/Users/amatthews/Dev/social/src/allauth/socialaccount/providers/facebook/provider.py",
+				"/Users/amatthews/Dev/social/src/allauth/socialaccount/providers/twitter/provider.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/facebook/base.py",
+				"/Users/amatthews/Dev/social/src/allauth/socialaccount/models.py",
+				"/Users/amatthews/Dev/social/src/allauth/models.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tasks.py",
+				"/Users/amatthews/Desktop/test.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_acct_meta.py",
+				"/Users/amatthews/Dev/streaming/streaming/flaskapp.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/urls.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_emmasocial_views.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_utils.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/utils.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/decorators.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/settings_dev.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/admin/main.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/admin/base_admin.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/admin/models.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/admin_base.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/templates/admin.html",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/css/sass/_emmaicons.scss",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/fonts/EmmaIcons.dev.svg",
+				"/Users/amatthews/Dev/social/src/emmasocial/assets/fonts/EmmaIcons.svg",
+				"/Users/amatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/index.html",
+				"/Users/amatthews/Dev/social/src/seleniumtests/test_app_posting.py",
+				"/Users/amatthews/Dev/social/src/seleniumtests/main.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/selenium/tests/agencySprintTwelve.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_account_engagement_index.py",
+				"/Users/amatthews/Dev/social/src/seleniumtests/tests/test_logging_in_with_twitter_account.py",
+				"/Users/amatthews/Dev/social/src/seleniumtests/__init__.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/selenium/tests/__init__.py",
+				"/Users/amatthews/Dev/social/src/selenium/tests.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/test_url_extraction.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/selenium/tests/first_test.py",
+				"/Users/amatthews/Dev/social/src/manage.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/selenium/chromedriver.log",
+				"/Users/amatthews/Dev/social/fabfile.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/tests/selenium/agencySprintTwelve.py",
+				"/Users/amatthews/Dev/social/src/emmasocial/api/__init__.py",
+				"/Users/amatthews/Dev/social/submodules/django-allauth/example/example/local_settings.example",
+				"/Users/amatthews/Desktop/selenium/agencySprintTwelve/splinter/include/python2.7/frameobject.h",
+				"/Users/andymatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/css/big.css",
+				"/Users/andymatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/js/big.js",
+				"/Users/andymatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/css/custom.css",
+				"/Users/andymatthews/Dropbox/Writing/Presentations/Ember, The Good, the Bad, and the Not So Bad/index.html",
+				"/Users/andymatthews/Dropbox/github/hubot-scripts/src/scripts/httpcat.coffee",
+				"/Users/andymatthews/Dropbox/github/hubot-scripts/src/scripts/nickgen.coffee",
+				"/usr/local/lib/node_modules/hubot/src/nickgen.coffee",
+				"/usr/local/lib/node_modules/hubot/src/scripts/httpcat.coffee",
+				"/usr/local/lib/node_modules/hubot/src/httpcat.coffee",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/includes/header.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/b/includes/header.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/login.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/b/login.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/b/home.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/home.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/css/custom.css",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/book.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/services.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/details.php",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/css/jquery.mobile.flatui.css",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/unicorn/html/css/unicorn.fastbook.css",
+				"/Users/andymatthews/Dropbox/github/fastbook.mobi/b/includes/manage.php",
+				"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications/code/css/style.css",
+				"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications/code/js/app.js",
+				"/Users/andymatthews/Dropbox/Writing/Articles/Testing Best Practices for Ember Applications/code/index.html",
+				"/Users/andymatthews/Dropbox/Development/personal/andymatthews.net/com/jrnl/jrnl.cfc"
 			],
 			"find":
 			{
@@ -3244,9 +3267,19 @@
 			},
 			"find_in_files":
 			{
-				"height": 95.0,
+				"height": 0.0,
 				"where_history":
 				[
+					"",
+					"*.py",
+					"",
+					"data-role=\"list-divider\" data-theme=\"d\">",
+					"",
+					"*.py",
+					"",
+					"*.py",
+					"",
+					"*.py",
 					"",
 					"-/Users/amatthews/Dropbox/github/jsdownloader/node_modules/*",
 					"-/node_modules/*",
@@ -3266,134 +3299,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"scheduled_at",
-					".send",
-					"scheduled_at",
-					"MessageList",
-					"class Post",
-					"isScheduled",
-					"social.post",
-					"order",
-					"each.@",
-					"@",
-					"Controller",
-					"console",
-					"tz",
-					"time",
-					"utc",
+					"#   ",
+					"<<",
+					"<<<<<",
+					"2013-08-15T21:27:02.002873+00:00 heroku[web.1]",
+					"$(this)",
+					"display",
+					"class",
+					"twitter",
+					"')\n",
+					"| activity",
+					"(Pdb) ",
+					"app_",
+					"app_status_",
+					"app_update",
 					"import pdb",
-					"saveMessage",
-					"scheduled_at",
-					"async",
-					"send",
-					"scheduled",
-					".get('scheduled')",
-					"this.get('scheduled')",
-					"scheduled",
-					"social.message",
-					"thumbs",
-					"0px",
-					"2px",
-					"info",
-					"(.+)",
-					":before.*",
-					".ui-icon-",
-					"eur",
-					"-info",
-					"insert",
-					"scheduled_at",
+					"funky",
+					"post_should_be_imported",
+					"facebook_url",
+					"[\n",
+					"post_should_be_imported",
+					"import_posts",
+					"funky",
+					"\"sp",
+					"'",
+					"''",
+					"'",
+					"{\"",
+					"'",
+					"Funky",
+					"funky",
+					"'",
+					"'picture'",
+					"'",
+					"shared_story",
+					"import_posts",
+					"funky_response",
+					"create_from_facebook_post",
+					"message",
+					"FacebookPostStructureException",
+					"formIsDisabled",
+					"isDisabled",
+					"schedule",
+					"scheduleP",
+					"post_save",
+					"dupe submissions",
+					"cat",
+					"schedule",
+					"throttle",
+					"reloadAllPosts",
+					"OnceEveryFiveMinsUserRateThrottle",
+					"cache",
+					"Unable to send outside post to app",
+					"$('.twitter')",
+					"tagname",
+					"sticky",
+					"disconnect",
+					"logging",
+					"disconnect",
+					"HttpResponseRedirect",
+					"reverse",
+					"disconnect",
+					"\"account\"",
+					"account",
+					"disconnect",
+					"ACCOUNT_LOGOUT_REDIRECT_URL",
+					"myemma.com/social",
+					"myemma.com",
+					"connections",
+					"head",
+					"import_pages",
+					"get_profile_url",
+					"start_stream",
+					"nav_current",
+					"current",
+					"h3",
+					"h2",
+					"disconnect",
+					"Privacy and Permission Policy",
+					"disconnect",
+					"consumers_online",
+					"mock",
+					"TestAdminAccessNotLoggedIn",
+					"call_",
+					"media",
+					"Media",
+					"Privacy and Permission Policy",
+					"super(",
+					"super",
+					"get_primary_nav",
+					"get_primary_nav()",
+					"get_primary_nav",
+					"utils.",
+					"utils",
+					"CouldNotAcquireLockException",
+					"get_consumer_status",
+					"get_app_status",
+					"status",
+					"get_app_status",
+					"\n        ",
+					"status",
+					"app_status",
+					"get_app_status",
 					"pdb",
-					"Post",
-					"social.message",
-					"saveMessage",
-					"submitScheduled",
-					"saveMessage",
-					"emmaso",
-					">>>>>>>",
-					"message_key",
-					">>>>>>>",
-					"message_key",
-					">>>>>>>",
-					"$dragStatus",
-					"$draggable",
-					"$view.find('#time-picker')",
-					"$view.find('#date-picker')",
-					"time",
-					"text",
-					"true",
-					"timeSet",
-					"dateSet",
-					"timeSet",
-					"dateSet",
-					"textinput",
-					"\n                    ",
-					";\n",
-					"'));",
-					"dateSet",
-					"pickadate",
-					"postDisabled",
-					"this.get('text')",
-					"postDisabled",
-					"buttonDisabled",
-					"schedule",
-					"(.+)\\n",
-					"(.+)",
-					"newpostc",
-					"linkedText",
-					"urls",
-					"Message",
-					"created",
-					"console.log",
-					"isScheduled",
-					"post",
-					"null",
-					"social.account",
-					"{{controller}}",
-					"newpost",
-					"social.message",
-					"list-posted",
-					"HEAD",
-					"publications",
-					"schedule",
-					"post-content-tags",
-					"post",
-					"social.post",
-					"click",
-					"bind",
-					"a-channel",
-					"95fcf11d9ed00e6b9fad",
-					"  ",
-					"_this",
-					"  ",
-					"getDefaultLength",
-					"$span",
-					"tcwarn",
-					"totalCharCount",
-					"totalCharCount\ntotalCharCount\naddImage",
-					"setproperties",
-					"addImage",
-					"message_key",
-					"didchange",
-					"addImage",
-					".set",
-					"message_key",
-					"unmber",
-					"unmbber",
-					"filterTwitterData",
-					"panelName",
-					"loadChildren",
-					"order",
-					"showMetric",
-					"thumb",
-					"text",
-					"displayThumbnail",
-					"addImage",
-					"post-content-tags",
-					"drag-image-status",
-					"figure",
-					"histcatexpshort",
-					"histcatexplong",
-					"<h2>Followers over time</h2>\n            <figure id=\"chart-followers\"></figure>"
+					"isSent",
+					"scheduled",
+					"{{",
+					"last_login",
+					"span",
+					"td",
+					"tr",
+					"get_avatar_url",
+					"get_profile_url",
+					"total_shares_provider",
+					"this_response",
+					"admin-",
+					"self.response",
+					"    ",
+					"requests",
+					"primary_nav",
+					"admin",
+					"primary_nav,",
+					"total_facebook",
+					"Total ",
+					"follow",
+					"total_twitter",
+					" in ",
+					"content",
+					": "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3401,18 +3434,32 @@
 				"regex": false,
 				"replace_history":
 				[
-					".get('scheduled_at')",
-					"<a href=\"index.html\" data-role=\"button\" data-icon=\"$1\" data-theme=\"b\">data-icon=\"$1\"</a>",
+					"\"\"",
+					"duplicate submissions",
+					"current_admin",
+					"get_primary_nav(request)",
+					"\\t",
+					"$1",
 					"",
-					"'$1', ",
+					"$1, ",
+					"$1",
+					"$1,",
+					"",
 					"    ",
-					"messageKey",
-					"    ",
+					"data-role=\"list-divider\" data-theme=\"d\">",
 					"\\n",
+					"(/images/",
+					"1.3.1",
 					"",
+					" ",
+					"campaign",
 					"\\n",
-					"",
-					"\\n",
+					"\"",
+					">",
+					"<",
+					" margin-top: 2px; }",
+					"\" data-theme=\"b\">data-",
+					"<a href=\"index.html\" data-role=\"button\" data-icon=\"$1\">data-icon=\"$1\"</a>",
 					"",
 					"    ",
 					"",
@@ -3514,21 +3561,7 @@
 					"icon-magnet",
 					"  ",
 					"\\t",
-					"\"",
-					"\\t",
-					"\"",
-					"roundto",
-					"cHeight",
-					"fWidth",
-					"|",
-					"",
-					"glyphs",
-					"",
-					"\\t",
-					" ",
-					"\\t",
-					"amatthews",
-					"<yourusername>"
+					"\""
 				],
 				"reverse": false,
 				"show_context": false,
@@ -3539,29 +3572,29 @@
 			"folders":
 			[
 				{
-					"path": "/Users/amatthews/Dev/social"
+					"path": "/Users/amatthews/Dev/hubot-social"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/amatthews/Dev/social/src/emmasocial/templates/activity.html",
+							"file": "/Users/amatthews/Dev/hubot-social/hubot-scripts.json",
 							"settings":
 							{
-								"buffer_size": 23146,
+								"buffer_size": 157,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										9934,
-										10028
+										32,
+										32
 									]
 								],
 								"settings":
@@ -3572,6 +3605,108 @@
 										"README",
 										"FIXME"
 									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2.0,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5.0,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10.0,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
 									"csslint_options":
 									{
 										"adjoining-classes": "warning",
@@ -3633,6 +3768,7 @@
 									[
 									],
 									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
 									"sublimelinter": true,
 									"sublimelinter_delay": 2.0,
 									"sublimelinter_disable":
@@ -3655,30 +3791,29 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"word_wrap": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3381.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/Users/amatthews/Dev/social/src/emmasocial/assets/js/es/src/application.activity.js",
+							"file": "/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/jira.coffee",
 							"settings":
 							{
-								"buffer_size": 37822,
+								"buffer_size": 7359,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										32840,
-										32844
+										0,
+										0
 									]
 								],
 								"settings":
@@ -3689,6 +3824,108 @@
 										"README",
 										"FIXME"
 									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2.0,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5.0,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10.0,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
 									"csslint_options":
 									{
 										"adjoining-classes": "warning",
@@ -3750,6 +3987,7 @@
 									[
 									],
 									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
 									"sublimelinter": true,
 									"sublimelinter_delay": 2.0,
 									"sublimelinter_disable":
@@ -3772,359 +4010,8 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 4704.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/amatthews/Dev/social/src/emmasocial/models.py",
-							"settings":
-							{
-								"buffer_size": 31588,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										21617,
-										21617
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": true,
-									"sublimelinter_gutter_marks_theme": "simple",
-									"sublimelinter_mark_style": "none",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 9816.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/amatthews/Dev/social/src/emmasocial/api/serializers.py",
-							"settings":
-							{
-								"buffer_size": 4554,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2718,
-										2718
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": true,
-									"sublimelinter_gutter_marks_theme": "simple",
-									"sublimelinter_mark_style": "none",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 46.0,
-								"translation.y": 1162.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/amatthews/Dev/social/src/emmasocial/api/urls.py",
-							"settings":
-							{
-								"buffer_size": 2505,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1266,
-										1278
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": true,
-									"sublimelinter_gutter_marks_theme": "simple",
-									"sublimelinter_mark_style": "none",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-									"tab_size": 4,
+									"syntax": "Packages/Xavura-CoffeeScript-Sublime-Plugin-f7cc700/CoffeeScript.tmLanguage",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
@@ -4134,19 +4021,19 @@
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/Users/amatthews/Dev/social/src/emmasocial/api/views.py",
+							"buffer": 2,
+							"file": "/Users/amatthews/Dev/hubot-social/node_modules/hubot-scripts/src/scripts/jira-issues.coffee",
 							"settings":
 							{
-								"buffer_size": 16795,
+								"buffer_size": 3326,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										9997,
-										9497
+										478,
+										203
 									]
 								],
 								"settings":
@@ -4157,6 +4044,108 @@
 										"README",
 										"FIXME"
 									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2.0,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5.0,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10.0,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
 									"csslint_options":
 									{
 										"adjoining-classes": "warning",
@@ -4218,6 +4207,7 @@
 									[
 									],
 									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
 									"sublimelinter": true,
 									"sublimelinter_delay": 2.0,
 									"sublimelinter_disable":
@@ -4240,12 +4230,360 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-									"tab_size": 4,
+									"syntax": "Packages/Xavura-CoffeeScript-Sublime-Plugin-f7cc700/CoffeeScript.tmLanguage",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 5091.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"settings":
+							{
+								"buffer_size": 254,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										254,
+										254
+									]
+								],
+								"settings":
+								{
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2.0,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5.0,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10.0,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Xavura-CoffeeScript-Sublime-Plugin-f7cc700/CoffeeScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/amatthews/Dev/hubot-social/package.json",
+							"settings":
+							{
+								"buffer_size": 615,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										516,
+										516
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2.0,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5.0,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10.0,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -4300,7 +4638,7 @@
 			{
 				"height": 122.0
 			},
-			"position": "953 15 948 1154 0 0 1920 1178 ",
+			"position": "481 4 950 874 0 0 1440 878 ",
 			"replace":
 			{
 				"height": 86.0
@@ -4312,516 +4650,516 @@
 				"selected_items":
 				[
 					[
-						"models",
-						"src/emmasocial/models.py"
+						"haters",
+						"node_modules/hubot-scripts/src/scripts/haters.coffee"
 					],
 					[
-						"urls.p",
-						"src/emmasocial/api/urls.py"
+						"grum",
+						"node_modules/hubot-scripts/src/scripts/grumpycat.coffee"
 					],
 					[
-						"views",
-						"src/emmasocial/api/views.py"
+						"nickgen",
+						"node_modules/hubot-scripts/src/scripts/nickgen.coffee"
 					],
 					[
-						"view",
-						"src/emmasocial/views.py"
+						"jira",
+						"node_modules/hubot-scripts/src/scripts/jira-issues.coffee"
 					],
 					[
-						"serializer",
-						"src/emmasocial/api/serializers.py"
+						"scripting",
+						"node_modules/hubot/docs/scripting.md"
 					],
 					[
-						"activ",
-						"src/emmasocial/assets/js/es/src/application.activity.js"
+						"readme",
+						"README.md"
 					],
 					[
-						"actit",
+						"procf",
+						"Procfile"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"consumer",
+						"src/emmasocial/admin/templates/consumers.html"
+					],
+					[
+						"main.html",
+						"src/emmasocial/admin/templates/main.html"
+					],
+					[
+						"base_admin",
+						"src/emmasocial/admin/templates/base_admin.html"
+					],
+					[
+						"activity.html",
 						"src/emmasocial/templates/activity.html"
-					],
-					[
-						"views.",
-						"src/emmasocial/api/views.py"
-					],
-					[
-						"seri",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"index",
-						"index.html"
-					],
-					[
-						"models.",
-						"src/emmasocial/models.py"
-					],
-					[
-						"model",
-						"src/emmasocial/models.py"
-					],
-					[
-						"urls",
-						"src/emmasocial/api/urls.py"
-					],
-					[
-						"main.scs",
-						"src/emmasocial/assets/css/sass/main.scss"
-					],
-					[
-						"utils",
-						"src/emmasocial/assets/js/es/src/application.utils.js"
-					],
-					[
-						"reports",
-						"src/emmasocial/templates/reports.html"
-					],
-					[
-						"moels",
-						"src/emmasocial/models.py"
-					],
-					[
-						"seriali",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"vagrant",
-						"vm/Vagrantfile"
-					],
-					[
-						"fafil",
-						"fabfile.py"
-					],
-					[
-						"activit",
-						"src/emmasocial/templates/activity.html"
-					],
-					[
-						"seria",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"main.css",
-						"src/emmasocial/assets/css/main.css"
-					],
-					[
-						"activity",
-						"src/emmasocial/assets/js/es/src/application.activity.js"
-					],
-					[
-						"reqi",
-						"requirements.txt"
-					],
-					[
-						"activi",
-						"src/emmasocial/templates/activity.html"
-					],
-					[
-						"report",
-						"src/emmasocial/assets/js/es/src/application.reports.js"
-					],
-					[
-						"main.scss",
-						"src/emmasocial/assets/css/sass/main.scss"
-					],
-					[
-						"urls.",
-						"src/emmasocial/api/urls.py"
-					],
-					[
-						"reports.s",
-						"src/emmasocial/assets/css/sass/_reports.scss"
-					],
-					[
-						"base",
-						"src/emmasocial/templates/base_app.html"
-					],
-					[
-						"reports.",
-						"src/emmasocial/assets/js/es/src/application.reports.js"
-					],
-					[
-						"requi",
-						"requirements.txt"
-					],
-					[
-						"mouse",
-						"emmasocial/assets/js/libs/src/mousetrap.js"
-					],
-					[
-						"mixin",
-						"emmasocial/assets/css/sass/_mixins.scss"
-					],
-					[
-						"facebo",
-						"emmasocial/assets/css/libs/token-input-facebook.css"
-					],
-					[
-						"ember",
-						"src/emmasocial/assets/js/libs/src/ember-data-r13.js"
-					],
-					[
-						"core",
-						"src/emmasocial/assets/js/libs/src/core.libs.js"
-					],
-					[
-						"data",
-						"src/emmasocial/assets/js/libs/src/ember-data-r12.js"
-					],
-					[
-						"adapter",
-						"src/emmasocial/assets/js/libs/src/ember-data-adapter.js"
-					],
-					[
-						"ember-da",
-						"src/emmasocial/assets/js/libs/src/ember-data-r13.js"
-					],
-					[
-						"ember-re",
-						"src/emmasocial/assets/js/libs/src/ember-data-serializer.js"
-					],
-					[
-						"test_acct_meta",
-						"src/emmasocial/tests/test_acct_meta.py"
-					],
-					[
-						"serai",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"app.scss",
-						"static/css/app.scss"
-					],
-					[
-						"main",
-						"static/css/main.scss"
-					],
-					[
-						"test",
-						"src/emmasocial/tests/test_utm_tracking_params.py"
-					],
-					[
-						"modls",
-						"src/emmasocial/models.py"
-					],
-					[
-						"test_acc",
-						"src/emmasocial/tests/test_acct_meta.py"
-					],
-					[
-						"fabf",
-						"fabfile.py"
-					],
-					[
-						"__init__",
-						"src/emmasocial/tests/__init__.py"
-					],
-					[
-						"serial",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"0025_",
-						"src/emmasocial/migrations/0025_auto__add_unique_accountmeta_account_key.py"
-					],
-					[
-						"mode",
-						"src/emmasocial/models.py"
-					],
-					[
-						"permissions",
-						"src/emmasocial/api/permissions.py"
-					],
-					[
-						"monk",
-						"src/emmasocial/monkey.py"
-					],
-					[
-						"modes",
-						"src/emmasocial/models.py"
-					],
-					[
-						"view.",
-						"src/emmasocial/views.py"
-					],
-					[
-						"admin.js",
-						"static/js/application.admin.js"
-					],
-					[
-						"login",
-						"templates/admin/login.html"
-					],
-					[
-						"app.",
-						"app.py"
-					],
-					[
-						"require",
-						"requirements.txt"
-					],
-					[
-						"read",
-						"readme.md"
-					],
-					[
-						"settings",
-						"streaming/settings.py"
-					],
-					[
-						"base_ap",
-						"src/emmasocial/templates/base_app.html"
 					],
 					[
 						"base_app",
 						"src/emmasocial/templates/base_app.html"
 					],
 					[
-						"index.html",
-						"src/emmasocial/templates/index.html"
+						"admin.scs",
+						"src/emmasocial/assets/css/sass/admin.scss"
 					],
 					[
-						"tasks",
-						"src/emmasocial/tasks.py"
+						"accounts.html",
+						"src/emmasocial/admin/templates/accounts.html"
 					],
 					[
-						"flood",
-						"src/emmasocial/management/commands/flood_account_growth.py"
+						"proc",
+						"Procfile"
 					],
 					[
-						"06",
-						"sprintdemo/sprint-06.html"
+						"utils.py",
+						"src/emmasocial/facebook/utils.py"
 					],
 					[
-						"processm",
-						"src/emmasocial/management/commands/processmessages.py"
+						"views",
+						"src/emmasocial/api/views.py"
 					],
 					[
-						"manage.",
-						"src/manage.py"
+						"andy",
+						"src/emmasocial/tests/samples/andy.json"
 					],
 					[
-						"process",
-						"src/emmasocial/management/commands/processmessages.py"
+						"vagrant",
+						"vm/Vagrantfile"
 					],
 					[
-						"processmessage",
-						"src/emmasocial/management/commands/processmessages.py"
+						"view",
+						"src/emmasocial/api/views.py"
 					],
 					[
-						"index.",
-						"src/emmasocial/assets/js/es/src/application.index.js"
+						"models",
+						"src/emmasocial/models.py"
 					],
 					[
-						"main.sc",
-						"src/emmasocial/assets/css/sass/main.scss"
+						"utils",
+						"src/emmasocial/facebook/utils.py"
 					],
 					[
-						"bse_app",
-						"src/emmasocial/templates/base_app.html"
+						"activity",
+						"src/emmasocial/assets/js/es/min/application.activity-min.js"
 					],
 					[
-						"views.p",
-						"src/emmasocial/views.py"
-					],
-					[
-						"idnex.",
-						"sprintdemo/plugin/notes-server/index.js"
-					],
-					[
-						"acti",
+						"activi",
 						"src/emmasocial/assets/js/es/src/application.activity.js"
 					],
 					[
-						"fab",
-						"fabfile.py"
-					],
-					[
-						"0023",
-						"src/emmasocial/migrations/0023_auto__add_accountmeta__chg_field_message_message_key.py"
-					],
-					[
-						"account",
-						"src/emmasocial/api/tests/AccountGrowth.py"
-					],
-					[
-						"serali",
-						"src/emmasocial/api/serializers.py"
-					],
-					[
-						"task",
-						"src/emmasocial/tasks.py"
-					],
-					[
-						"base.py",
-						"src/emmasocial/twitter/base.py"
-					],
-					[
-						"accountgr",
-						"src/emmasocial/api/tests/AccountGrowth.py"
-					],
-					[
-						"accountgro",
-						"src/emmasocial/api/tests/AccountGrowth.py"
-					],
-					[
-						"tests",
-						"src/emmasocial/api/tests.py"
-					],
-					[
-						"manage",
-						"src/manage.py"
-					],
-					[
-						"accountmeta.py",
-						"src/emmasocial/migrations/0023_auto__add_accountmeta__chg_field_message_message_key.py"
-					],
-					[
-						"accountgrowth",
-						"src/emmasocial/api/tests/AccountGrowth.py"
+						"views.p",
+						"src/emmasocial/api/views.py"
 					],
 					[
 						"requie",
 						"requirements.txt"
 					],
 					[
+						"serialier",
+						"src/emmasocial/api/serializers.py"
+					],
+					[
+						"views.",
+						"src/emmasocial/api/views.py"
+					],
+					[
+						"utils.js",
+						"src/emmasocial/assets/js/es/src/application.utils.js"
+					],
+					[
+						"activ",
+						"src/emmasocial/assets/js/es/src/application.activity.js"
+					],
+					[
+						"activit",
+						"src/emmasocial/assets/js/es/src/application.activity.js"
+					],
+					[
+						"views.py",
+						"src/emmasocial/api/views.py"
+					],
+					[
+						"settings_local",
+						"src/emmasocial/settings_local.py"
+					],
+					[
+						"urls.py",
+						"src/emmasocial/api/urls.py"
+					],
+					[
+						"consumers",
+						"src/emmasocial/admin/templates/consumers.html"
+					],
+					[
+						"urls.",
+						"src/emmasocial/api/urls.py"
+					],
+					[
+						"view.py",
+						"src/allauth/socialaccount/views.py"
+					],
+					[
+						"consu",
+						"src/emmasocial/admin/templates/consumers.html"
+					],
+					[
+						"index",
+						"src/emmasocial/templates/index.html"
+					],
+					[
+						"index.html",
+						"src/emmasocial/templates/index.html"
+					],
+					[
+						"__init",
+						"src/emmasocial/tests/__init__.py"
+					],
+					[
+						"disconnect",
+						"src/emmasocial/tests/test_connect_disconnect.py"
+					],
+					[
+						"provider.",
+						"src/allauth/socialaccount/providers/facebook/provider.py"
+					],
+					[
+						"provider",
+						"src/allauth/socialaccount/providers/twitter/provider.py"
+					],
+					[
+						"models.",
+						"src/emmasocial/models.py"
+					],
+					[
+						"provider.py",
+						"src/allauth/socialaccount/providers/facebook/provider.py"
+					],
+					[
+						"models.p",
+						"src/emmasocial/models.py"
+					],
+					[
+						"models.py",
+						"src/allauth/socialaccount/models.py"
+					],
+					[
+						"main.scs",
+						"src/emmasocial/assets/css/sass/main.scss"
+					],
+					[
+						"urls.p",
+						"src/emmasocial/urls.py"
+					],
+					[
+						"test_page",
+						"src/emmasocial/tests/test_page_access.py"
+					],
+					[
+						"test_connect",
+						"src/emmasocial/tests/test_connect_disconnect.py"
+					],
+					[
+						"test_",
+						"src/emmasocial/tests/test_page_access.py"
+					],
+					[
+						"acti",
+						"src/emmasocial/assets/js/es/src/application.activity.js"
+					],
+					[
+						"flaskapp",
+						"streaming/flaskapp.py"
+					],
+					[
+						"tasks",
+						"streaming/tasks.py"
+					],
+					[
+						"consuer",
+						"src/emmasocial/admin/templates/consumers.html"
+					],
+					[
+						"test_emmasocial_views.py",
+						"src/emmasocial/tests/test_emmasocial_views.py"
+					],
+					[
+						"test_utils.",
+						"src/emmasocial/tests/test_utils.py"
+					],
+					[
+						"accounts",
+						"src/emmasocial/admin/templates/accounts.html"
+					],
+					[
+						"test",
+						"src/emmasocial/tests/test_page_access.py"
+					],
+					[
+						"utils.",
+						"src/emmasocial/utils.py"
+					],
+					[
+						"decor",
+						"src/emmasocial/admin/decorators.py"
+					],
+					[
+						"urls",
+						"src/emmasocial/admin/urls.py"
+					],
+					[
+						"settings",
+						"src/emmasocial/settings_prod.py"
+					],
+					[
+						"settings_de",
+						"src/emmasocial/settings_dev.py"
+					],
+					[
+						"settings_prod",
+						"src/emmasocial/settings_prod.py"
+					],
+					[
+						"ser",
+						"src/emmasocial/api/serializers.py"
+					],
+					[
+						"serializer",
+						"src/emmasocial/api/serializers.py"
+					],
+					[
+						"serialize",
+						"src/emmasocial/api/serializers.py"
+					],
+					[
 						"serializers",
 						"src/emmasocial/api/serializers.py"
 					],
 					[
-						"sche",
-						"src/emmasocial/schedule.py"
-					],
-					[
-						"utils.",
-						"src/emmasocial/assets/js/es/src/application.utils.js"
-					],
-					[
-						"token",
-						"src/emmasocial/assets/js/libs/src/jquery.tokeninput.js"
-					],
-					[
-						"basey",
-						"src/emmasocial/twitter/base.py"
-					],
-					[
-						"loca",
-						"src/emmasocial/local_settings.py"
-					],
-					[
-						"act",
-						"src/emmasocial/templates/activity.html"
-					],
-					[
-						"xh",
-						"src/emmasocial/assets/js/libs/src/xcharts.js"
-					],
-					[
-						"xchart",
-						"src/emmasocial/assets/js/libs/min/xcharts-min.js"
-					],
-					[
-						"prep",
-						"src/emmasocial/assets/js/libs/src/preparetransition.js"
-					],
-					[
-						"ember-core",
-						"src/emmasocial/assets/js/libs/src/ember-core-files.js"
-					],
-					[
-						"repot",
-						"src/emmasocial/templates/reports.html"
-					],
-					[
-						"message",
-						"src/emmasocial/templates/message.html"
-					],
-					[
-						"modrn",
-						"src/emmasocial/assets/js/libs/modernizr-2.5.3-min.js"
-					],
-					[
-						"20121105125424_assets_rewrite_pre_implementation.sql",
-						"python/emma/schema_changes/20121105125424_assets_rewrite_pre_implementation.sql"
-					],
-					[
-						"social",
-						"python/emma/apps/social/templates/social_app.html"
-					],
-					[
-						"sprint",
-						"sprintdemo/sprint-05.html"
-					],
-					[
-						"utils.js",
-						"src/emmasocial/assets/js/utils.js"
-					],
-					[
-						"app",
-						"app.js"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"ap.s",
-						"app.js"
-					],
-					[
-						"download",
-						"routes/download.js"
-					],
-					[
-						"req",
+						"require",
 						"requirements.txt"
 					],
 					[
+						"settings_loca",
+						"src/emmasocial/settings_local.py"
+					],
+					[
+						"prod",
+						"src/emmasocial/settings_prod.py"
+					],
+					[
+						"dev",
+						"src/emmasocial/settings_dev.py"
+					],
+					[
+						"local.p",
+						"src/emmasocial/settings_local.py"
+					],
+					[
+						"admin_bas",
+						"src/emmasocial/templates/admin_base.html"
+					],
+					[
+						"_emma",
+						"src/emmasocial/assets/css/sass/_emmaicons.scss"
+					],
+					[
+						"main.scss",
+						"src/emmasocial/assets/css/sass/main.scss"
+					],
+					[
+						"admin.html",
+						"src/emmasocial/templates/admin.html"
+					],
+					[
+						"api/views.py",
+						"src/emmasocial/api/views.py"
+					],
+					[
+						"main.py",
+						"src/seleniumtests/main.py"
+					],
+					[
+						"seleniumtests",
+						"src/seleniumtests/tests/__init__.py"
+					],
+					[
+						"manage.py",
+						"src/manage.py"
+					],
+					[
+						"manage",
+						"src/manage.py"
+					],
+					[
 						"local",
-						"src/emmasocial/local_settings.py"
+						"src/emmasocial/settings_local.py"
 					],
 					[
-						"settings.",
-						"src/emmasocial/settings.py"
+						"fab",
+						"fabfile.py"
 					],
 					[
-						"__init",
-						"src/emmasocial/middleware/__init__.py"
+						"settings_",
+						"src/emmasocial/settings_dev.py"
 					],
 					[
-						"twitter",
-						"src/emmasocial/twitter/base.py"
+						"big.css",
+						"css/big.css"
 					],
 					[
-						"aci",
-						"src/emmasocial/assets/css/libs/token-input-facebook.css"
+						"big.",
+						"js/big.js"
 					],
 					[
-						"util",
-						"src/emmasocial/assets/js/utils.js"
+						"cusom",
+						"css/custom.css"
 					],
 					[
-						"serializ",
-						"src/emmasocial/api/serializers.py"
+						"css",
+						"css/big.css"
 					],
 					[
-						"csrf",
-						"src/emmasocial/assets/js/libs/django-ajax-csrf.js"
+						"header",
+						"b/includes/header.php"
 					],
 					[
-						"jquery",
-						"src/emmasocial/assets/js/libs/jquery-1.9.1.min.js"
+						"login",
+						"b/login.php"
 					],
 					[
-						"spin",
-						"src/emmasocial/assets/js/libs/spin.min.js"
+						"home",
+						"b/home.php"
 					],
 					[
-						"tokenin",
-						"src/emmasocial/assets/js/libs/jquery.tokeninput.js"
+						"details",
+						"details.php"
 					],
 					[
-						"utili",
-						"src/emmasocial/assets/js/utilities.js"
+						"services",
+						"services.php"
+					],
+					[
+						"book",
+						"book.php"
+					],
+					[
+						"custom",
+						"css/custom.css"
+					],
+					[
+						"home.php",
+						"home.php"
+					],
+					[
+						"flat",
+						"css/jquery.mobile.flatui.css"
+					],
+					[
+						"unicorn",
+						"unicorn/html/css/unicorn.fastbook.css"
+					],
+					[
+						"booking",
+						"b/bookings.php"
+					],
+					[
+						"home.",
+						"home.php"
+					],
+					[
+						"includes",
+						"b/includes/footer.php"
+					],
+					[
+						"style",
+						"css/style.css"
+					],
+					[
+						"js",
+						"js/app.js"
+					],
+					[
+						"indet",
+						"index.html"
+					],
+					[
+						"aplicat",
+						"js/Application.js"
+					],
+					[
+						"application",
+						"js/Application.js"
+					],
+					[
+						"footer",
+						"code/footer.cfm"
+					],
+					[
+						".js",
+						"v1/js/site.js"
+					],
+					[
+						"applicat",
+						"Application.cfm"
+					],
+					[
+						"jr",
+						"com/jrnl/jrnl.cfc"
+					],
+					[
+						"faq",
+						"faq.php"
+					],
+					[
+						"css/jquery.mobile.flatui.css",
+						"css/jquery.mobile.flatui.css"
+					],
+					[
+						"location",
+						"location.php"
+					],
+					[
+						"jquery.mobile.flatui.css",
+						"css/jquery.mobile.flatui.css"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						"remote",
+						"Connections/remote.dataConn.php"
+					],
+					[
+						"dataconn",
+						"Connections/dataConn.php"
+					],
+					[
+						"function",
+						"functions.php"
+					],
+					[
+						"reports.js",
+						"src/emmasocial/assets/js/es/src/application.reports.js"
+					],
+					[
+						"reports",
+						"src/emmasocial/templates/reports.html"
+					],
+					[
+						"flood",
+						"src/emmasocial/management/commands/flood_account_engagement.py"
+					],
+					[
+						"vagra",
+						"vm/Vagrantfile"
+					],
+					[
+						"34",
+						"src/emmasocial/migrations/0034_auto__del_tag__add_field_message_campaign__chg_field_message_message_k.py"
 					]
 				],
 				"width": 0.0
@@ -4838,9 +5176,9 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 249.0,
+			"side_bar_width": 228.0,
 			"status_bar_visible": true,
-			"window_id": 1947,
+			"window_id": 2046,
 			"workspace_name": ""
 		}
 	],
